@@ -1,0 +1,5025 @@
+
+##### rram32x32 leolee write#####
+
+[Info] [WRITE_COUPLE]     0        0    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     0        0    1.010V   154.4UA 
+[Info] [IRD_SL]     0        0    1.020V   153.8UA 
+[Info] [IRD_SL]     0        0    1.030V   157.6UA 
+[Info] [IRD_SL]     0        0    1.040V   162.2UA 
+[Info] [IRD_SL]     0        0    1.050V   170.9UA 
+[Info] [IRD_SL]     0        0    1.060V   180.7UA 
+[Info] [IRD_SL]     0        0    1.070V   193.3UA 
+[Info] [IRD_SL]     0        0    1.080V   206.0UA 
+[Info] [IRD_SL]     0        0    1.090V   216.0UA 
+[Info] [IRD_SL]     0        0    1.100V   224.0UA 
+[Info] [IRD_SL]     0        0    1.110V   234.8UA 
+[Info] [IRD_SL]     0        0    1.111V   242.4UA 
+[Info] [IRD_SL]     0        0    1.112V   254.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     0        4    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     0        4    1.010V   161.0UA 
+[Info] [IRD_SL]     0        4    1.020V   166.2UA 
+[Info] [IRD_SL]     0        4    1.030V   171.3UA 
+[Info] [IRD_SL]     0        4    1.040V   170.9UA 
+[Info] [IRD_SL]     0        4    1.050V   177.3UA 
+[Info] [IRD_SL]     0        4    1.060V   183.8UA 
+[Info] [IRD_SL]     0        4    1.070V   185.5UA 
+[Info] [IRD_SL]     0        4    1.080V   192.4UA 
+[Info] [IRD_SL]     0        4    1.090V   198.8UA 
+[Info] [IRD_SL]     0        4    1.100V   203.2UA 
+[Info] [IRD_SL]     0        4    1.110V   208.4UA 
+[Info] [IRD_SL]     0        4    1.120V   214.0UA 
+[Info] [IRD_SL]     0        4    1.130V   218.0UA 
+[Info] [IRD_SL]     0        4    1.140V   227.6UA 
+[Info] [IRD_SL]     0        4    1.141V   241.6UA 
+[Info] [IRD_SL]     0        4    1.142V   249.2UA 
+[Info] [IRD_SL]     0        4    1.143V   252.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     0        8    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     0        8    1.010V   175.8UA 
+[Info] [IRD_SL]     0        8    1.020V   179.9UA 
+[Info] [IRD_SL]     0        8    1.030V   184.6UA 
+[Info] [IRD_SL]     0        8    1.040V   190.6UA 
+[Info] [IRD_SL]     0        8    1.050V   193.2UA 
+[Info] [IRD_SL]     0        8    1.060V   197.3UA 
+[Info] [IRD_SL]     0        8    1.070V   202.8UA 
+[Info] [IRD_SL]     0        8    1.080V   208.0UA 
+[Info] [IRD_SL]     0        8    1.090V   213.2UA 
+[Info] [IRD_SL]     0        8    1.100V   219.6UA 
+[Info] [IRD_SL]     0        8    1.110V   222.4UA 
+[Info] [IRD_SL]     0        8    1.120V   229.2UA 
+[Info] [IRD_SL]     0        8    1.121V   231.6UA 
+[Info] [IRD_SL]     0        8    1.122V   232.0UA 
+[Info] [IRD_SL]     0        8    1.123V   232.4UA 
+[Info] [IRD_SL]     0        8    1.124V   237.6UA 
+[Info] [IRD_SL]     0        8    1.125V   235.2UA 
+[Info] [IRD_SL]     0        8    1.126V   240.0UA 
+[Info] [IRD_SL]     0        8    1.127V   243.6UA 
+[Info] [IRD_SL]     0        8    1.128V   241.2UA 
+[Info] [IRD_SL]     0        8    1.129V   244.0UA 
+[Info] [IRD_SL]     0        8    1.130V   244.4UA 
+[Info] [IRD_SL]     0        8    1.131V   245.6UA 
+[Info] [IRD_SL]     0        8    1.132V   246.0UA 
+[Info] [IRD_SL]     0        8    1.133V   248.4UA 
+[Info] [IRD_SL]     0        8    1.134V   250.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     0       12    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     0       12    1.010V   189.1UA 
+[Info] [IRD_SL]     0       12    1.020V   193.9UA 
+[Info] [IRD_SL]     0       12    1.030V   199.3UA 
+[Info] [IRD_SL]     0       12    1.040V   204.4UA 
+[Info] [IRD_SL]     0       12    1.050V   207.6UA 
+[Info] [IRD_SL]     0       12    1.060V   212.8UA 
+[Info] [IRD_SL]     0       12    1.070V   218.4UA 
+[Info] [IRD_SL]     0       12    1.080V   226.4UA 
+[Info] [IRD_SL]     0       12    1.081V   231.6UA 
+[Info] [IRD_SL]     0       12    1.082V   236.8UA 
+[Info] [IRD_SL]     0       12    1.083V   240.8UA 
+[Info] [IRD_SL]     0       12    1.084V   244.4UA 
+[Info] [IRD_SL]     0       12    1.085V   243.2UA 
+[Info] [IRD_SL]     0       12    1.086V   247.6UA 
+[Info] [IRD_SL]     0       12    1.087V   249.2UA 
+[Info] [IRD_SL]     0       12    1.088V   250.0UA 
+[Info] [IRD_SL]     0       12    1.089V   254.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     0       16    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     0       16    1.010V   177.4UA 
+[Info] [IRD_SL]     0       16    1.020V   183.6UA 
+[Info] [IRD_SL]     0       16    1.030V   192.3UA 
+[Info] [IRD_SL]     0       16    1.040V   200.0UA 
+[Info] [IRD_SL]     0       16    1.050V   206.0UA 
+[Info] [IRD_SL]     0       16    1.060V   212.8UA 
+[Info] [IRD_SL]     0       16    1.070V   218.8UA 
+[Info] [IRD_SL]     0       16    1.080V   225.6UA 
+[Info] [IRD_SL]     0       16    1.081V   228.4UA 
+[Info] [IRD_SL]     0       16    1.082V   233.2UA 
+[Info] [IRD_SL]     0       16    1.083V   234.0UA 
+[Info] [IRD_SL]     0       16    1.084V   236.0UA 
+[Info] [IRD_SL]     0       16    1.085V   238.8UA 
+[Info] [IRD_SL]     0       16    1.086V   240.4UA 
+[Info] [IRD_SL]     0       16    1.087V   241.2UA 
+[Info] [IRD_SL]     0       16    1.088V   243.2UA 
+[Info] [IRD_SL]     0       16    1.089V   244.0UA 
+[Info] [IRD_SL]     0       16    1.090V   245.2UA 
+[Info] [IRD_SL]     0       16    1.091V   246.4UA 
+[Info] [IRD_SL]     0       16    1.092V   247.6UA 
+[Info] [IRD_SL]     0       16    1.093V   248.0UA 
+[Info] [IRD_SL]     0       16    1.094V   249.6UA 
+[Info] [IRD_SL]     0       16    1.095V   250.0UA 
+[Info] [IRD_SL]     0       16    1.096V   248.8UA 
+[Info] [IRD_SL]     0       16    1.097V   251.6UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     0       20    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     0       20    1.010V   125.1UA 
+[Info] [IRD_SL]     0       20    1.020V   127.0UA 
+[Info] [IRD_SL]     0       20    1.030V   140.8UA 
+[Info] [IRD_SL]     0       20    1.040V   133.5UA 
+[Info] [IRD_SL]     0       20    1.050V   154.3UA 
+[Info] [IRD_SL]     0       20    1.060V   157.0UA 
+[Info] [IRD_SL]     0       20    1.070V   159.5UA 
+[Info] [IRD_SL]     0       20    1.080V   167.2UA 
+[Info] [IRD_SL]     0       20    1.090V   168.1UA 
+[Info] [IRD_SL]     0       20    1.100V   174.8UA 
+[Info] [IRD_SL]     0       20    1.110V   171.0UA 
+[Info] [IRD_SL]     0       20    1.120V   174.2UA 
+[Info] [IRD_SL]     0       20    1.130V   171.3UA 
+[Info] [IRD_SL]     0       20    1.140V   166.3UA 
+[Info] [IRD_SL]     0       20    1.141V   169.3UA 
+[Info] [IRD_SL]     0       20    1.142V   171.6UA 
+[Info] [IRD_SL]     0       20    1.143V   171.7UA 
+[Info] [IRD_SL]     0       20    1.144V   173.4UA 
+[Info] [IRD_SL]     0       20    1.145V   176.0UA 
+[Info] [IRD_SL]     0       20    1.146V   172.4UA 
+[Info] [IRD_SL]     0       20    1.147V   179.0UA 
+[Info] [IRD_SL]     0       20    1.148V   180.6UA 
+[Info] [IRD_SL]     0       20    1.149V   184.9UA 
+[Info] [IRD_SL]     0       20    1.150V   183.2UA 
+[Info] [IRD_SL]     0       20    1.151V   189.8UA 
+[Info] [IRD_SL]     0       20    1.152V   194.9UA 
+[Info] [IRD_SL]     0       20    1.153V   197.1UA 
+[Info] [IRD_SL]     0       20    1.154V   207.2UA 
+[Info] [IRD_SL]     0       20    1.155V   213.2UA 
+[Info] [IRD_SL]     0       20    1.156V   213.2UA 
+[Info] [IRD_SL]     0       20    1.157V   223.6UA 
+[Info] [IRD_SL]     0       20    1.158V   230.4UA 
+[Info] [IRD_SL]     0       20    1.159V   232.8UA 
+[Info] [IRD_SL]     0       20    1.160V   236.0UA 
+[Info] [IRD_SL]     0       20    1.161V   237.2UA 
+[Info] [IRD_SL]     0       20    1.162V   237.6UA 
+[Info] [IRD_SL]     0       20    1.163V   242.8UA 
+[Info] [IRD_SL]     0       20    1.164V   243.6UA 
+[Info] [IRD_SL]     0       20    1.165V   246.8UA 
+[Info] [IRD_SL]     0       20    1.166V   247.6UA 
+[Info] [IRD_SL]     0       20    1.167V   245.2UA 
+[Info] [IRD_SL]     0       20    1.168V   249.2UA 
+[Info] [IRD_SL]     0       20    1.169V   253.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     0       24    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     0       24    1.010V   220.8UA 
+[Info] [IRD_SL]     0       24    1.020V   233.2UA 
+[Info] [IRD_SL]     0       24    1.021V   244.0UA 
+[Info] [IRD_SL]     0       24    1.022V   250.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     0       28    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     0       28    1.010V   192.3UA 
+[Info] [IRD_SL]     0       28    1.020V   199.0UA 
+[Info] [IRD_SL]     0       28    1.030V   209.2UA 
+[Info] [IRD_SL]     0       28    1.040V   211.2UA 
+[Info] [IRD_SL]     0       28    1.050V   217.2UA 
+[Info] [IRD_SL]     0       28    1.060V   222.8UA 
+[Info] [IRD_SL]     0       28    1.070V   228.4UA 
+[Info] [IRD_SL]     0       28    1.071V   228.8UA 
+[Info] [IRD_SL]     0       28    1.072V   233.2UA 
+[Info] [IRD_SL]     0       28    1.073V   239.6UA 
+[Info] [IRD_SL]     0       28    1.074V   239.6UA 
+[Info] [IRD_SL]     0       28    1.075V   242.4UA 
+[Info] [IRD_SL]     0       28    1.076V   243.6UA 
+[Info] [IRD_SL]     0       28    1.077V   246.0UA 
+[Info] [IRD_SL]     0       28    1.078V   246.4UA 
+[Info] [IRD_SL]     0       28    1.079V   246.0UA 
+[Info] [IRD_SL]     0       28    1.080V   247.6UA 
+[Info] [IRD_SL]     0       28    1.081V   248.0UA 
+[Info] [IRD_SL]     0       28    1.082V   251.6UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     4        0    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     4        0    1.010V   159.3UA 
+[Info] [IRD_SL]     4        0    1.020V   168.0UA 
+[Info] [IRD_SL]     4        0    1.030V   173.2UA 
+[Info] [IRD_SL]     4        0    1.040V   169.1UA 
+[Info] [IRD_SL]     4        0    1.050V   182.0UA 
+[Info] [IRD_SL]     4        0    1.060V   182.5UA 
+[Info] [IRD_SL]     4        0    1.070V   187.9UA 
+[Info] [IRD_SL]     4        0    1.080V   188.7UA 
+[Info] [IRD_SL]     4        0    1.090V   194.3UA 
+[Info] [IRD_SL]     4        0    1.100V   194.2UA 
+[Info] [IRD_SL]     4        0    1.110V   198.8UA 
+[Info] [IRD_SL]     4        0    1.120V   204.8UA 
+[Info] [IRD_SL]     4        0    1.130V   204.0UA 
+[Info] [IRD_SL]     4        0    1.140V   206.8UA 
+[Info] [IRD_SL]     4        0    1.141V   214.0UA 
+[Info] [IRD_SL]     4        0    1.142V   218.8UA 
+[Info] [IRD_SL]     4        0    1.143V   225.2UA 
+[Info] [IRD_SL]     4        0    1.144V   222.8UA 
+[Info] [IRD_SL]     4        0    1.145V   225.2UA 
+[Info] [IRD_SL]     4        0    1.146V   224.0UA 
+[Info] [IRD_SL]     4        0    1.147V   228.0UA 
+[Info] [IRD_SL]     4        0    1.148V   229.2UA 
+[Info] [IRD_SL]     4        0    1.149V   231.6UA 
+[Info] [IRD_SL]     4        0    1.150V   229.2UA 
+[Info] [IRD_SL]     4        0    1.151V   228.4UA 
+[Info] [IRD_SL]     4        0    1.152V   229.6UA 
+[Info] [IRD_SL]     4        0    1.153V   233.6UA 
+[Info] [IRD_SL]     4        0    1.154V   237.6UA 
+[Info] [IRD_SL]     4        0    1.155V   235.2UA 
+[Info] [IRD_SL]     4        0    1.156V   236.4UA 
+[Info] [IRD_SL]     4        0    1.157V   234.4UA 
+[Info] [IRD_SL]     4        0    1.158V   239.2UA 
+[Info] [IRD_SL]     4        0    1.159V   236.0UA 
+[Info] [IRD_SL]     4        0    1.160V   235.2UA 
+[Info] [IRD_SL]     4        0    1.161V   237.2UA 
+[Info] [IRD_SL]     4        0    1.162V   239.2UA 
+[Info] [IRD_SL]     4        0    1.163V   238.4UA 
+[Info] [IRD_SL]     4        0    1.164V   238.0UA 
+[Info] [IRD_SL]     4        0    1.165V   239.6UA 
+[Info] [IRD_SL]     4        0    1.166V   241.6UA 
+[Info] [IRD_SL]     4        0    1.167V   242.4UA 
+[Info] [IRD_SL]     4        0    1.168V   245.2UA 
+[Info] [IRD_SL]     4        0    1.169V   241.2UA 
+[Info] [IRD_SL]     4        0    1.170V   240.8UA 
+[Info] [IRD_SL]     4        0    1.171V   241.2UA 
+[Info] [IRD_SL]     4        0    1.172V   245.6UA 
+[Info] [IRD_SL]     4        0    1.173V   243.6UA 
+[Info] [IRD_SL]     4        0    1.174V   245.6UA 
+[Info] [IRD_SL]     4        0    1.175V   246.0UA 
+[Info] [IRD_SL]     4        0    1.176V   240.8UA 
+[Info] [IRD_SL]     4        0    1.177V   244.4UA 
+[Info] [IRD_SL]     4        0    1.178V   244.8UA 
+[Info] [IRD_SL]     4        0    1.179V   245.6UA 
+[Info] [IRD_SL]     4        0    1.180V   246.0UA 
+[Info] [IRD_SL]     4        0    1.181V   246.0UA 
+[Info] [IRD_SL]     4        0    1.182V   247.2UA 
+[Info] [IRD_SL]     4        0    1.183V   247.2UA 
+[Info] [IRD_SL]     4        0    1.184V   246.4UA 
+[Info] [IRD_SL]     4        0    1.185V   248.8UA 
+[Info] [IRD_SL]     4        0    1.186V   248.0UA 
+[Info] [IRD_SL]     4        0    1.187V   248.0UA 
+[Info] [IRD_SL]     4        0    1.188V   246.4UA 
+[Info] [IRD_SL]     4        0    1.189V   250.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     4        4    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     4        4    1.010V   157.8UA 
+[Info] [IRD_SL]     4        4    1.020V   161.8UA 
+[Info] [IRD_SL]     4        4    1.030V   166.8UA 
+[Info] [IRD_SL]     4        4    1.040V   174.1UA 
+[Info] [IRD_SL]     4        4    1.050V   177.9UA 
+[Info] [IRD_SL]     4        4    1.060V   182.5UA 
+[Info] [IRD_SL]     4        4    1.070V   186.6UA 
+[Info] [IRD_SL]     4        4    1.080V   191.4UA 
+[Info] [IRD_SL]     4        4    1.090V   197.6UA 
+[Info] [IRD_SL]     4        4    1.100V   203.2UA 
+[Info] [IRD_SL]     4        4    1.110V   206.8UA 
+[Info] [IRD_SL]     4        4    1.120V   211.2UA 
+[Info] [IRD_SL]     4        4    1.130V   214.8UA 
+[Info] [IRD_SL]     4        4    1.140V   219.6UA 
+[Info] [IRD_SL]     4        4    1.141V   225.2UA 
+[Info] [IRD_SL]     4        4    1.142V   228.0UA 
+[Info] [IRD_SL]     4        4    1.143V   230.4UA 
+[Info] [IRD_SL]     4        4    1.144V   232.8UA 
+[Info] [IRD_SL]     4        4    1.145V   237.2UA 
+[Info] [IRD_SL]     4        4    1.146V   235.2UA 
+[Info] [IRD_SL]     4        4    1.147V   244.0UA 
+[Info] [IRD_SL]     4        4    1.148V   251.6UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     4        8    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     4        8    1.010V   146.4UA 
+[Info] [IRD_SL]     4        8    1.020V   150.0UA 
+[Info] [IRD_SL]     4        8    1.030V   151.7UA 
+[Info] [IRD_SL]     4        8    1.040V   158.4UA 
+[Info] [IRD_SL]     4        8    1.050V   159.1UA 
+[Info] [IRD_SL]     4        8    1.060V   162.4UA 
+[Info] [IRD_SL]     4        8    1.070V   166.0UA 
+[Info] [IRD_SL]     4        8    1.080V   168.6UA 
+[Info] [IRD_SL]     4        8    1.090V   173.4UA 
+[Info] [IRD_SL]     4        8    1.100V   180.9UA 
+[Info] [IRD_SL]     4        8    1.110V   203.2UA 
+[Info] [IRD_SL]     4        8    1.120V   236.4UA 
+[Info] [IRD_SL]     4        8    1.121V   242.4UA 
+[Info] [IRD_SL]     4        8    1.122V   244.0UA 
+[Info] [IRD_SL]     4        8    1.123V   247.6UA 
+[Info] [IRD_SL]     4        8    1.124V   250.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     4       12    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     4       12    1.010V   169.4UA 
+[Info] [IRD_SL]     4       12    1.020V   175.2UA 
+[Info] [IRD_SL]     4       12    1.030V   181.5UA 
+[Info] [IRD_SL]     4       12    1.040V   191.0UA 
+[Info] [IRD_SL]     4       12    1.050V   204.8UA 
+[Info] [IRD_SL]     4       12    1.060V   214.4UA 
+[Info] [IRD_SL]     4       12    1.070V   225.2UA 
+[Info] [IRD_SL]     4       12    1.071V   228.8UA 
+[Info] [IRD_SL]     4       12    1.072V   234.4UA 
+[Info] [IRD_SL]     4       12    1.073V   237.2UA 
+[Info] [IRD_SL]     4       12    1.074V   243.2UA 
+[Info] [IRD_SL]     4       12    1.075V   246.8UA 
+[Info] [IRD_SL]     4       12    1.076V   248.0UA 
+[Info] [IRD_SL]     4       12    1.077V   248.0UA 
+[Info] [IRD_SL]     4       12    1.078V   249.2UA 
+[Info] [IRD_SL]     4       12    1.079V   252.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     4       16    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     4       16    1.010V   4.360UA 
+[Info] [IRD_SL]     4       16    1.020V   5.320UA 
+[Info] [IRD_SL]     4       16    1.030V   2.984UA 
+[Info] [IRD_SL]     4       16    1.040V   6.276UA 
+[Info] [IRD_SL]     4       16    1.050V   5.276UA 
+[Info] [IRD_SL]     4       16    1.060V   4.896UA 
+[Info] [IRD_SL]     4       16    1.070V   5.072UA 
+[Info] [IRD_SL]     4       16    1.080V   6.388UA 
+[Info] [IRD_SL]     4       16    1.090V   7.988UA 
+[Info] [IRD_SL]     4       16    1.100V   7.256UA 
+[Info] [IRD_SL]     4       16    1.110V   7.312UA 
+[Info] [IRD_SL]     4       16    1.120V   10.22UA 
+[Info] [IRD_SL]     4       16    1.130V   10.05UA 
+[Info] [IRD_SL]     4       16    1.140V   10.86UA 
+[Info] [IRD_SL]     4       16    1.141V   13.61UA 
+[Info] [IRD_SL]     4       16    1.142V   15.24UA 
+[Info] [IRD_SL]     4       16    1.143V   17.48UA 
+[Info] [IRD_SL]     4       16    1.144V   17.66UA 
+[Info] [IRD_SL]     4       16    1.145V   19.94UA 
+[Info] [IRD_SL]     4       16    1.146V   15.28UA 
+[Info] [IRD_SL]     4       16    1.147V   17.73UA 
+[Info] [IRD_SL]     4       16    1.148V   19.24UA 
+[Info] [IRD_SL]     4       16    1.149V   23.32UA 
+[Info] [IRD_SL]     4       16    1.150V   23.00UA 
+[Info] [IRD_SL]     4       16    1.151V   30.76UA 
+[Info] [IRD_SL]     4       16    1.152V   21.60UA 
+[Info] [IRD_SL]     4       16    1.153V   32.56UA 
+[Info] [IRD_SL]     4       16    1.154V   29.96UA 
+[Info] [IRD_SL]     4       16    1.155V   27.08UA 
+[Info] [IRD_SL]     4       16    1.156V   34.64UA 
+[Info] [IRD_SL]     4       16    1.157V   30.48UA 
+[Info] [IRD_SL]     4       16    1.158V   39.96UA 
+[Info] [IRD_SL]     4       16    1.159V   40.20UA 
+[Info] [IRD_SL]     4       16    1.160V   46.52UA 
+[Info] [IRD_SL]     4       16    1.161V   44.88UA 
+[Info] [IRD_SL]     4       16    1.162V   48.00UA 
+[Info] [IRD_SL]     4       16    1.163V   40.84UA 
+[Info] [IRD_SL]     4       16    1.164V   50.24UA 
+[Info] [IRD_SL]     4       16    1.165V   49.08UA 
+[Info] [IRD_SL]     4       16    1.166V   65.04UA 
+[Info] [IRD_SL]     4       16    1.167V   54.76UA 
+[Info] [IRD_SL]     4       16    1.168V   60.52UA 
+[Info] [IRD_SL]     4       16    1.169V   56.48UA 
+[Info] [IRD_SL]     4       16    1.170V   57.20UA 
+[Info] [IRD_SL]     4       16    1.171V   60.68UA 
+[Info] [IRD_SL]     4       16    1.172V   60.84UA 
+[Info] [IRD_SL]     4       16    1.173V   55.08UA 
+[Info] [IRD_SL]     4       16    1.174V   59.08UA 
+[Info] [IRD_SL]     4       16    1.175V   66.36UA 
+[Info] [IRD_SL]     4       16    1.176V   57.32UA 
+[Info] [IRD_SL]     4       16    1.177V   64.68UA 
+[Info] [IRD_SL]     4       16    1.178V   66.56UA 
+[Info] [IRD_SL]     4       16    1.179V   73.52UA 
+[Info] [IRD_SL]     4       16    1.180V   74.16UA 
+[Info] [IRD_SL]     4       16    1.181V   79.00UA 
+[Info] [IRD_SL]     4       16    1.182V   72.24UA 
+[Info] [IRD_SL]     4       16    1.183V   71.72UA 
+[Info] [IRD_SL]     4       16    1.184V   76.80UA 
+[Info] [IRD_SL]     4       16    1.185V   70.92UA 
+[Info] [IRD_SL]     4       16    1.186V   79.04UA 
+[Info] [IRD_SL]     4       16    1.187V   62.52UA 
+[Info] [IRD_SL]     4       16    1.188V   73.08UA 
+[Info] [IRD_SL]     4       16    1.189V   74.92UA 
+[Info] [IRD_SL]     4       16    1.190V   82.72UA 
+[Info] [IRD_SL]     4       16    1.191V   82.64UA 
+[Info] [IRD_SL]     4       16    1.192V   92.68UA 
+[Info] [IRD_SL]     4       16    1.193V   89.76UA 
+[Info] [IRD_SL]     4       16    1.194V   98.88UA 
+[Info] [IRD_SL]     4       16    1.195V   86.56UA 
+[Info] [IRD_SL]     4       16    1.196V   95.24UA 
+[Info] [IRD_SL]     4       16    1.197V   86.04UA 
+[Info] [IRD_SL]     4       16    1.198V   91.96UA 
+[Info] [IRD_SL]     4       16    1.199V   101.0UA 
+[Info] [IRD_SL]     4       16    1.200V   94.08UA 
+[Info] [IRD_SL]     4       16    1.201V   92.16UA 
+[Info] [IRD_SL]     4       16    1.202V   92.36UA 
+[Info] [IRD_SL]     4       16    1.203V   99.60UA 
+[Info] [IRD_SL]     4       16    1.204V   91.56UA 
+[Info] [IRD_SL]     4       16    1.205V   99.12UA 
+[Info] [IRD_SL]     4       16    1.206V   102.7UA 
+[Info] [IRD_SL]     4       16    1.207V   96.64UA 
+[Info] [IRD_SL]     4       16    1.208V   98.12UA 
+[Info] [IRD_SL]     4       16    1.209V   107.2UA 
+[Info] [IRD_SL]     4       16    1.210V   102.7UA 
+[Info] [IRD_SL]     4       16    1.211V   104.2UA 
+[Info] [IRD_SL]     4       16    1.212V   101.0UA 
+[Info] [IRD_SL]     4       16    1.213V   109.1UA 
+[Info] [IRD_SL]     4       16    1.214V   106.8UA 
+[Info] [IRD_SL]     4       16    1.215V   115.6UA 
+[Info] [IRD_SL]     4       16    1.216V   105.9UA 
+[Info] [IRD_SL]     4       16    1.217V   124.3UA 
+[Info] [IRD_SL]     4       16    1.218V   108.7UA 
+[Info] [IRD_SL]     4       16    1.219V   115.2UA 
+[Info] [IRD_SL]     4       16    1.220V   124.3UA 
+[Info] [IRD_SL]     4       16    1.221V   120.2UA 
+[Info] [IRD_SL]     4       16    1.222V   111.7UA 
+[Info] [IRD_SL]     4       16    1.223V   119.5UA 
+[Info] [IRD_SL]     4       16    1.224V   112.0UA 
+[Info] [IRD_SL]     4       16    1.225V   115.9UA 
+[Info] [IRD_SL]     4       16    1.226V   114.2UA 
+[Info] [IRD_SL]     4       16    1.227V   134.6UA 
+[Info] [IRD_SL]     4       16    1.228V   117.2UA 
+[Info] [IRD_SL]     4       16    1.229V   119.2UA 
+[Info] [IRD_SL]     4       16    1.230V   120.6UA 
+[Info] [IRD_SL]     4       16    1.231V   129.0UA 
+[Info] [IRD_SL]     4       16    1.232V   133.8UA 
+[Info] [IRD_SL]     4       16    1.233V   134.0UA 
+[Info] [IRD_SL]     4       16    1.234V   137.0UA 
+[Info] [IRD_SL]     4       16    1.235V   135.1UA 
+[Info] [IRD_SL]     4       16    1.236V   141.3UA 
+[Info] [IRD_SL]     4       16    1.237V   152.2UA 
+[Info] [IRD_SL]     4       16    1.238V   135.2UA 
+[Info] [IRD_SL]     4       16    1.239V   133.1UA 
+[Info] [IRD_SL]     4       16    1.240V   127.6UA 
+[Info] [IRD_SL]     4       16    1.241V   133.4UA 
+[Info] [IRD_SL]     4       16    1.242V   139.6UA 
+[Info] [IRD_SL]     4       16    1.243V   131.2UA 
+[Info] [IRD_SL]     4       16    1.244V   128.0UA 
+[Info] [IRD_SL]     4       16    1.245V   149.8UA 
+[Info] [IRD_SL]     4       16    1.246V   148.8UA 
+[Info] [IRD_SL]     4       16    1.247V   136.3UA 
+[Info] [IRD_SL]     4       16    1.248V   144.6UA 
+[Info] [IRD_SL]     4       16    1.249V   156.4UA 
+[Info] [IRD_SL]     4       16    1.250V   159.4UA 
+[Info] [IRD_SL]     4       16    1.251V   154.8UA 
+[Info] [IRD_SL]     4       16    1.252V   155.5UA 
+[Info] [IRD_SL]     4       16    1.253V   151.4UA 
+[Info] [IRD_SL]     4       16    1.254V   149.0UA 
+[Info] [IRD_SL]     4       16    1.255V   162.2UA 
+[Info] [IRD_SL]     4       16    1.256V   164.0UA 
+[Info] [IRD_SL]     4       16    1.257V   158.8UA 
+[Info] [IRD_SL]     4       16    1.258V   166.7UA 
+[Info] [IRD_SL]     4       16    1.259V   174.7UA 
+[Info] [IRD_SL]     4       16    1.260V   175.6UA 
+[Info] [IRD_SL]     4       16    1.261V   178.8UA 
+[Info] [IRD_SL]     4       16    1.262V   178.5UA 
+[Info] [IRD_SL]     4       16    1.263V   166.6UA 
+[Info] [IRD_SL]     4       16    1.264V   156.4UA 
+[Info] [IRD_SL]     4       16    1.265V   170.8UA 
+[Info] [IRD_SL]     4       16    1.266V   172.5UA 
+[Info] [IRD_SL]     4       16    1.267V   178.5UA 
+[Info] [IRD_SL]     4       16    1.268V   177.3UA 
+[Info] [IRD_SL]     4       16    1.269V   188.6UA 
+[Info] [IRD_SL]     4       16    1.270V   196.6UA 
+[Info] [IRD_SL]     4       16    1.271V   201.2UA 
+[Info] [IRD_SL]     4       16    1.272V   193.0UA 
+[Info] [IRD_SL]     4       16    1.273V   191.3UA 
+[Info] [IRD_SL]     4       16    1.274V   189.7UA 
+[Info] [IRD_SL]     4       16    1.275V   183.4UA 
+[Info] [IRD_SL]     4       16    1.276V   196.6UA 
+[Info] [IRD_SL]     4       16    1.277V   202.4UA 
+[Info] [IRD_SL]     4       16    1.278V   204.0UA 
+[Info] [IRD_SL]     4       16    1.279V   198.8UA 
+[Info] [IRD_SL]     4       16    1.280V   202.8UA 
+[Info] [IRD_SL]     4       16    1.281V   199.2UA 
+[Info] [IRD_SL]     4       16    1.282V   206.4UA 
+[Info] [IRD_SL]     4       16    1.283V   202.4UA 
+[Info] [IRD_SL]     4       16    1.284V   204.4UA 
+[Info] [IRD_SL]     4       16    1.285V   204.4UA 
+[Info] [IRD_SL]     4       16    1.286V   204.0UA 
+[Info] [IRD_SL]     4       16    1.287V   210.4UA 
+[Info] [IRD_SL]     4       16    1.288V   207.6UA 
+[Info] [IRD_SL]     4       16    1.289V   211.6UA 
+[Info] [IRD_SL]     4       16    1.290V   209.6UA 
+[Info] [IRD_SL]     4       16    1.291V   209.6UA 
+[Info] [IRD_SL]     4       16    1.292V   206.0UA 
+[Info] [IRD_SL]     4       16    1.293V   214.4UA 
+[Info] [IRD_SL]     4       16    1.294V   216.8UA 
+[Info] [IRD_SL]     4       16    1.295V   212.8UA 
+[Info] [IRD_SL]     4       16    1.296V   221.6UA 
+[Info] [IRD_SL]     4       16    1.297V   217.2UA 
+[Info] [IRD_SL]     4       16    1.298V   221.6UA 
+[Info] [IRD_SL]     4       16    1.299V   222.4UA 
+[Info] [IRD_SL]     4       16    1.300V   220.4UA 
+[Info] [IRD_SL]     4       16    1.301V   212.4UA 
+[Info] [IRD_SL]     4       16    1.302V   219.2UA 
+[Info] [IRD_SL]     4       16    1.303V   212.4UA 
+[Info] [IRD_SL]     4       16    1.304V   219.2UA 
+[Info] [IRD_SL]     4       16    1.305V   210.0UA 
+[Info] [IRD_SL]     4       16    1.306V   206.0UA 
+[Info] [IRD_SL]     4       16    1.307V   213.2UA 
+[Info] [IRD_SL]     4       16    1.308V   210.4UA 
+[Info] [IRD_SL]     4       16    1.309V   213.6UA 
+[Info] [IRD_SL]     4       16    1.310V   213.6UA 
+[Info] [IRD_SL]     4       16    1.311V   213.2UA 
+[Info] [IRD_SL]     4       16    1.312V   219.2UA 
+[Info] [IRD_SL]     4       16    1.313V   212.8UA 
+[Info] [IRD_SL]     4       16    1.314V   215.2UA 
+[Info] [IRD_SL]     4       16    1.315V   221.2UA 
+[Info] [IRD_SL]     4       16    1.316V   219.2UA 
+[Info] [IRD_SL]     4       16    1.317V   222.8UA 
+[Info] [IRD_SL]     4       16    1.318V   225.2UA 
+[Info] [IRD_SL]     4       16    1.319V   226.8UA 
+[Info] [IRD_SL]     4       16    1.320V   230.8UA 
+[Info] [IRD_SL]     4       16    1.321V   231.2UA 
+[Info] [IRD_SL]     4       16    1.322V   223.2UA 
+[Info] [IRD_SL]     4       16    1.323V   230.4UA 
+[Info] [IRD_SL]     4       16    1.324V   231.6UA 
+[Info] [IRD_SL]     4       16    1.325V   232.4UA 
+[Info] [IRD_SL]     4       16    1.326V   235.2UA 
+[Info] [IRD_SL]     4       16    1.327V   235.6UA 
+[Info] [IRD_SL]     4       16    1.328V   239.6UA 
+[Info] [IRD_SL]     4       16    1.329V   232.4UA 
+[Info] [IRD_SL]     4       16    1.330V   234.8UA 
+[Info] [IRD_SL]     4       16    1.331V   231.6UA 
+[Info] [IRD_SL]     4       16    1.332V   228.8UA 
+[Info] [IRD_SL]     4       16    1.333V   230.0UA 
+[Info] [IRD_SL]     4       16    1.334V   236.8UA 
+[Info] [IRD_SL]     4       16    1.335V   238.4UA 
+[Info] [IRD_SL]     4       16    1.336V   242.8UA 
+[Info] [IRD_SL]     4       16    1.337V   234.0UA 
+[Info] [IRD_SL]     4       16    1.338V   236.4UA 
+[Info] [IRD_SL]     4       16    1.339V   231.6UA 
+[Info] [IRD_SL]     4       16    1.340V   235.6UA 
+[Info] [IRD_SL]     4       16    1.341V   235.2UA 
+[Info] [IRD_SL]     4       16    1.342V   238.8UA 
+[Info] [IRD_SL]     4       16    1.343V   236.8UA 
+[Info] [IRD_SL]     4       16    1.344V   241.6UA 
+[Info] [IRD_SL]     4       16    1.345V   237.6UA 
+[Info] [IRD_SL]     4       16    1.346V   242.4UA 
+[Info] [IRD_SL]     4       16    1.347V   240.4UA 
+[Info] [IRD_SL]     4       16    1.348V   238.8UA 
+[Info] [IRD_SL]     4       16    1.349V   242.4UA 
+[Info] [IRD_SL]     4       16    1.350V   238.0UA 
+[Info] [IRD_SL]     4       16    1.351V   236.8UA 
+[Info] [IRD_SL]     4       16    1.352V   239.6UA 
+[Info] [IRD_SL]     4       16    1.353V   244.8UA 
+[Info] [IRD_SL]     4       16    1.354V   245.6UA 
+[Info] [IRD_SL]     4       16    1.355V   244.4UA 
+[Info] [IRD_SL]     4       16    1.356V   245.6UA 
+[Info] [IRD_SL]     4       16    1.357V   246.4UA 
+[Info] [IRD_SL]     4       16    1.358V   252.0UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     4       20    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     4       20    1.010V   166.7UA 
+[Info] [IRD_SL]     4       20    1.020V   171.8UA 
+[Info] [IRD_SL]     4       20    1.030V   174.9UA 
+[Info] [IRD_SL]     4       20    1.040V   180.6UA 
+[Info] [IRD_SL]     4       20    1.050V   187.8UA 
+[Info] [IRD_SL]     4       20    1.060V   191.4UA 
+[Info] [IRD_SL]     4       20    1.070V   194.8UA 
+[Info] [IRD_SL]     4       20    1.080V   199.1UA 
+[Info] [IRD_SL]     4       20    1.090V   204.8UA 
+[Info] [IRD_SL]     4       20    1.100V   208.8UA 
+[Info] [IRD_SL]     4       20    1.110V   209.6UA 
+[Info] [IRD_SL]     4       20    1.120V   216.0UA 
+[Info] [IRD_SL]     4       20    1.130V   222.0UA 
+[Info] [IRD_SL]     4       20    1.140V   224.0UA 
+[Info] [IRD_SL]     4       20    1.141V   226.8UA 
+[Info] [IRD_SL]     4       20    1.142V   230.4UA 
+[Info] [IRD_SL]     4       20    1.143V   233.6UA 
+[Info] [IRD_SL]     4       20    1.144V   234.8UA 
+[Info] [IRD_SL]     4       20    1.145V   238.8UA 
+[Info] [IRD_SL]     4       20    1.146V   240.4UA 
+[Info] [IRD_SL]     4       20    1.147V   242.0UA 
+[Info] [IRD_SL]     4       20    1.148V   243.2UA 
+[Info] [IRD_SL]     4       20    1.149V   245.2UA 
+[Info] [IRD_SL]     4       20    1.150V   247.2UA 
+[Info] [IRD_SL]     4       20    1.151V   248.4UA 
+[Info] [IRD_SL]     4       20    1.152V   255.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     4       24    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     4       24    1.010V   202.0UA 
+[Info] [IRD_SL]     4       24    1.020V   206.4UA 
+[Info] [IRD_SL]     4       24    1.030V   208.4UA 
+[Info] [IRD_SL]     4       24    1.040V   212.4UA 
+[Info] [IRD_SL]     4       24    1.050V   216.8UA 
+[Info] [IRD_SL]     4       24    1.060V   215.6UA 
+[Info] [IRD_SL]     4       24    1.070V   217.6UA 
+[Info] [IRD_SL]     4       24    1.080V   218.8UA 
+[Info] [IRD_SL]     4       24    1.090V   219.2UA 
+[Info] [IRD_SL]     4       24    1.100V   221.6UA 
+[Info] [IRD_SL]     4       24    1.110V   223.2UA 
+[Info] [IRD_SL]     4       24    1.120V   225.6UA 
+[Info] [IRD_SL]     4       24    1.121V   230.4UA 
+[Info] [IRD_SL]     4       24    1.122V   229.2UA 
+[Info] [IRD_SL]     4       24    1.123V   228.8UA 
+[Info] [IRD_SL]     4       24    1.124V   228.4UA 
+[Info] [IRD_SL]     4       24    1.125V   230.4UA 
+[Info] [IRD_SL]     4       24    1.126V   232.8UA 
+[Info] [IRD_SL]     4       24    1.127V   237.2UA 
+[Info] [IRD_SL]     4       24    1.128V   240.0UA 
+[Info] [IRD_SL]     4       24    1.129V   239.6UA 
+[Info] [IRD_SL]     4       24    1.130V   244.0UA 
+[Info] [IRD_SL]     4       24    1.131V   243.6UA 
+[Info] [IRD_SL]     4       24    1.132V   246.0UA 
+[Info] [IRD_SL]     4       24    1.133V   248.0UA 
+[Info] [IRD_SL]     4       24    1.134V   250.0UA 
+[Info] [IRD_SL]     4       24    1.135V   250.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     4       28    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     4       28    1.010V   139.2UA 
+[Info] [IRD_SL]     4       28    1.020V   149.2UA 
+[Info] [IRD_SL]     4       28    1.030V   156.9UA 
+[Info] [IRD_SL]     4       28    1.040V   165.6UA 
+[Info] [IRD_SL]     4       28    1.050V   166.7UA 
+[Info] [IRD_SL]     4       28    1.060V   182.7UA 
+[Info] [IRD_SL]     4       28    1.070V   201.6UA 
+[Info] [IRD_SL]     4       28    1.080V   205.6UA 
+[Info] [IRD_SL]     4       28    1.090V   210.8UA 
+[Info] [IRD_SL]     4       28    1.100V   213.6UA 
+[Info] [IRD_SL]     4       28    1.110V   218.4UA 
+[Info] [IRD_SL]     4       28    1.120V   220.8UA 
+[Info] [IRD_SL]     4       28    1.130V   224.8UA 
+[Info] [IRD_SL]     4       28    1.140V   230.8UA 
+[Info] [IRD_SL]     4       28    1.141V   234.4UA 
+[Info] [IRD_SL]     4       28    1.142V   236.4UA 
+[Info] [IRD_SL]     4       28    1.143V   240.4UA 
+[Info] [IRD_SL]     4       28    1.144V   244.8UA 
+[Info] [IRD_SL]     4       28    1.145V   246.0UA 
+[Info] [IRD_SL]     4       28    1.146V   246.8UA 
+[Info] [IRD_SL]     4       28    1.147V   250.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     8        0    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     8        0    1.010V   179.2UA 
+[Info] [IRD_SL]     8        0    1.020V   186.0UA 
+[Info] [IRD_SL]     8        0    1.030V   191.8UA 
+[Info] [IRD_SL]     8        0    1.040V   198.7UA 
+[Info] [IRD_SL]     8        0    1.050V   205.6UA 
+[Info] [IRD_SL]     8        0    1.060V   212.0UA 
+[Info] [IRD_SL]     8        0    1.070V   220.0UA 
+[Info] [IRD_SL]     8        0    1.080V   228.8UA 
+[Info] [IRD_SL]     8        0    1.081V   234.8UA 
+[Info] [IRD_SL]     8        0    1.082V   238.0UA 
+[Info] [IRD_SL]     8        0    1.083V   241.2UA 
+[Info] [IRD_SL]     8        0    1.084V   245.2UA 
+[Info] [IRD_SL]     8        0    1.085V   242.4UA 
+[Info] [IRD_SL]     8        0    1.086V   247.2UA 
+[Info] [IRD_SL]     8        0    1.087V   249.6UA 
+[Info] [IRD_SL]     8        0    1.088V   250.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     8        4    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     8        4    1.010V   188.0UA 
+[Info] [IRD_SL]     8        4    1.020V   193.9UA 
+[Info] [IRD_SL]     8        4    1.030V   199.6UA 
+[Info] [IRD_SL]     8        4    1.040V   206.0UA 
+[Info] [IRD_SL]     8        4    1.050V   216.0UA 
+[Info] [IRD_SL]     8        4    1.060V   220.4UA 
+[Info] [IRD_SL]     8        4    1.070V   228.8UA 
+[Info] [IRD_SL]     8        4    1.071V   230.4UA 
+[Info] [IRD_SL]     8        4    1.072V   235.2UA 
+[Info] [IRD_SL]     8        4    1.073V   237.6UA 
+[Info] [IRD_SL]     8        4    1.074V   240.4UA 
+[Info] [IRD_SL]     8        4    1.075V   241.2UA 
+[Info] [IRD_SL]     8        4    1.076V   244.0UA 
+[Info] [IRD_SL]     8        4    1.077V   244.8UA 
+[Info] [IRD_SL]     8        4    1.078V   246.0UA 
+[Info] [IRD_SL]     8        4    1.079V   250.0UA 
+[Info] [IRD_SL]     8        4    1.080V   249.6UA 
+[Info] [IRD_SL]     8        4    1.081V   250.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     8        8    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     8        8    1.010V   168.3UA 
+[Info] [IRD_SL]     8        8    1.020V   173.3UA 
+[Info] [IRD_SL]     8        8    1.030V   177.5UA 
+[Info] [IRD_SL]     8        8    1.040V   184.7UA 
+[Info] [IRD_SL]     8        8    1.050V   186.4UA 
+[Info] [IRD_SL]     8        8    1.060V   189.4UA 
+[Info] [IRD_SL]     8        8    1.070V   194.4UA 
+[Info] [IRD_SL]     8        8    1.080V   200.8UA 
+[Info] [IRD_SL]     8        8    1.090V   204.0UA 
+[Info] [IRD_SL]     8        8    1.100V   210.0UA 
+[Info] [IRD_SL]     8        8    1.110V   216.4UA 
+[Info] [IRD_SL]     8        8    1.120V   220.0UA 
+[Info] [IRD_SL]     8        8    1.130V   223.2UA 
+[Info] [IRD_SL]     8        8    1.140V   229.2UA 
+[Info] [IRD_SL]     8        8    1.141V   234.8UA 
+[Info] [IRD_SL]     8        8    1.142V   241.2UA 
+[Info] [IRD_SL]     8        8    1.143V   245.2UA 
+[Info] [IRD_SL]     8        8    1.144V   248.8UA 
+[Info] [IRD_SL]     8        8    1.145V   252.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     8       12    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     8       12    1.010V   206.0UA 
+[Info] [IRD_SL]     8       12    1.020V   213.6UA 
+[Info] [IRD_SL]     8       12    1.030V   218.8UA 
+[Info] [IRD_SL]     8       12    1.040V   226.4UA 
+[Info] [IRD_SL]     8       12    1.041V   231.2UA 
+[Info] [IRD_SL]     8       12    1.042V   233.2UA 
+[Info] [IRD_SL]     8       12    1.043V   235.2UA 
+[Info] [IRD_SL]     8       12    1.044V   238.0UA 
+[Info] [IRD_SL]     8       12    1.045V   239.6UA 
+[Info] [IRD_SL]     8       12    1.046V   241.2UA 
+[Info] [IRD_SL]     8       12    1.047V   243.2UA 
+[Info] [IRD_SL]     8       12    1.048V   242.8UA 
+[Info] [IRD_SL]     8       12    1.049V   245.6UA 
+[Info] [IRD_SL]     8       12    1.050V   247.2UA 
+[Info] [IRD_SL]     8       12    1.051V   249.2UA 
+[Info] [IRD_SL]     8       12    1.052V   248.4UA 
+[Info] [IRD_SL]     8       12    1.053V   250.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     8       16    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     8       16    1.010V   192.3UA 
+[Info] [IRD_SL]     8       16    1.020V   195.6UA 
+[Info] [IRD_SL]     8       16    1.030V   202.4UA 
+[Info] [IRD_SL]     8       16    1.040V   211.6UA 
+[Info] [IRD_SL]     8       16    1.050V   218.4UA 
+[Info] [IRD_SL]     8       16    1.060V   223.2UA 
+[Info] [IRD_SL]     8       16    1.070V   228.8UA 
+[Info] [IRD_SL]     8       16    1.071V   234.0UA 
+[Info] [IRD_SL]     8       16    1.072V   236.8UA 
+[Info] [IRD_SL]     8       16    1.073V   240.8UA 
+[Info] [IRD_SL]     8       16    1.074V   243.2UA 
+[Info] [IRD_SL]     8       16    1.075V   242.8UA 
+[Info] [IRD_SL]     8       16    1.076V   244.4UA 
+[Info] [IRD_SL]     8       16    1.077V   247.6UA 
+[Info] [IRD_SL]     8       16    1.078V   248.0UA 
+[Info] [IRD_SL]     8       16    1.079V   250.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     8       20    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     8       20    1.010V   193.2UA 
+[Info] [IRD_SL]     8       20    1.020V   201.6UA 
+[Info] [IRD_SL]     8       20    1.030V   204.8UA 
+[Info] [IRD_SL]     8       20    1.040V   215.2UA 
+[Info] [IRD_SL]     8       20    1.050V   221.2UA 
+[Info] [IRD_SL]     8       20    1.060V   224.8UA 
+[Info] [IRD_SL]     8       20    1.070V   232.8UA 
+[Info] [IRD_SL]     8       20    1.071V   234.8UA 
+[Info] [IRD_SL]     8       20    1.072V   237.6UA 
+[Info] [IRD_SL]     8       20    1.073V   240.0UA 
+[Info] [IRD_SL]     8       20    1.074V   242.8UA 
+[Info] [IRD_SL]     8       20    1.075V   244.4UA 
+[Info] [IRD_SL]     8       20    1.076V   246.0UA 
+[Info] [IRD_SL]     8       20    1.077V   249.2UA 
+[Info] [IRD_SL]     8       20    1.078V   251.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     8       24    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     8       24    1.010V   185.2UA 
+[Info] [IRD_SL]     8       24    1.020V   191.7UA 
+[Info] [IRD_SL]     8       24    1.030V   195.6UA 
+[Info] [IRD_SL]     8       24    1.040V   201.6UA 
+[Info] [IRD_SL]     8       24    1.050V   204.0UA 
+[Info] [IRD_SL]     8       24    1.060V   207.6UA 
+[Info] [IRD_SL]     8       24    1.070V   210.8UA 
+[Info] [IRD_SL]     8       24    1.080V   214.8UA 
+[Info] [IRD_SL]     8       24    1.090V   239.2UA 
+[Info] [IRD_SL]     8       24    1.091V   261.6UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     8       28    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     8       28    1.010V   210.0UA 
+[Info] [IRD_SL]     8       28    1.020V   218.8UA 
+[Info] [IRD_SL]     8       28    1.030V   223.2UA 
+[Info] [IRD_SL]     8       28    1.040V   230.0UA 
+[Info] [IRD_SL]     8       28    1.041V   232.8UA 
+[Info] [IRD_SL]     8       28    1.042V   238.0UA 
+[Info] [IRD_SL]     8       28    1.043V   242.4UA 
+[Info] [IRD_SL]     8       28    1.044V   248.0UA 
+[Info] [IRD_SL]     8       28    1.045V   247.6UA 
+[Info] [IRD_SL]     8       28    1.046V   250.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    12        0    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    12        0    1.010V   192.7UA 
+[Info] [IRD_SL]    12        0    1.020V   201.2UA 
+[Info] [IRD_SL]    12        0    1.030V   211.2UA 
+[Info] [IRD_SL]    12        0    1.040V   222.8UA 
+[Info] [IRD_SL]    12        0    1.050V   230.0UA 
+[Info] [IRD_SL]    12        0    1.051V   234.4UA 
+[Info] [IRD_SL]    12        0    1.052V   240.4UA 
+[Info] [IRD_SL]    12        0    1.053V   241.2UA 
+[Info] [IRD_SL]    12        0    1.054V   244.0UA 
+[Info] [IRD_SL]    12        0    1.055V   244.0UA 
+[Info] [IRD_SL]    12        0    1.056V   248.4UA 
+[Info] [IRD_SL]    12        0    1.057V   250.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    12        4    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    12        4    1.010V   189.9UA 
+[Info] [IRD_SL]    12        4    1.020V   197.0UA 
+[Info] [IRD_SL]    12        4    1.030V   200.0UA 
+[Info] [IRD_SL]    12        4    1.040V   208.0UA 
+[Info] [IRD_SL]    12        4    1.050V   214.4UA 
+[Info] [IRD_SL]    12        4    1.060V   220.0UA 
+[Info] [IRD_SL]    12        4    1.070V   228.8UA 
+[Info] [IRD_SL]    12        4    1.071V   232.4UA 
+[Info] [IRD_SL]    12        4    1.072V   236.8UA 
+[Info] [IRD_SL]    12        4    1.073V   238.8UA 
+[Info] [IRD_SL]    12        4    1.074V   240.8UA 
+[Info] [IRD_SL]    12        4    1.075V   243.2UA 
+[Info] [IRD_SL]    12        4    1.076V   247.2UA 
+[Info] [IRD_SL]    12        4    1.077V   247.2UA 
+[Info] [IRD_SL]    12        4    1.078V   250.0UA 
+[Info] [IRD_SL]    12        4    1.079V   250.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    12        8    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    12        8    1.010V   195.4UA 
+[Info] [IRD_SL]    12        8    1.020V   204.4UA 
+[Info] [IRD_SL]    12        8    1.030V   210.4UA 
+[Info] [IRD_SL]    12        8    1.040V   217.2UA 
+[Info] [IRD_SL]    12        8    1.050V   222.4UA 
+[Info] [IRD_SL]    12        8    1.060V   229.6UA 
+[Info] [IRD_SL]    12        8    1.061V   232.8UA 
+[Info] [IRD_SL]    12        8    1.062V   236.0UA 
+[Info] [IRD_SL]    12        8    1.063V   237.6UA 
+[Info] [IRD_SL]    12        8    1.064V   239.6UA 
+[Info] [IRD_SL]    12        8    1.065V   243.6UA 
+[Info] [IRD_SL]    12        8    1.066V   247.2UA 
+[Info] [IRD_SL]    12        8    1.067V   250.0UA 
+[Info] [IRD_SL]    12        8    1.068V   252.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    12       12    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    12       12    1.010V   206.0UA 
+[Info] [IRD_SL]    12       12    1.020V   212.4UA 
+[Info] [IRD_SL]    12       12    1.030V   216.8UA 
+[Info] [IRD_SL]    12       12    1.040V   228.0UA 
+[Info] [IRD_SL]    12       12    1.041V   233.2UA 
+[Info] [IRD_SL]    12       12    1.042V   234.8UA 
+[Info] [IRD_SL]    12       12    1.043V   236.4UA 
+[Info] [IRD_SL]    12       12    1.044V   240.0UA 
+[Info] [IRD_SL]    12       12    1.045V   242.8UA 
+[Info] [IRD_SL]    12       12    1.046V   245.2UA 
+[Info] [IRD_SL]    12       12    1.047V   248.4UA 
+[Info] [IRD_SL]    12       12    1.048V   249.2UA 
+[Info] [IRD_SL]    12       12    1.049V   249.6UA 
+[Info] [IRD_SL]    12       12    1.050V   252.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    12       16    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    12       16    1.010V   201.2UA 
+[Info] [IRD_SL]    12       16    1.020V   208.0UA 
+[Info] [IRD_SL]    12       16    1.030V   211.6UA 
+[Info] [IRD_SL]    12       16    1.040V   218.4UA 
+[Info] [IRD_SL]    12       16    1.050V   222.8UA 
+[Info] [IRD_SL]    12       16    1.060V   230.4UA 
+[Info] [IRD_SL]    12       16    1.061V   237.6UA 
+[Info] [IRD_SL]    12       16    1.062V   241.2UA 
+[Info] [IRD_SL]    12       16    1.063V   246.0UA 
+[Info] [IRD_SL]    12       16    1.064V   248.0UA 
+[Info] [IRD_SL]    12       16    1.065V   251.6UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    12       20    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    12       20    1.010V   208.8UA 
+[Info] [IRD_SL]    12       20    1.020V   212.4UA 
+[Info] [IRD_SL]    12       20    1.030V   218.4UA 
+[Info] [IRD_SL]    12       20    1.040V   223.2UA 
+[Info] [IRD_SL]    12       20    1.050V   228.4UA 
+[Info] [IRD_SL]    12       20    1.051V   232.4UA 
+[Info] [IRD_SL]    12       20    1.052V   234.8UA 
+[Info] [IRD_SL]    12       20    1.053V   238.8UA 
+[Info] [IRD_SL]    12       20    1.054V   240.0UA 
+[Info] [IRD_SL]    12       20    1.055V   239.6UA 
+[Info] [IRD_SL]    12       20    1.056V   242.0UA 
+[Info] [IRD_SL]    12       20    1.057V   242.8UA 
+[Info] [IRD_SL]    12       20    1.058V   244.0UA 
+[Info] [IRD_SL]    12       20    1.059V   244.4UA 
+[Info] [IRD_SL]    12       20    1.060V   247.6UA 
+[Info] [IRD_SL]    12       20    1.061V   247.6UA 
+[Info] [IRD_SL]    12       20    1.062V   248.4UA 
+[Info] [IRD_SL]    12       20    1.063V   251.6UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    12       24    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    12       24    1.010V   213.6UA 
+[Info] [IRD_SL]    12       24    1.020V   222.0UA 
+[Info] [IRD_SL]    12       24    1.030V   228.0UA 
+[Info] [IRD_SL]    12       24    1.031V   240.0UA 
+[Info] [IRD_SL]    12       24    1.032V   244.0UA 
+[Info] [IRD_SL]    12       24    1.033V   246.8UA 
+[Info] [IRD_SL]    12       24    1.034V   249.2UA 
+[Info] [IRD_SL]    12       24    1.035V   252.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    12       28    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    12       28    1.010V   214.4UA 
+[Info] [IRD_SL]    12       28    1.020V   219.6UA 
+[Info] [IRD_SL]    12       28    1.030V   227.6UA 
+[Info] [IRD_SL]    12       28    1.031V   232.4UA 
+[Info] [IRD_SL]    12       28    1.032V   236.8UA 
+[Info] [IRD_SL]    12       28    1.033V   240.8UA 
+[Info] [IRD_SL]    12       28    1.034V   241.6UA 
+[Info] [IRD_SL]    12       28    1.035V   244.4UA 
+[Info] [IRD_SL]    12       28    1.036V   244.8UA 
+[Info] [IRD_SL]    12       28    1.037V   248.0UA 
+[Info] [IRD_SL]    12       28    1.038V   249.6UA 
+[Info] [IRD_SL]    12       28    1.039V   250.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    16        0    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    16        0    1.010V   168.8UA 
+[Info] [IRD_SL]    16        0    1.020V   174.6UA 
+[Info] [IRD_SL]    16        0    1.030V   179.0UA 
+[Info] [IRD_SL]    16        0    1.040V   184.0UA 
+[Info] [IRD_SL]    16        0    1.050V   189.7UA 
+[Info] [IRD_SL]    16        0    1.060V   198.9UA 
+[Info] [IRD_SL]    16        0    1.070V   201.2UA 
+[Info] [IRD_SL]    16        0    1.080V   208.0UA 
+[Info] [IRD_SL]    16        0    1.090V   212.8UA 
+[Info] [IRD_SL]    16        0    1.100V   218.0UA 
+[Info] [IRD_SL]    16        0    1.110V   224.4UA 
+[Info] [IRD_SL]    16        0    1.120V   230.0UA 
+[Info] [IRD_SL]    16        0    1.121V   234.4UA 
+[Info] [IRD_SL]    16        0    1.122V   238.0UA 
+[Info] [IRD_SL]    16        0    1.123V   242.8UA 
+[Info] [IRD_SL]    16        0    1.124V   246.0UA 
+[Info] [IRD_SL]    16        0    1.125V   248.0UA 
+[Info] [IRD_SL]    16        0    1.126V   249.6UA 
+[Info] [IRD_SL]    16        0    1.127V   250.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    16        4    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    16        4    1.010V   184.1UA 
+[Info] [IRD_SL]    16        4    1.020V   187.6UA 
+[Info] [IRD_SL]    16        4    1.030V   193.3UA 
+[Info] [IRD_SL]    16        4    1.040V   197.3UA 
+[Info] [IRD_SL]    16        4    1.050V   197.2UA 
+[Info] [IRD_SL]    16        4    1.060V   202.4UA 
+[Info] [IRD_SL]    16        4    1.070V   204.4UA 
+[Info] [IRD_SL]    16        4    1.080V   209.2UA 
+[Info] [IRD_SL]    16        4    1.090V   210.4UA 
+[Info] [IRD_SL]    16        4    1.100V   214.4UA 
+[Info] [IRD_SL]    16        4    1.110V   219.6UA 
+[Info] [IRD_SL]    16        4    1.120V   223.6UA 
+[Info] [IRD_SL]    16        4    1.130V   227.6UA 
+[Info] [IRD_SL]    16        4    1.131V   231.2UA 
+[Info] [IRD_SL]    16        4    1.132V   232.0UA 
+[Info] [IRD_SL]    16        4    1.133V   236.4UA 
+[Info] [IRD_SL]    16        4    1.134V   236.8UA 
+[Info] [IRD_SL]    16        4    1.135V   240.8UA 
+[Info] [IRD_SL]    16        4    1.136V   242.4UA 
+[Info] [IRD_SL]    16        4    1.137V   246.8UA 
+[Info] [IRD_SL]    16        4    1.138V   249.2UA 
+[Info] [IRD_SL]    16        4    1.139V   250.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    16        8    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    16        8    1.010V   189.2UA 
+[Info] [IRD_SL]    16        8    1.020V   196.0UA 
+[Info] [IRD_SL]    16        8    1.030V   199.6UA 
+[Info] [IRD_SL]    16        8    1.040V   210.0UA 
+[Info] [IRD_SL]    16        8    1.050V   213.2UA 
+[Info] [IRD_SL]    16        8    1.060V   218.0UA 
+[Info] [IRD_SL]    16        8    1.070V   225.6UA 
+[Info] [IRD_SL]    16        8    1.071V   232.0UA 
+[Info] [IRD_SL]    16        8    1.072V   236.0UA 
+[Info] [IRD_SL]    16        8    1.073V   240.4UA 
+[Info] [IRD_SL]    16        8    1.074V   242.4UA 
+[Info] [IRD_SL]    16        8    1.075V   246.0UA 
+[Info] [IRD_SL]    16        8    1.076V   247.6UA 
+[Info] [IRD_SL]    16        8    1.077V   248.0UA 
+[Info] [IRD_SL]    16        8    1.078V   250.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    16       12    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    16       12    1.010V   191.6UA 
+[Info] [IRD_SL]    16       12    1.020V   202.0UA 
+[Info] [IRD_SL]    16       12    1.030V   206.0UA 
+[Info] [IRD_SL]    16       12    1.040V   214.8UA 
+[Info] [IRD_SL]    16       12    1.050V   218.4UA 
+[Info] [IRD_SL]    16       12    1.060V   225.2UA 
+[Info] [IRD_SL]    16       12    1.061V   226.8UA 
+[Info] [IRD_SL]    16       12    1.062V   231.2UA 
+[Info] [IRD_SL]    16       12    1.063V   234.0UA 
+[Info] [IRD_SL]    16       12    1.064V   236.8UA 
+[Info] [IRD_SL]    16       12    1.065V   238.8UA 
+[Info] [IRD_SL]    16       12    1.066V   240.8UA 
+[Info] [IRD_SL]    16       12    1.067V   244.0UA 
+[Info] [IRD_SL]    16       12    1.068V   244.4UA 
+[Info] [IRD_SL]    16       12    1.069V   244.8UA 
+[Info] [IRD_SL]    16       12    1.070V   246.0UA 
+[Info] [IRD_SL]    16       12    1.071V   248.8UA 
+[Info] [IRD_SL]    16       12    1.072V   251.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    16       16    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    16       16    1.010V   204.0UA 
+[Info] [IRD_SL]    16       16    1.020V   214.0UA 
+[Info] [IRD_SL]    16       16    1.030V   223.6UA 
+[Info] [IRD_SL]    16       16    1.040V   226.8UA 
+[Info] [IRD_SL]    16       16    1.041V   235.2UA 
+[Info] [IRD_SL]    16       16    1.042V   240.4UA 
+[Info] [IRD_SL]    16       16    1.043V   243.2UA 
+[Info] [IRD_SL]    16       16    1.044V   246.8UA 
+[Info] [IRD_SL]    16       16    1.045V   249.2UA 
+[Info] [IRD_SL]    16       16    1.046V   250.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    16       20    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    16       20    1.010V   225.2UA 
+[Info] [IRD_SL]    16       20    1.011V   229.6UA 
+[Info] [IRD_SL]    16       20    1.012V   234.4UA 
+[Info] [IRD_SL]    16       20    1.013V   238.0UA 
+[Info] [IRD_SL]    16       20    1.014V   240.4UA 
+[Info] [IRD_SL]    16       20    1.015V   240.8UA 
+[Info] [IRD_SL]    16       20    1.016V   244.4UA 
+[Info] [IRD_SL]    16       20    1.017V   243.6UA 
+[Info] [IRD_SL]    16       20    1.018V   246.8UA 
+[Info] [IRD_SL]    16       20    1.019V   247.6UA 
+[Info] [IRD_SL]    16       20    1.020V   250.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    16       24    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    16       24    1.010V   209.6UA 
+[Info] [IRD_SL]    16       24    1.020V   216.0UA 
+[Info] [IRD_SL]    16       24    1.030V   221.6UA 
+[Info] [IRD_SL]    16       24    1.040V   224.0UA 
+[Info] [IRD_SL]    16       24    1.050V   229.2UA 
+[Info] [IRD_SL]    16       24    1.051V   234.4UA 
+[Info] [IRD_SL]    16       24    1.052V   235.6UA 
+[Info] [IRD_SL]    16       24    1.053V   239.6UA 
+[Info] [IRD_SL]    16       24    1.054V   239.6UA 
+[Info] [IRD_SL]    16       24    1.055V   241.6UA 
+[Info] [IRD_SL]    16       24    1.056V   242.8UA 
+[Info] [IRD_SL]    16       24    1.057V   245.6UA 
+[Info] [IRD_SL]    16       24    1.058V   244.4UA 
+[Info] [IRD_SL]    16       24    1.059V   244.8UA 
+[Info] [IRD_SL]    16       24    1.060V   246.8UA 
+[Info] [IRD_SL]    16       24    1.061V   248.4UA 
+[Info] [IRD_SL]    16       24    1.062V   250.0UA 
+[Info] [IRD_SL]    16       24    1.063V   253.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    16       28    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    16       28    1.010V   207.2UA 
+[Info] [IRD_SL]    16       28    1.020V   215.6UA 
+[Info] [IRD_SL]    16       28    1.030V   220.8UA 
+[Info] [IRD_SL]    16       28    1.040V   228.4UA 
+[Info] [IRD_SL]    16       28    1.041V   232.8UA 
+[Info] [IRD_SL]    16       28    1.042V   235.2UA 
+[Info] [IRD_SL]    16       28    1.043V   238.8UA 
+[Info] [IRD_SL]    16       28    1.044V   242.4UA 
+[Info] [IRD_SL]    16       28    1.045V   244.0UA 
+[Info] [IRD_SL]    16       28    1.046V   247.2UA 
+[Info] [IRD_SL]    16       28    1.047V   248.8UA 
+[Info] [IRD_SL]    16       28    1.048V   250.0UA 
+[Info] [IRD_SL]    16       28    1.049V   253.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    20        0    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    20        0    1.010V   175.4UA 
+[Info] [IRD_SL]    20        0    1.020V   181.0UA 
+[Info] [IRD_SL]    20        0    1.030V   190.3UA 
+[Info] [IRD_SL]    20        0    1.040V   198.2UA 
+[Info] [IRD_SL]    20        0    1.050V   204.8UA 
+[Info] [IRD_SL]    20        0    1.060V   214.0UA 
+[Info] [IRD_SL]    20        0    1.070V   217.6UA 
+[Info] [IRD_SL]    20        0    1.080V   225.6UA 
+[Info] [IRD_SL]    20        0    1.081V   229.6UA 
+[Info] [IRD_SL]    20        0    1.082V   238.0UA 
+[Info] [IRD_SL]    20        0    1.083V   242.8UA 
+[Info] [IRD_SL]    20        0    1.084V   244.0UA 
+[Info] [IRD_SL]    20        0    1.085V   250.0UA 
+[Info] [IRD_SL]    20        0    1.086V   253.6UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    20        4    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    20        4    1.010V   193.7UA 
+[Info] [IRD_SL]    20        4    1.020V   201.2UA 
+[Info] [IRD_SL]    20        4    1.030V   206.0UA 
+[Info] [IRD_SL]    20        4    1.040V   213.2UA 
+[Info] [IRD_SL]    20        4    1.050V   217.2UA 
+[Info] [IRD_SL]    20        4    1.060V   222.8UA 
+[Info] [IRD_SL]    20        4    1.070V   229.6UA 
+[Info] [IRD_SL]    20        4    1.071V   233.2UA 
+[Info] [IRD_SL]    20        4    1.072V   234.8UA 
+[Info] [IRD_SL]    20        4    1.073V   237.2UA 
+[Info] [IRD_SL]    20        4    1.074V   240.4UA 
+[Info] [IRD_SL]    20        4    1.075V   241.6UA 
+[Info] [IRD_SL]    20        4    1.076V   246.0UA 
+[Info] [IRD_SL]    20        4    1.077V   246.8UA 
+[Info] [IRD_SL]    20        4    1.078V   246.4UA 
+[Info] [IRD_SL]    20        4    1.079V   246.0UA 
+[Info] [IRD_SL]    20        4    1.080V   249.6UA 
+[Info] [IRD_SL]    20        4    1.081V   250.0UA 
+[Info] [IRD_SL]    20        4    1.082V   251.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    20        8    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    20        8    1.010V   184.4UA 
+[Info] [IRD_SL]    20        8    1.020V   189.2UA 
+[Info] [IRD_SL]    20        8    1.030V   193.6UA 
+[Info] [IRD_SL]    20        8    1.040V   197.4UA 
+[Info] [IRD_SL]    20        8    1.050V   203.6UA 
+[Info] [IRD_SL]    20        8    1.060V   212.4UA 
+[Info] [IRD_SL]    20        8    1.070V   218.4UA 
+[Info] [IRD_SL]    20        8    1.080V   223.2UA 
+[Info] [IRD_SL]    20        8    1.090V   229.2UA 
+[Info] [IRD_SL]    20        8    1.091V   234.0UA 
+[Info] [IRD_SL]    20        8    1.092V   235.6UA 
+[Info] [IRD_SL]    20        8    1.093V   241.2UA 
+[Info] [IRD_SL]    20        8    1.094V   240.8UA 
+[Info] [IRD_SL]    20        8    1.095V   244.8UA 
+[Info] [IRD_SL]    20        8    1.096V   246.8UA 
+[Info] [IRD_SL]    20        8    1.097V   248.8UA 
+[Info] [IRD_SL]    20        8    1.098V   250.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    20       12    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    20       12    1.010V   198.4UA 
+[Info] [IRD_SL]    20       12    1.020V   203.6UA 
+[Info] [IRD_SL]    20       12    1.030V   210.4UA 
+[Info] [IRD_SL]    20       12    1.040V   214.0UA 
+[Info] [IRD_SL]    20       12    1.050V   222.4UA 
+[Info] [IRD_SL]    20       12    1.060V   229.2UA 
+[Info] [IRD_SL]    20       12    1.061V   234.0UA 
+[Info] [IRD_SL]    20       12    1.062V   238.0UA 
+[Info] [IRD_SL]    20       12    1.063V   237.2UA 
+[Info] [IRD_SL]    20       12    1.064V   240.4UA 
+[Info] [IRD_SL]    20       12    1.065V   240.8UA 
+[Info] [IRD_SL]    20       12    1.066V   242.4UA 
+[Info] [IRD_SL]    20       12    1.067V   244.4UA 
+[Info] [IRD_SL]    20       12    1.068V   245.6UA 
+[Info] [IRD_SL]    20       12    1.069V   246.4UA 
+[Info] [IRD_SL]    20       12    1.070V   249.6UA 
+[Info] [IRD_SL]    20       12    1.071V   250.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    20       16    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    20       16    1.010V   191.6UA 
+[Info] [IRD_SL]    20       16    1.020V   198.8UA 
+[Info] [IRD_SL]    20       16    1.030V   205.2UA 
+[Info] [IRD_SL]    20       16    1.040V   211.2UA 
+[Info] [IRD_SL]    20       16    1.050V   212.8UA 
+[Info] [IRD_SL]    20       16    1.060V   217.6UA 
+[Info] [IRD_SL]    20       16    1.070V   224.8UA 
+[Info] [IRD_SL]    20       16    1.080V   229.2UA 
+[Info] [IRD_SL]    20       16    1.081V   234.0UA 
+[Info] [IRD_SL]    20       16    1.082V   238.4UA 
+[Info] [IRD_SL]    20       16    1.083V   244.8UA 
+[Info] [IRD_SL]    20       16    1.084V   245.2UA 
+[Info] [IRD_SL]    20       16    1.085V   251.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    20       20    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    20       20    1.010V   208.0UA 
+[Info] [IRD_SL]    20       20    1.020V   218.0UA 
+[Info] [IRD_SL]    20       20    1.030V   228.0UA 
+[Info] [IRD_SL]    20       20    1.031V   234.8UA 
+[Info] [IRD_SL]    20       20    1.032V   239.6UA 
+[Info] [IRD_SL]    20       20    1.033V   242.8UA 
+[Info] [IRD_SL]    20       20    1.034V   244.0UA 
+[Info] [IRD_SL]    20       20    1.035V   249.2UA 
+[Info] [IRD_SL]    20       20    1.036V   249.2UA 
+[Info] [IRD_SL]    20       20    1.037V   250.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    20       24    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    20       24    1.010V   210.8UA 
+[Info] [IRD_SL]    20       24    1.020V   218.8UA 
+[Info] [IRD_SL]    20       24    1.030V   227.2UA 
+[Info] [IRD_SL]    20       24    1.031V   234.4UA 
+[Info] [IRD_SL]    20       24    1.032V   236.4UA 
+[Info] [IRD_SL]    20       24    1.033V   237.2UA 
+[Info] [IRD_SL]    20       24    1.034V   240.8UA 
+[Info] [IRD_SL]    20       24    1.035V   246.4UA 
+[Info] [IRD_SL]    20       24    1.036V   247.6UA 
+[Info] [IRD_SL]    20       24    1.037V   249.2UA 
+[Info] [IRD_SL]    20       24    1.038V   251.6UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    20       28    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    20       28    1.010V   205.2UA 
+[Info] [IRD_SL]    20       28    1.020V   213.6UA 
+[Info] [IRD_SL]    20       28    1.030V   223.2UA 
+[Info] [IRD_SL]    20       28    1.040V   230.8UA 
+[Info] [IRD_SL]    20       28    1.041V   235.2UA 
+[Info] [IRD_SL]    20       28    1.042V   240.4UA 
+[Info] [IRD_SL]    20       28    1.043V   244.4UA 
+[Info] [IRD_SL]    20       28    1.044V   246.0UA 
+[Info] [IRD_SL]    20       28    1.045V   246.8UA 
+[Info] [IRD_SL]    20       28    1.046V   249.6UA 
+[Info] [IRD_SL]    20       28    1.047V   250.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    24        0    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    24        0    1.010V   179.4UA 
+[Info] [IRD_SL]    24        0    1.020V   184.6UA 
+[Info] [IRD_SL]    24        0    1.030V   188.4UA 
+[Info] [IRD_SL]    24        0    1.040V   193.4UA 
+[Info] [IRD_SL]    24        0    1.050V   196.2UA 
+[Info] [IRD_SL]    24        0    1.060V   196.1UA 
+[Info] [IRD_SL]    24        0    1.070V   201.2UA 
+[Info] [IRD_SL]    24        0    1.080V   206.8UA 
+[Info] [IRD_SL]    24        0    1.090V   210.4UA 
+[Info] [IRD_SL]    24        0    1.100V   215.2UA 
+[Info] [IRD_SL]    24        0    1.110V   217.2UA 
+[Info] [IRD_SL]    24        0    1.120V   216.4UA 
+[Info] [IRD_SL]    24        0    1.130V   221.6UA 
+[Info] [IRD_SL]    24        0    1.140V   225.2UA 
+[Info] [IRD_SL]    24        0    1.141V   230.4UA 
+[Info] [IRD_SL]    24        0    1.142V   228.8UA 
+[Info] [IRD_SL]    24        0    1.143V   231.2UA 
+[Info] [IRD_SL]    24        0    1.144V   233.2UA 
+[Info] [IRD_SL]    24        0    1.145V   236.0UA 
+[Info] [IRD_SL]    24        0    1.146V   237.2UA 
+[Info] [IRD_SL]    24        0    1.147V   240.0UA 
+[Info] [IRD_SL]    24        0    1.148V   240.8UA 
+[Info] [IRD_SL]    24        0    1.149V   242.0UA 
+[Info] [IRD_SL]    24        0    1.150V   244.0UA 
+[Info] [IRD_SL]    24        0    1.151V   243.2UA 
+[Info] [IRD_SL]    24        0    1.152V   244.8UA 
+[Info] [IRD_SL]    24        0    1.153V   246.8UA 
+[Info] [IRD_SL]    24        0    1.154V   246.4UA 
+[Info] [IRD_SL]    24        0    1.155V   251.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    24        4    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    24        4    1.010V   180.8UA 
+[Info] [IRD_SL]    24        4    1.020V   188.4UA 
+[Info] [IRD_SL]    24        4    1.030V   199.5UA 
+[Info] [IRD_SL]    24        4    1.040V   208.8UA 
+[Info] [IRD_SL]    24        4    1.050V   217.6UA 
+[Info] [IRD_SL]    24        4    1.060V   224.4UA 
+[Info] [IRD_SL]    24        4    1.070V   229.6UA 
+[Info] [IRD_SL]    24        4    1.071V   232.8UA 
+[Info] [IRD_SL]    24        4    1.072V   236.0UA 
+[Info] [IRD_SL]    24        4    1.073V   236.4UA 
+[Info] [IRD_SL]    24        4    1.074V   241.6UA 
+[Info] [IRD_SL]    24        4    1.075V   242.4UA 
+[Info] [IRD_SL]    24        4    1.076V   245.6UA 
+[Info] [IRD_SL]    24        4    1.077V   247.6UA 
+[Info] [IRD_SL]    24        4    1.078V   248.4UA 
+[Info] [IRD_SL]    24        4    1.079V   251.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    24        8    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    24        8    1.010V   179.6UA 
+[Info] [IRD_SL]    24        8    1.020V   191.4UA 
+[Info] [IRD_SL]    24        8    1.030V   202.0UA 
+[Info] [IRD_SL]    24        8    1.040V   211.2UA 
+[Info] [IRD_SL]    24        8    1.050V   223.2UA 
+[Info] [IRD_SL]    24        8    1.060V   232.8UA 
+[Info] [IRD_SL]    24        8    1.061V   236.8UA 
+[Info] [IRD_SL]    24        8    1.062V   241.2UA 
+[Info] [IRD_SL]    24        8    1.063V   245.6UA 
+[Info] [IRD_SL]    24        8    1.064V   246.0UA 
+[Info] [IRD_SL]    24        8    1.065V   248.0UA 
+[Info] [IRD_SL]    24        8    1.066V   249.2UA 
+[Info] [IRD_SL]    24        8    1.067V   252.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    24       12    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    24       12    1.010V   202.8UA 
+[Info] [IRD_SL]    24       12    1.020V   214.4UA 
+[Info] [IRD_SL]    24       12    1.030V   220.4UA 
+[Info] [IRD_SL]    24       12    1.040V   228.4UA 
+[Info] [IRD_SL]    24       12    1.041V   230.4UA 
+[Info] [IRD_SL]    24       12    1.042V   234.0UA 
+[Info] [IRD_SL]    24       12    1.043V   237.2UA 
+[Info] [IRD_SL]    24       12    1.044V   236.8UA 
+[Info] [IRD_SL]    24       12    1.045V   240.8UA 
+[Info] [IRD_SL]    24       12    1.046V   242.8UA 
+[Info] [IRD_SL]    24       12    1.047V   243.6UA 
+[Info] [IRD_SL]    24       12    1.048V   244.4UA 
+[Info] [IRD_SL]    24       12    1.049V   244.8UA 
+[Info] [IRD_SL]    24       12    1.050V   246.0UA 
+[Info] [IRD_SL]    24       12    1.051V   246.8UA 
+[Info] [IRD_SL]    24       12    1.052V   248.8UA 
+[Info] [IRD_SL]    24       12    1.053V   253.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    24       16    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    24       16    1.010V   187.9UA 
+[Info] [IRD_SL]    24       16    1.020V   196.0UA 
+[Info] [IRD_SL]    24       16    1.030V   202.8UA 
+[Info] [IRD_SL]    24       16    1.040V   214.4UA 
+[Info] [IRD_SL]    24       16    1.050V   224.4UA 
+[Info] [IRD_SL]    24       16    1.060V   232.8UA 
+[Info] [IRD_SL]    24       16    1.061V   234.4UA 
+[Info] [IRD_SL]    24       16    1.062V   240.8UA 
+[Info] [IRD_SL]    24       16    1.063V   242.0UA 
+[Info] [IRD_SL]    24       16    1.064V   242.8UA 
+[Info] [IRD_SL]    24       16    1.065V   245.6UA 
+[Info] [IRD_SL]    24       16    1.066V   250.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    24       20    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    24       20    1.010V   202.0UA 
+[Info] [IRD_SL]    24       20    1.020V   209.6UA 
+[Info] [IRD_SL]    24       20    1.030V   216.8UA 
+[Info] [IRD_SL]    24       20    1.040V   225.2UA 
+[Info] [IRD_SL]    24       20    1.041V   226.0UA 
+[Info] [IRD_SL]    24       20    1.042V   228.4UA 
+[Info] [IRD_SL]    24       20    1.043V   230.8UA 
+[Info] [IRD_SL]    24       20    1.044V   235.6UA 
+[Info] [IRD_SL]    24       20    1.045V   237.2UA 
+[Info] [IRD_SL]    24       20    1.046V   240.4UA 
+[Info] [IRD_SL]    24       20    1.047V   241.6UA 
+[Info] [IRD_SL]    24       20    1.048V   243.2UA 
+[Info] [IRD_SL]    24       20    1.049V   245.6UA 
+[Info] [IRD_SL]    24       20    1.050V   246.4UA 
+[Info] [IRD_SL]    24       20    1.051V   248.0UA 
+[Info] [IRD_SL]    24       20    1.052V   247.6UA 
+[Info] [IRD_SL]    24       20    1.053V   250.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    24       24    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    24       24    1.010V   196.1UA 
+[Info] [IRD_SL]    24       24    1.020V   208.8UA 
+[Info] [IRD_SL]    24       24    1.030V   215.2UA 
+[Info] [IRD_SL]    24       24    1.040V   223.6UA 
+[Info] [IRD_SL]    24       24    1.050V   232.8UA 
+[Info] [IRD_SL]    24       24    1.051V   236.4UA 
+[Info] [IRD_SL]    24       24    1.052V   244.4UA 
+[Info] [IRD_SL]    24       24    1.053V   249.2UA 
+[Info] [IRD_SL]    24       24    1.054V   251.6UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    24       28    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    24       28    1.010V   209.6UA 
+[Info] [IRD_SL]    24       28    1.020V   216.0UA 
+[Info] [IRD_SL]    24       28    1.030V   224.0UA 
+[Info] [IRD_SL]    24       28    1.040V   231.2UA 
+[Info] [IRD_SL]    24       28    1.041V   233.2UA 
+[Info] [IRD_SL]    24       28    1.042V   237.2UA 
+[Info] [IRD_SL]    24       28    1.043V   239.6UA 
+[Info] [IRD_SL]    24       28    1.044V   244.8UA 
+[Info] [IRD_SL]    24       28    1.045V   244.8UA 
+[Info] [IRD_SL]    24       28    1.046V   247.2UA 
+[Info] [IRD_SL]    24       28    1.047V   248.0UA 
+[Info] [IRD_SL]    24       28    1.048V   250.0UA 
+[Info] [IRD_SL]    24       28    1.049V   252.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    28        0    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    28        0    1.010V   153.0UA 
+[Info] [IRD_SL]    28        0    1.020V   157.1UA 
+[Info] [IRD_SL]    28        0    1.030V   163.3UA 
+[Info] [IRD_SL]    28        0    1.040V   166.2UA 
+[Info] [IRD_SL]    28        0    1.050V   173.3UA 
+[Info] [IRD_SL]    28        0    1.060V   178.5UA 
+[Info] [IRD_SL]    28        0    1.070V   192.2UA 
+[Info] [IRD_SL]    28        0    1.080V   201.2UA 
+[Info] [IRD_SL]    28        0    1.090V   208.8UA 
+[Info] [IRD_SL]    28        0    1.100V   212.4UA 
+[Info] [IRD_SL]    28        0    1.110V   219.6UA 
+[Info] [IRD_SL]    28        0    1.120V   223.6UA 
+[Info] [IRD_SL]    28        0    1.130V   227.6UA 
+[Info] [IRD_SL]    28        0    1.131V   234.0UA 
+[Info] [IRD_SL]    28        0    1.132V   239.2UA 
+[Info] [IRD_SL]    28        0    1.133V   241.2UA 
+[Info] [IRD_SL]    28        0    1.134V   242.8UA 
+[Info] [IRD_SL]    28        0    1.135V   246.4UA 
+[Info] [IRD_SL]    28        0    1.136V   248.8UA 
+[Info] [IRD_SL]    28        0    1.137V   249.6UA 
+[Info] [IRD_SL]    28        0    1.138V   249.2UA 
+[Info] [IRD_SL]    28        0    1.139V   252.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    28        4    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    28        4    1.010V   180.8UA 
+[Info] [IRD_SL]    28        4    1.020V   187.9UA 
+[Info] [IRD_SL]    28        4    1.030V   193.1UA 
+[Info] [IRD_SL]    28        4    1.040V   197.9UA 
+[Info] [IRD_SL]    28        4    1.050V   203.6UA 
+[Info] [IRD_SL]    28        4    1.060V   210.8UA 
+[Info] [IRD_SL]    28        4    1.070V   216.0UA 
+[Info] [IRD_SL]    28        4    1.080V   222.8UA 
+[Info] [IRD_SL]    28        4    1.090V   225.6UA 
+[Info] [IRD_SL]    28        4    1.091V   228.0UA 
+[Info] [IRD_SL]    28        4    1.092V   236.0UA 
+[Info] [IRD_SL]    28        4    1.093V   240.0UA 
+[Info] [IRD_SL]    28        4    1.094V   242.4UA 
+[Info] [IRD_SL]    28        4    1.095V   245.6UA 
+[Info] [IRD_SL]    28        4    1.096V   247.6UA 
+[Info] [IRD_SL]    28        4    1.097V   250.0UA 
+[Info] [IRD_SL]    28        4    1.098V   251.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    28        8    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    28        8    1.010V   189.4UA 
+[Info] [IRD_SL]    28        8    1.020V   194.5UA 
+[Info] [IRD_SL]    28        8    1.030V   199.7UA 
+[Info] [IRD_SL]    28        8    1.040V   206.0UA 
+[Info] [IRD_SL]    28        8    1.050V   210.8UA 
+[Info] [IRD_SL]    28        8    1.060V   216.4UA 
+[Info] [IRD_SL]    28        8    1.070V   224.8UA 
+[Info] [IRD_SL]    28        8    1.080V   230.4UA 
+[Info] [IRD_SL]    28        8    1.081V   235.6UA 
+[Info] [IRD_SL]    28        8    1.082V   239.2UA 
+[Info] [IRD_SL]    28        8    1.083V   237.6UA 
+[Info] [IRD_SL]    28        8    1.084V   240.4UA 
+[Info] [IRD_SL]    28        8    1.085V   241.2UA 
+[Info] [IRD_SL]    28        8    1.086V   244.4UA 
+[Info] [IRD_SL]    28        8    1.087V   247.2UA 
+[Info] [IRD_SL]    28        8    1.088V   247.2UA 
+[Info] [IRD_SL]    28        8    1.089V   249.6UA 
+[Info] [IRD_SL]    28        8    1.090V   250.0UA 
+[Info] [IRD_SL]    28        8    1.091V   252.0UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    28       12    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    28       12    1.010V   183.9UA 
+[Info] [IRD_SL]    28       12    1.020V   193.9UA 
+[Info] [IRD_SL]    28       12    1.030V   200.8UA 
+[Info] [IRD_SL]    28       12    1.040V   205.6UA 
+[Info] [IRD_SL]    28       12    1.050V   211.2UA 
+[Info] [IRD_SL]    28       12    1.060V   216.8UA 
+[Info] [IRD_SL]    28       12    1.070V   219.6UA 
+[Info] [IRD_SL]    28       12    1.080V   223.2UA 
+[Info] [IRD_SL]    28       12    1.090V   231.2UA 
+[Info] [IRD_SL]    28       12    1.091V   236.8UA 
+[Info] [IRD_SL]    28       12    1.092V   240.4UA 
+[Info] [IRD_SL]    28       12    1.093V   244.8UA 
+[Info] [IRD_SL]    28       12    1.094V   251.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    28       16    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    28       16    1.010V   183.2UA 
+[Info] [IRD_SL]    28       16    1.020V   187.6UA 
+[Info] [IRD_SL]    28       16    1.030V   195.7UA 
+[Info] [IRD_SL]    28       16    1.040V   202.8UA 
+[Info] [IRD_SL]    28       16    1.050V   215.2UA 
+[Info] [IRD_SL]    28       16    1.060V   222.4UA 
+[Info] [IRD_SL]    28       16    1.070V   227.6UA 
+[Info] [IRD_SL]    28       16    1.071V   232.8UA 
+[Info] [IRD_SL]    28       16    1.072V   237.2UA 
+[Info] [IRD_SL]    28       16    1.073V   237.6UA 
+[Info] [IRD_SL]    28       16    1.074V   242.0UA 
+[Info] [IRD_SL]    28       16    1.075V   245.2UA 
+[Info] [IRD_SL]    28       16    1.076V   248.0UA 
+[Info] [IRD_SL]    28       16    1.077V   249.6UA 
+[Info] [IRD_SL]    28       16    1.078V   252.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    28       20    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    28       20    1.010V   184.6UA 
+[Info] [IRD_SL]    28       20    1.020V   190.4UA 
+[Info] [IRD_SL]    28       20    1.030V   199.5UA 
+[Info] [IRD_SL]    28       20    1.040V   207.2UA 
+[Info] [IRD_SL]    28       20    1.050V   215.2UA 
+[Info] [IRD_SL]    28       20    1.060V   221.2UA 
+[Info] [IRD_SL]    28       20    1.070V   231.2UA 
+[Info] [IRD_SL]    28       20    1.071V   233.6UA 
+[Info] [IRD_SL]    28       20    1.072V   234.8UA 
+[Info] [IRD_SL]    28       20    1.073V   237.6UA 
+[Info] [IRD_SL]    28       20    1.074V   241.6UA 
+[Info] [IRD_SL]    28       20    1.075V   242.8UA 
+[Info] [IRD_SL]    28       20    1.076V   245.6UA 
+[Info] [IRD_SL]    28       20    1.077V   247.2UA 
+[Info] [IRD_SL]    28       20    1.078V   247.6UA 
+[Info] [IRD_SL]    28       20    1.079V   250.0UA 
+[Info] [IRD_SL]    28       20    1.080V   252.0UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    28       24    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    28       24    1.010V   191.6UA 
+[Info] [IRD_SL]    28       24    1.020V   204.4UA 
+[Info] [IRD_SL]    28       24    1.030V   215.6UA 
+[Info] [IRD_SL]    28       24    1.040V   220.8UA 
+[Info] [IRD_SL]    28       24    1.050V   225.2UA 
+[Info] [IRD_SL]    28       24    1.051V   229.6UA 
+[Info] [IRD_SL]    28       24    1.052V   235.2UA 
+[Info] [IRD_SL]    28       24    1.053V   236.0UA 
+[Info] [IRD_SL]    28       24    1.054V   238.0UA 
+[Info] [IRD_SL]    28       24    1.055V   241.6UA 
+[Info] [IRD_SL]    28       24    1.056V   243.6UA 
+[Info] [IRD_SL]    28       24    1.057V   244.0UA 
+[Info] [IRD_SL]    28       24    1.058V   245.2UA 
+[Info] [IRD_SL]    28       24    1.059V   247.6UA 
+[Info] [IRD_SL]    28       24    1.060V   249.6UA 
+[Info] [IRD_SL]    28       24    1.061V   250.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    28       28    250.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    28       28    1.010V   218.0UA 
+[Info] [IRD_SL]    28       28    1.020V   227.2UA 
+[Info] [IRD_SL]    28       28    1.021V   232.0UA 
+[Info] [IRD_SL]    28       28    1.022V   235.2UA 
+[Info] [IRD_SL]    28       28    1.023V   240.0UA 
+[Info] [IRD_SL]    28       28    1.024V   240.8UA 
+[Info] [IRD_SL]    28       28    1.025V   243.2UA 
+[Info] [IRD_SL]    28       28    1.026V   244.0UA 
+[Info] [IRD_SL]    28       28    1.027V   247.2UA 
+[Info] [IRD_SL]    28       28    1.028V   248.8UA 
+[Info] [IRD_SL]    28       28    1.029V   251.6UA 
+[Info] [SET_COMPLETED]
+[Info] [SCAN_START]
+[Info] [IRD_SL]     0        0    254.0UA 
+[Info] [IRD_SL]     1        0    31.28UA 
+[Info] [IRD_SL]     2        0    20.48UA 
+[Info] [IRD_SL]     3        0    27.36UA 
+[Info] [IRD_SL]     4        0    251.6UA 
+[Info] [IRD_SL]     5        0    27.00UA 
+[Info] [IRD_SL]     6        0    28.40UA 
+[Info] [IRD_SL]     7        0    28.40UA 
+[Info] [IRD_SL]     8        0    251.6UA 
+[Info] [IRD_SL]     9        0    418.0UA 
+[Info] [IRD_SL]    10        0    417.2UA 
+[Info] [IRD_SL]    11        0    412.0UA 
+[Info] [IRD_SL]    12        0    251.2UA 
+[Info] [IRD_SL]    13        0    400.4UA 
+[Info] [IRD_SL]    14        0    432.8UA 
+[Info] [IRD_SL]    15        0    384.8UA 
+[Info] [IRD_SL]    16        0    250.0UA 
+[Info] [IRD_SL]    17        0    398.0UA 
+[Info] [IRD_SL]    18        0    416.0UA 
+[Info] [IRD_SL]    19        0    406.8UA 
+[Info] [IRD_SL]    20        0    252.0UA 
+[Info] [IRD_SL]    21        0    355.2UA 
+[Info] [IRD_SL]    22        0    396.0UA 
+[Info] [IRD_SL]    23        0    367.2UA 
+[Info] [IRD_SL]    24        0    251.2UA 
+[Info] [IRD_SL]    25        0    392.4UA 
+[Info] [IRD_SL]    26        0    384.4UA 
+[Info] [IRD_SL]    27        0    382.8UA 
+[Info] [IRD_SL]    28        0    253.6UA 
+[Info] [IRD_SL]    29        0    380.0UA 
+[Info] [IRD_SL]    30        0    386.0UA 
+[Info] [IRD_SL]    31        0    366.0UA 
+[Info] [IRD_SL]     0        1    352.4UA 
+[Info] [IRD_SL]     1        1    308.0UA 
+[Info] [IRD_SL]     2        1    275.2UA 
+[Info] [IRD_SL]     3        1    231.2UA 
+[Info] [IRD_SL]     4        1    184.1UA 
+[Info] [IRD_SL]     5        1    150.6UA 
+[Info] [IRD_SL]     6        1    108.7UA 
+[Info] [IRD_SL]     7        1    70.00UA 
+[Info] [IRD_SL]     8        1    415.6UA 
+[Info] [IRD_SL]     9        1    387.6UA 
+[Info] [IRD_SL]    10        1    417.2UA 
+[Info] [IRD_SL]    11        1    400.0UA 
+[Info] [IRD_SL]    12        1    380.4UA 
+[Info] [IRD_SL]    13        1    384.0UA 
+[Info] [IRD_SL]    14        1    396.4UA 
+[Info] [IRD_SL]    15        1    419.6UA 
+[Info] [IRD_SL]    16        1    338.0UA 
+[Info] [IRD_SL]    17        1    406.4UA 
+[Info] [IRD_SL]    18        1    410.8UA 
+[Info] [IRD_SL]    19        1    398.0UA 
+[Info] [IRD_SL]    20        1    402.0UA 
+[Info] [IRD_SL]    21        1    402.4UA 
+[Info] [IRD_SL]    22        1    414.0UA 
+[Info] [IRD_SL]    23        1    408.0UA 
+[Info] [IRD_SL]    24        1    415.2UA 
+[Info] [IRD_SL]    25        1    388.0UA 
+[Info] [IRD_SL]    26        1    413.2UA 
+[Info] [IRD_SL]    27        1    426.4UA 
+[Info] [IRD_SL]    28        1    397.2UA 
+[Info] [IRD_SL]    29        1    378.4UA 
+[Info] [IRD_SL]    30        1    407.6UA 
+[Info] [IRD_SL]    31        1    400.8UA 
+[Info] [IRD_SL]     0        2    30.88UA 
+[Info] [IRD_SL]     1        2    27.28UA 
+[Info] [IRD_SL]     2        2    28.24UA 
+[Info] [IRD_SL]     3        2    27.92UA 
+[Info] [IRD_SL]     4        2    24.56UA 
+[Info] [IRD_SL]     5        2    31.68UA 
+[Info] [IRD_SL]     6        2    31.28UA 
+[Info] [IRD_SL]     7        2    29.84UA 
+[Info] [IRD_SL]     8        2    432.4UA 
+[Info] [IRD_SL]     9        2    389.6UA 
+[Info] [IRD_SL]    10        2    418.4UA 
+[Info] [IRD_SL]    11        2    419.2UA 
+[Info] [IRD_SL]    12        2    356.8UA 
+[Info] [IRD_SL]    13        2    420.0UA 
+[Info] [IRD_SL]    14        2    413.6UA 
+[Info] [IRD_SL]    15        2    402.0UA 
+[Info] [IRD_SL]    16        2    432.8UA 
+[Info] [IRD_SL]    17        2    394.8UA 
+[Info] [IRD_SL]    18        2    413.6UA 
+[Info] [IRD_SL]    19        2    384.0UA 
+[Info] [IRD_SL]    20        2    366.0UA 
+[Info] [IRD_SL]    21        2    394.0UA 
+[Info] [IRD_SL]    22        2    400.8UA 
+[Info] [IRD_SL]    23        2    410.0UA 
+[Info] [IRD_SL]    24        2    429.2UA 
+[Info] [IRD_SL]    25        2    414.4UA 
+[Info] [IRD_SL]    26        2    412.0UA 
+[Info] [IRD_SL]    27        2    391.6UA 
+[Info] [IRD_SL]    28        2    383.2UA 
+[Info] [IRD_SL]    29        2    399.6UA 
+[Info] [IRD_SL]    30        2    402.0UA 
+[Info] [IRD_SL]    31        2    379.6UA 
+[Info] [IRD_SL]     0        3    346.0UA 
+[Info] [IRD_SL]     1        3    304.8UA 
+[Info] [IRD_SL]     2        3    266.4UA 
+[Info] [IRD_SL]     3        3    225.2UA 
+[Info] [IRD_SL]     4        3    185.8UA 
+[Info] [IRD_SL]     5        3    142.7UA 
+[Info] [IRD_SL]     6        3    108.5UA 
+[Info] [IRD_SL]     7        3    64.68UA 
+[Info] [IRD_SL]     8        3    357.2UA 
+[Info] [IRD_SL]     9        3    408.8UA 
+[Info] [IRD_SL]    10        3    418.0UA 
+[Info] [IRD_SL]    11        3    397.6UA 
+[Info] [IRD_SL]    12        3    414.8UA 
+[Info] [IRD_SL]    13        3    410.0UA 
+[Info] [IRD_SL]    14        3    412.4UA 
+[Info] [IRD_SL]    15        3    383.6UA 
+[Info] [IRD_SL]    16        3    421.6UA 
+[Info] [IRD_SL]    17        3    380.0UA 
+[Info] [IRD_SL]    18        3    381.6UA 
+[Info] [IRD_SL]    19        3    388.8UA 
+[Info] [IRD_SL]    20        3    406.4UA 
+[Info] [IRD_SL]    21        3    401.2UA 
+[Info] [IRD_SL]    22        3    400.4UA 
+[Info] [IRD_SL]    23        3    409.6UA 
+[Info] [IRD_SL]    24        3    411.2UA 
+[Info] [IRD_SL]    25        3    400.0UA 
+[Info] [IRD_SL]    26        3    432.4UA 
+[Info] [IRD_SL]    27        3    333.6UA 
+[Info] [IRD_SL]    28        3    396.4UA 
+[Info] [IRD_SL]    29        3    404.0UA 
+[Info] [IRD_SL]    30        3    410.8UA 
+[Info] [IRD_SL]    31        3    322.0UA 
+[Info] [IRD_SL]     0        4    252.0UA 
+[Info] [IRD_SL]     1        4    26.40UA 
+[Info] [IRD_SL]     2        4    27.88UA 
+[Info] [IRD_SL]     3        4    30.48UA 
+[Info] [IRD_SL]     4        4    250.0UA 
+[Info] [IRD_SL]     5        4    24.92UA 
+[Info] [IRD_SL]     6        4    26.20UA 
+[Info] [IRD_SL]     7        4    28.56UA 
+[Info] [IRD_SL]     8        4    250.0UA 
+[Info] [IRD_SL]     9        4    416.8UA 
+[Info] [IRD_SL]    10        4    436.4UA 
+[Info] [IRD_SL]    11        4    416.0UA 
+[Info] [IRD_SL]    12        4    250.4UA 
+[Info] [IRD_SL]    13        4    410.0UA 
+[Info] [IRD_SL]    14        4    442.0UA 
+[Info] [IRD_SL]    15        4    405.6UA 
+[Info] [IRD_SL]    16        4    249.2UA 
+[Info] [IRD_SL]    17        4    390.4UA 
+[Info] [IRD_SL]    18        4    395.2UA 
+[Info] [IRD_SL]    19        4    400.8UA 
+[Info] [IRD_SL]    20        4    251.2UA 
+[Info] [IRD_SL]    21        4    389.2UA 
+[Info] [IRD_SL]    22        4    420.0UA 
+[Info] [IRD_SL]    23        4    410.0UA 
+[Info] [IRD_SL]    24        4    250.8UA 
+[Info] [IRD_SL]    25        4    411.6UA 
+[Info] [IRD_SL]    26        4    368.0UA 
+[Info] [IRD_SL]    27        4    389.6UA 
+[Info] [IRD_SL]    28        4    252.4UA 
+[Info] [IRD_SL]    29        4    398.0UA 
+[Info] [IRD_SL]    30        4    403.2UA 
+[Info] [IRD_SL]    31        4    321.2UA 
+[Info] [IRD_SL]     0        5    341.6UA 
+[Info] [IRD_SL]     1        5    299.2UA 
+[Info] [IRD_SL]     2        5    260.8UA 
+[Info] [IRD_SL]     3        5    224.0UA 
+[Info] [IRD_SL]     4        5    181.7UA 
+[Info] [IRD_SL]     5        5    140.1UA 
+[Info] [IRD_SL]     6        5    100.8UA 
+[Info] [IRD_SL]     7        5    62.40UA 
+[Info] [IRD_SL]     8        5    422.0UA 
+[Info] [IRD_SL]     9        5    410.4UA 
+[Info] [IRD_SL]    10        5    432.4UA 
+[Info] [IRD_SL]    11        5    409.2UA 
+[Info] [IRD_SL]    12        5    348.0UA 
+[Info] [IRD_SL]    13        5    404.8UA 
+[Info] [IRD_SL]    14        5    362.4UA 
+[Info] [IRD_SL]    15        5    330.0UA 
+[Info] [IRD_SL]    16        5    430.8UA 
+[Info] [IRD_SL]    17        5    399.6UA 
+[Info] [IRD_SL]    18        5    422.0UA 
+[Info] [IRD_SL]    19        5    412.8UA 
+[Info] [IRD_SL]    20        5    408.4UA 
+[Info] [IRD_SL]    21        5    397.2UA 
+[Info] [IRD_SL]    22        5    427.2UA 
+[Info] [IRD_SL]    23        5    388.4UA 
+[Info] [IRD_SL]    24        5    414.4UA 
+[Info] [IRD_SL]    25        5    399.6UA 
+[Info] [IRD_SL]    26        5    395.6UA 
+[Info] [IRD_SL]    27        5    396.8UA 
+[Info] [IRD_SL]    28        5    390.0UA 
+[Info] [IRD_SL]    29        5    394.8UA 
+[Info] [IRD_SL]    30        5    399.2UA 
+[Info] [IRD_SL]    31        5    371.6UA 
+[Info] [IRD_SL]     0        6    27.84UA 
+[Info] [IRD_SL]     1        6    35.32UA 
+[Info] [IRD_SL]     2        6    31.96UA 
+[Info] [IRD_SL]     3        6    28.88UA 
+[Info] [IRD_SL]     4        6    22.24UA 
+[Info] [IRD_SL]     5        6    29.72UA 
+[Info] [IRD_SL]     6        6    31.44UA 
+[Info] [IRD_SL]     7        6    23.40UA 
+[Info] [IRD_SL]     8        6    428.0UA 
+[Info] [IRD_SL]     9        6    416.8UA 
+[Info] [IRD_SL]    10        6    440.4UA 
+[Info] [IRD_SL]    11        6    380.0UA 
+[Info] [IRD_SL]    12        6    394.8UA 
+[Info] [IRD_SL]    13        6    421.6UA 
+[Info] [IRD_SL]    14        6    392.0UA 
+[Info] [IRD_SL]    15        6    436.8UA 
+[Info] [IRD_SL]    16        6    426.8UA 
+[Info] [IRD_SL]    17        6    394.8UA 
+[Info] [IRD_SL]    18        6    404.4UA 
+[Info] [IRD_SL]    19        6    428.8UA 
+[Info] [IRD_SL]    20        6    409.6UA 
+[Info] [IRD_SL]    21        6    389.2UA 
+[Info] [IRD_SL]    22        6    426.4UA 
+[Info] [IRD_SL]    23        6    368.8UA 
+[Info] [IRD_SL]    24        6    446.4UA 
+[Info] [IRD_SL]    25        6    402.0UA 
+[Info] [IRD_SL]    26        6    420.0UA 
+[Info] [IRD_SL]    27        6    394.0UA 
+[Info] [IRD_SL]    28        6    416.0UA 
+[Info] [IRD_SL]    29        6    385.6UA 
+[Info] [IRD_SL]    30        6    420.4UA 
+[Info] [IRD_SL]    31        6    393.6UA 
+[Info] [IRD_SL]     0        7    335.2UA 
+[Info] [IRD_SL]     1        7    298.4UA 
+[Info] [IRD_SL]     2        7    256.0UA 
+[Info] [IRD_SL]     3        7    215.6UA 
+[Info] [IRD_SL]     4        7    176.7UA 
+[Info] [IRD_SL]     5        7    134.2UA 
+[Info] [IRD_SL]     6        7    97.84UA 
+[Info] [IRD_SL]     7        7    58.96UA 
+[Info] [IRD_SL]     8        7    438.4UA 
+[Info] [IRD_SL]     9        7    400.0UA 
+[Info] [IRD_SL]    10        7    328.4UA 
+[Info] [IRD_SL]    11        7    354.0UA 
+[Info] [IRD_SL]    12        7    412.0UA 
+[Info] [IRD_SL]    13        7    422.0UA 
+[Info] [IRD_SL]    14        7    406.8UA 
+[Info] [IRD_SL]    15        7    418.0UA 
+[Info] [IRD_SL]    16        7    414.0UA 
+[Info] [IRD_SL]    17        7    395.6UA 
+[Info] [IRD_SL]    18        7    407.2UA 
+[Info] [IRD_SL]    19        7    426.0UA 
+[Info] [IRD_SL]    20        7    396.0UA 
+[Info] [IRD_SL]    21        7    415.6UA 
+[Info] [IRD_SL]    22        7    403.2UA 
+[Info] [IRD_SL]    23        7    408.4UA 
+[Info] [IRD_SL]    24        7    436.0UA 
+[Info] [IRD_SL]    25        7    383.2UA 
+[Info] [IRD_SL]    26        7    426.0UA 
+[Info] [IRD_SL]    27        7    368.8UA 
+[Info] [IRD_SL]    28        7    398.0UA 
+[Info] [IRD_SL]    29        7    394.8UA 
+[Info] [IRD_SL]    30        7    391.6UA 
+[Info] [IRD_SL]    31        7    410.4UA 
+[Info] [IRD_SL]     0        8    249.2UA 
+[Info] [IRD_SL]     1        8    31.20UA 
+[Info] [IRD_SL]     2        8    26.80UA 
+[Info] [IRD_SL]     3        8    29.44UA 
+[Info] [IRD_SL]     4        8    249.2UA 
+[Info] [IRD_SL]     5        8    30.36UA 
+[Info] [IRD_SL]     6        8    30.40UA 
+[Info] [IRD_SL]     7        8    8.092UA 
+[Info] [IRD_SL]     8        8    250.0UA 
+[Info] [IRD_SL]     9        8    432.4UA 
+[Info] [IRD_SL]    10        8    434.4UA 
+[Info] [IRD_SL]    11        8    415.6UA 
+[Info] [IRD_SL]    12        8    251.2UA 
+[Info] [IRD_SL]    13        8    418.0UA 
+[Info] [IRD_SL]    14        8    429.6UA 
+[Info] [IRD_SL]    15        8    430.4UA 
+[Info] [IRD_SL]    16        8    249.6UA 
+[Info] [IRD_SL]    17        8    402.4UA 
+[Info] [IRD_SL]    18        8    398.0UA 
+[Info] [IRD_SL]    19        8    402.0UA 
+[Info] [IRD_SL]    20        8    250.0UA 
+[Info] [IRD_SL]    21        8    424.8UA 
+[Info] [IRD_SL]    22        8    442.0UA 
+[Info] [IRD_SL]    23        8    419.6UA 
+[Info] [IRD_SL]    24        8    251.2UA 
+[Info] [IRD_SL]    25        8    398.4UA 
+[Info] [IRD_SL]    26        8    413.2UA 
+[Info] [IRD_SL]    27        8    392.4UA 
+[Info] [IRD_SL]    28        8    251.6UA 
+[Info] [IRD_SL]    29        8    412.0UA 
+[Info] [IRD_SL]    30        8    408.0UA 
+[Info] [IRD_SL]    31        8    398.4UA 
+[Info] [IRD_SL]     0        9    352.8UA 
+[Info] [IRD_SL]     1        9    308.0UA 
+[Info] [IRD_SL]     2        9    267.2UA 
+[Info] [IRD_SL]     3        9    226.4UA 
+[Info] [IRD_SL]     4        9    191.7UA 
+[Info] [IRD_SL]     5        9    151.4UA 
+[Info] [IRD_SL]     6        9    107.7UA 
+[Info] [IRD_SL]     7        9    355.2UA 
+[Info] [IRD_SL]     8        9    436.4UA 
+[Info] [IRD_SL]     9        9    426.4UA 
+[Info] [IRD_SL]    10        9    438.0UA 
+[Info] [IRD_SL]    11        9    416.4UA 
+[Info] [IRD_SL]    12        9    384.4UA 
+[Info] [IRD_SL]    13        9    423.2UA 
+[Info] [IRD_SL]    14        9    404.0UA 
+[Info] [IRD_SL]    15        9    418.4UA 
+[Info] [IRD_SL]    16        9    424.0UA 
+[Info] [IRD_SL]    17        9    386.4UA 
+[Info] [IRD_SL]    18        9    395.2UA 
+[Info] [IRD_SL]    19        9    407.2UA 
+[Info] [IRD_SL]    20        9    379.6UA 
+[Info] [IRD_SL]    21        9    400.0UA 
+[Info] [IRD_SL]    22        9    397.2UA 
+[Info] [IRD_SL]    23        9    373.6UA 
+[Info] [IRD_SL]    24        9    434.4UA 
+[Info] [IRD_SL]    25        9    439.2UA 
+[Info] [IRD_SL]    26        9    380.4UA 
+[Info] [IRD_SL]    27        9    386.4UA 
+[Info] [IRD_SL]    28        9    404.0UA 
+[Info] [IRD_SL]    29        9    376.0UA 
+[Info] [IRD_SL]    30        9    408.0UA 
+[Info] [IRD_SL]    31        9    382.8UA 
+[Info] [IRD_SL]     0       10    27.72UA 
+[Info] [IRD_SL]     1       10    31.12UA 
+[Info] [IRD_SL]     2       10    28.16UA 
+[Info] [IRD_SL]     3       10    21.32UA 
+[Info] [IRD_SL]     4       10    29.80UA 
+[Info] [IRD_SL]     5       10    25.76UA 
+[Info] [IRD_SL]     6       10    33.92UA 
+[Info] [IRD_SL]     7       10    430.4UA 
+[Info] [IRD_SL]     8       10    461.6UA 
+[Info] [IRD_SL]     9       10    440.4UA 
+[Info] [IRD_SL]    10       10    432.8UA 
+[Info] [IRD_SL]    11       10    429.6UA 
+[Info] [IRD_SL]    12       10    444.4UA 
+[Info] [IRD_SL]    13       10    443.6UA 
+[Info] [IRD_SL]    14       10    433.6UA 
+[Info] [IRD_SL]    15       10    419.6UA 
+[Info] [IRD_SL]    16       10    346.4UA 
+[Info] [IRD_SL]    17       10    393.6UA 
+[Info] [IRD_SL]    18       10    420.0UA 
+[Info] [IRD_SL]    19       10    415.6UA 
+[Info] [IRD_SL]    20       10    402.0UA 
+[Info] [IRD_SL]    21       10    406.8UA 
+[Info] [IRD_SL]    22       10    396.8UA 
+[Info] [IRD_SL]    23       10    382.0UA 
+[Info] [IRD_SL]    24       10    416.4UA 
+[Info] [IRD_SL]    25       10    418.4UA 
+[Info] [IRD_SL]    26       10    437.2UA 
+[Info] [IRD_SL]    27       10    408.0UA 
+[Info] [IRD_SL]    28       10    412.0UA 
+[Info] [IRD_SL]    29       10    412.0UA 
+[Info] [IRD_SL]    30       10    405.6UA 
+[Info] [IRD_SL]    31       10    399.6UA 
+[Info] [IRD_SL]     0       11    349.2UA 
+[Info] [IRD_SL]     1       11    306.8UA 
+[Info] [IRD_SL]     2       11    265.6UA 
+[Info] [IRD_SL]     3       11    226.8UA 
+[Info] [IRD_SL]     4       11    188.0UA 
+[Info] [IRD_SL]     5       11    141.2UA 
+[Info] [IRD_SL]     6       11    106.8UA 
+[Info] [IRD_SL]     7       11    448.4UA 
+[Info] [IRD_SL]     8       11    440.4UA 
+[Info] [IRD_SL]     9       11    413.6UA 
+[Info] [IRD_SL]    10       11    456.4UA 
+[Info] [IRD_SL]    11       11    425.6UA 
+[Info] [IRD_SL]    12       11    439.2UA 
+[Info] [IRD_SL]    13       11    422.8UA 
+[Info] [IRD_SL]    14       11    449.6UA 
+[Info] [IRD_SL]    15       11    429.6UA 
+[Info] [IRD_SL]    16       11    419.6UA 
+[Info] [IRD_SL]    17       11    423.6UA 
+[Info] [IRD_SL]    18       11    422.0UA 
+[Info] [IRD_SL]    19       11    418.4UA 
+[Info] [IRD_SL]    20       11    408.8UA 
+[Info] [IRD_SL]    21       11    426.4UA 
+[Info] [IRD_SL]    22       11    409.2UA 
+[Info] [IRD_SL]    23       11    433.2UA 
+[Info] [IRD_SL]    24       11    415.2UA 
+[Info] [IRD_SL]    25       11    437.2UA 
+[Info] [IRD_SL]    26       11    380.8UA 
+[Info] [IRD_SL]    27       11    398.0UA 
+[Info] [IRD_SL]    28       11    411.6UA 
+[Info] [IRD_SL]    29       11    420.8UA 
+[Info] [IRD_SL]    30       11    404.0UA 
+[Info] [IRD_SL]    31       11    409.6UA 
+[Info] [IRD_SL]     0       12    253.2UA 
+[Info] [IRD_SL]     1       12    24.72UA 
+[Info] [IRD_SL]     2       12    26.64UA 
+[Info] [IRD_SL]     3       12    25.48UA 
+[Info] [IRD_SL]     4       12    252.0UA 
+[Info] [IRD_SL]     5       12    25.12UA 
+[Info] [IRD_SL]     6       12    29.28UA 
+[Info] [IRD_SL]     7       12    430.0UA 
+[Info] [IRD_SL]     8       12    248.8UA 
+[Info] [IRD_SL]     9       12    433.6UA 
+[Info] [IRD_SL]    10       12    423.2UA 
+[Info] [IRD_SL]    11       12    418.8UA 
+[Info] [IRD_SL]    12       12    250.8UA 
+[Info] [IRD_SL]    13       12    426.8UA 
+[Info] [IRD_SL]    14       12    440.0UA 
+[Info] [IRD_SL]    15       12    379.6UA 
+[Info] [IRD_SL]    16       12    250.4UA 
+[Info] [IRD_SL]    17       12    383.6UA 
+[Info] [IRD_SL]    18       12    430.0UA 
+[Info] [IRD_SL]    19       12    419.2UA 
+[Info] [IRD_SL]    20       12    250.0UA 
+[Info] [IRD_SL]    21       12    423.2UA 
+[Info] [IRD_SL]    22       12    414.4UA 
+[Info] [IRD_SL]    23       12    397.2UA 
+[Info] [IRD_SL]    24       12    252.8UA 
+[Info] [IRD_SL]    25       12    429.2UA 
+[Info] [IRD_SL]    26       12    405.6UA 
+[Info] [IRD_SL]    27       12    397.6UA 
+[Info] [IRD_SL]    28       12    249.6UA 
+[Info] [IRD_SL]    29       12    420.0UA 
+[Info] [IRD_SL]    30       12    405.6UA 
+[Info] [IRD_SL]    31       12    408.4UA 
+[Info] [IRD_SL]     0       13    342.8UA 
+[Info] [IRD_SL]     1       13    299.2UA 
+[Info] [IRD_SL]     2       13    262.8UA 
+[Info] [IRD_SL]     3       13    219.6UA 
+[Info] [IRD_SL]     4       13    177.9UA 
+[Info] [IRD_SL]     5       13    145.4UA 
+[Info] [IRD_SL]     6       13    99.36UA 
+[Info] [IRD_SL]     7       13    396.8UA 
+[Info] [IRD_SL]     8       13    430.8UA 
+[Info] [IRD_SL]     9       13    388.0UA 
+[Info] [IRD_SL]    10       13    437.2UA 
+[Info] [IRD_SL]    11       13    424.0UA 
+[Info] [IRD_SL]    12       13    437.6UA 
+[Info] [IRD_SL]    13       13    436.4UA 
+[Info] [IRD_SL]    14       13    413.6UA 
+[Info] [IRD_SL]    15       13    435.6UA 
+[Info] [IRD_SL]    16       13    442.8UA 
+[Info] [IRD_SL]    17       13    416.4UA 
+[Info] [IRD_SL]    18       13    362.4UA 
+[Info] [IRD_SL]    19       13    436.8UA 
+[Info] [IRD_SL]    20       13    414.4UA 
+[Info] [IRD_SL]    21       13    407.2UA 
+[Info] [IRD_SL]    22       13    400.4UA 
+[Info] [IRD_SL]    23       13    411.6UA 
+[Info] [IRD_SL]    24       13    420.4UA 
+[Info] [IRD_SL]    25       13    421.2UA 
+[Info] [IRD_SL]    26       13    422.4UA 
+[Info] [IRD_SL]    27       13    391.2UA 
+[Info] [IRD_SL]    28       13    421.2UA 
+[Info] [IRD_SL]    29       13    420.8UA 
+[Info] [IRD_SL]    30       13    414.0UA 
+[Info] [IRD_SL]    31       13    394.8UA 
+[Info] [IRD_SL]     0       14    25.84UA 
+[Info] [IRD_SL]     1       14    23.12UA 
+[Info] [IRD_SL]     2       14    22.40UA 
+[Info] [IRD_SL]     3       14    30.52UA 
+[Info] [IRD_SL]     4       14    27.68UA 
+[Info] [IRD_SL]     5       14    25.68UA 
+[Info] [IRD_SL]     6       14    21.80UA 
+[Info] [IRD_SL]     7       14    426.8UA 
+[Info] [IRD_SL]     8       14    449.6UA 
+[Info] [IRD_SL]     9       14    426.8UA 
+[Info] [IRD_SL]    10       14    462.8UA 
+[Info] [IRD_SL]    11       14    414.8UA 
+[Info] [IRD_SL]    12       14    430.0UA 
+[Info] [IRD_SL]    13       14    430.8UA 
+[Info] [IRD_SL]    14       14    450.8UA 
+[Info] [IRD_SL]    15       14    432.8UA 
+[Info] [IRD_SL]    16       14    445.2UA 
+[Info] [IRD_SL]    17       14    420.4UA 
+[Info] [IRD_SL]    18       14    401.2UA 
+[Info] [IRD_SL]    19       14    443.6UA 
+[Info] [IRD_SL]    20       14    417.6UA 
+[Info] [IRD_SL]    21       14    410.0UA 
+[Info] [IRD_SL]    22       14    390.8UA 
+[Info] [IRD_SL]    23       14    422.4UA 
+[Info] [IRD_SL]    24       14    379.2UA 
+[Info] [IRD_SL]    25       14    430.0UA 
+[Info] [IRD_SL]    26       14    408.4UA 
+[Info] [IRD_SL]    27       14    422.8UA 
+[Info] [IRD_SL]    28       14    344.4UA 
+[Info] [IRD_SL]    29       14    403.6UA 
+[Info] [IRD_SL]    30       14    422.8UA 
+[Info] [IRD_SL]    31       14    402.0UA 
+[Info] [IRD_SL]     0       15    337.6UA 
+[Info] [IRD_SL]     1       15    294.8UA 
+[Info] [IRD_SL]     2       15    256.8UA 
+[Info] [IRD_SL]     3       15    214.8UA 
+[Info] [IRD_SL]     4       15    179.1UA 
+[Info] [IRD_SL]     5       15    140.1UA 
+[Info] [IRD_SL]     6       15    95.40UA 
+[Info] [IRD_SL]     7       15    418.4UA 
+[Info] [IRD_SL]     8       15    451.6UA 
+[Info] [IRD_SL]     9       15    426.0UA 
+[Info] [IRD_SL]    10       15    416.8UA 
+[Info] [IRD_SL]    11       15    406.0UA 
+[Info] [IRD_SL]    12       15    442.4UA 
+[Info] [IRD_SL]    13       15    422.8UA 
+[Info] [IRD_SL]    14       15    436.4UA 
+[Info] [IRD_SL]    15       15    423.6UA 
+[Info] [IRD_SL]    16       15    434.8UA 
+[Info] [IRD_SL]    17       15    432.0UA 
+[Info] [IRD_SL]    18       15    388.4UA 
+[Info] [IRD_SL]    19       15    396.0UA 
+[Info] [IRD_SL]    20       15    422.0UA 
+[Info] [IRD_SL]    21       15    406.8UA 
+[Info] [IRD_SL]    22       15    404.4UA 
+[Info] [IRD_SL]    23       15    405.2UA 
+[Info] [IRD_SL]    24       15    362.4UA 
+[Info] [IRD_SL]    25       15    446.4UA 
+[Info] [IRD_SL]    26       15    430.8UA 
+[Info] [IRD_SL]    27       15    405.2UA 
+[Info] [IRD_SL]    28       15    419.2UA 
+[Info] [IRD_SL]    29       15    398.8UA 
+[Info] [IRD_SL]    30       15    409.6UA 
+[Info] [IRD_SL]    31       15    408.4UA 
+[Info] [IRD_SL]     0       16    250.4UA 
+[Info] [IRD_SL]     1       16    27.16UA 
+[Info] [IRD_SL]     2       16    30.04UA 
+[Info] [IRD_SL]     3       16    15.92UA 
+[Info] [IRD_SL]     4       16    250.0UA 
+[Info] [IRD_SL]     5       16    22.80UA 
+[Info] [IRD_SL]     6       16    21.92UA 
+[Info] [IRD_SL]     7       16    430.4UA 
+[Info] [IRD_SL]     8       16    250.0UA 
+[Info] [IRD_SL]     9       16    419.2UA 
+[Info] [IRD_SL]    10       16    446.8UA 
+[Info] [IRD_SL]    11       16    432.8UA 
+[Info] [IRD_SL]    12       16    249.2UA 
+[Info] [IRD_SL]    13       16    446.8UA 
+[Info] [IRD_SL]    14       16    421.6UA 
+[Info] [IRD_SL]    15       16    425.2UA 
+[Info] [IRD_SL]    16       16    249.6UA 
+[Info] [IRD_SL]    17       16    402.4UA 
+[Info] [IRD_SL]    18       16    370.4UA 
+[Info] [IRD_SL]    19       16    418.8UA 
+[Info] [IRD_SL]    20       16    249.2UA 
+[Info] [IRD_SL]    21       16    432.4UA 
+[Info] [IRD_SL]    22       16    397.6UA 
+[Info] [IRD_SL]    23       16    416.4UA 
+[Info] [IRD_SL]    24       16    248.0UA 
+[Info] [IRD_SL]    25       16    422.0UA 
+[Info] [IRD_SL]    26       16    420.4UA 
+[Info] [IRD_SL]    27       16    394.4UA 
+[Info] [IRD_SL]    28       16    252.8UA 
+[Info] [IRD_SL]    29       16    375.2UA 
+[Info] [IRD_SL]    30       16    411.2UA 
+[Info] [IRD_SL]    31       16    401.6UA 
+[Info] [IRD_SL]     0       17    353.2UA 
+[Info] [IRD_SL]     1       17    312.0UA 
+[Info] [IRD_SL]     2       17    269.2UA 
+[Info] [IRD_SL]     3       17    228.0UA 
+[Info] [IRD_SL]     4       17    189.9UA 
+[Info] [IRD_SL]     5       17    149.9UA 
+[Info] [IRD_SL]     6       17    118.2UA 
+[Info] [IRD_SL]     7       17    414.4UA 
+[Info] [IRD_SL]     8       17    441.6UA 
+[Info] [IRD_SL]     9       17    434.0UA 
+[Info] [IRD_SL]    10       17    450.4UA 
+[Info] [IRD_SL]    11       17    424.8UA 
+[Info] [IRD_SL]    12       17    410.4UA 
+[Info] [IRD_SL]    13       17    429.6UA 
+[Info] [IRD_SL]    14       17    422.4UA 
+[Info] [IRD_SL]    15       17    438.0UA 
+[Info] [IRD_SL]    16       17    417.2UA 
+[Info] [IRD_SL]    17       17    430.4UA 
+[Info] [IRD_SL]    18       17    420.4UA 
+[Info] [IRD_SL]    19       17    408.0UA 
+[Info] [IRD_SL]    20       17    425.6UA 
+[Info] [IRD_SL]    21       17    412.0UA 
+[Info] [IRD_SL]    22       17    433.2UA 
+[Info] [IRD_SL]    23       17    418.4UA 
+[Info] [IRD_SL]    24       17    423.2UA 
+[Info] [IRD_SL]    25       17    394.8UA 
+[Info] [IRD_SL]    26       17    414.0UA 
+[Info] [IRD_SL]    27       17    426.0UA 
+[Info] [IRD_SL]    28       17    403.6UA 
+[Info] [IRD_SL]    29       17    402.8UA 
+[Info] [IRD_SL]    30       17    428.8UA 
+[Info] [IRD_SL]    31       17    391.6UA 
+[Info] [IRD_SL]     0       18    29.36UA 
+[Info] [IRD_SL]     1       18    27.36UA 
+[Info] [IRD_SL]     2       18    33.12UA 
+[Info] [IRD_SL]     3       18    28.72UA 
+[Info] [IRD_SL]     4       18    25.20UA 
+[Info] [IRD_SL]     5       18    24.88UA 
+[Info] [IRD_SL]     6       18    29.24UA 
+[Info] [IRD_SL]     7       18    435.2UA 
+[Info] [IRD_SL]     8       18    402.8UA 
+[Info] [IRD_SL]     9       18    422.8UA 
+[Info] [IRD_SL]    10       18    400.8UA 
+[Info] [IRD_SL]    11       18    409.2UA 
+[Info] [IRD_SL]    12       18    343.2UA 
+[Info] [IRD_SL]    13       18    429.2UA 
+[Info] [IRD_SL]    14       18    432.4UA 
+[Info] [IRD_SL]    15       18    386.4UA 
+[Info] [IRD_SL]    16       18    433.2UA 
+[Info] [IRD_SL]    17       18    427.2UA 
+[Info] [IRD_SL]    18       18    410.0UA 
+[Info] [IRD_SL]    19       18    384.4UA 
+[Info] [IRD_SL]    20       18    393.2UA 
+[Info] [IRD_SL]    21       18    391.6UA 
+[Info] [IRD_SL]    22       18    424.0UA 
+[Info] [IRD_SL]    23       18    387.2UA 
+[Info] [IRD_SL]    24       18    437.2UA 
+[Info] [IRD_SL]    25       18    428.4UA 
+[Info] [IRD_SL]    26       18    408.4UA 
+[Info] [IRD_SL]    27       18    399.2UA 
+[Info] [IRD_SL]    28       18    394.4UA 
+[Info] [IRD_SL]    29       18    344.4UA 
+[Info] [IRD_SL]    30       18    394.0UA 
+[Info] [IRD_SL]    31       18    394.0UA 
+[Info] [IRD_SL]     0       19    344.0UA 
+[Info] [IRD_SL]     1       19    302.8UA 
+[Info] [IRD_SL]     2       19    267.2UA 
+[Info] [IRD_SL]     3       19    225.2UA 
+[Info] [IRD_SL]     4       19    187.3UA 
+[Info] [IRD_SL]     5       19    143.2UA 
+[Info] [IRD_SL]     6       19    106.6UA 
+[Info] [IRD_SL]     7       19    405.2UA 
+[Info] [IRD_SL]     8       19    456.0UA 
+[Info] [IRD_SL]     9       19    443.6UA 
+[Info] [IRD_SL]    10       19    393.2UA 
+[Info] [IRD_SL]    11       19    419.2UA 
+[Info] [IRD_SL]    12       19    438.8UA 
+[Info] [IRD_SL]    13       19    400.4UA 
+[Info] [IRD_SL]    14       19    432.8UA 
+[Info] [IRD_SL]    15       19    445.6UA 
+[Info] [IRD_SL]    16       19    418.8UA 
+[Info] [IRD_SL]    17       19    425.2UA 
+[Info] [IRD_SL]    18       19    352.4UA 
+[Info] [IRD_SL]    19       19    418.4UA 
+[Info] [IRD_SL]    20       19    406.8UA 
+[Info] [IRD_SL]    21       19    435.6UA 
+[Info] [IRD_SL]    22       19    348.0UA 
+[Info] [IRD_SL]    23       19    414.0UA 
+[Info] [IRD_SL]    24       19    430.8UA 
+[Info] [IRD_SL]    25       19    431.2UA 
+[Info] [IRD_SL]    26       19    382.4UA 
+[Info] [IRD_SL]    27       19    356.4UA 
+[Info] [IRD_SL]    28       19    413.2UA 
+[Info] [IRD_SL]    29       19    425.2UA 
+[Info] [IRD_SL]    30       19    390.8UA 
+[Info] [IRD_SL]    31       19    398.8UA 
+[Info] [IRD_SL]     0       20    252.4UA 
+[Info] [IRD_SL]     1       20    25.44UA 
+[Info] [IRD_SL]     2       20    24.04UA 
+[Info] [IRD_SL]     3       20    27.52UA 
+[Info] [IRD_SL]     4       20    255.2UA 
+[Info] [IRD_SL]     5       20    22.80UA 
+[Info] [IRD_SL]     6       20    23.64UA 
+[Info] [IRD_SL]     7       20    438.8UA 
+[Info] [IRD_SL]     8       20    249.6UA 
+[Info] [IRD_SL]     9       20    446.0UA 
+[Info] [IRD_SL]    10       20    427.6UA 
+[Info] [IRD_SL]    11       20    429.2UA 
+[Info] [IRD_SL]    12       20    249.2UA 
+[Info] [IRD_SL]    13       20    402.4UA 
+[Info] [IRD_SL]    14       20    449.6UA 
+[Info] [IRD_SL]    15       20    365.6UA 
+[Info] [IRD_SL]    16       20    250.4UA 
+[Info] [IRD_SL]    17       20    430.4UA 
+[Info] [IRD_SL]    18       20    419.2UA 
+[Info] [IRD_SL]    19       20    420.0UA 
+[Info] [IRD_SL]    20       20    250.4UA 
+[Info] [IRD_SL]    21       20    420.0UA 
+[Info] [IRD_SL]    22       20    436.0UA 
+[Info] [IRD_SL]    23       20    434.4UA 
+[Info] [IRD_SL]    24       20    253.2UA 
+[Info] [IRD_SL]    25       20    364.8UA 
+[Info] [IRD_SL]    26       20    412.4UA 
+[Info] [IRD_SL]    27       20    416.0UA 
+[Info] [IRD_SL]    28       20    251.6UA 
+[Info] [IRD_SL]    29       20    424.8UA 
+[Info] [IRD_SL]    30       20    374.8UA 
+[Info] [IRD_SL]    31       20    409.2UA 
+[Info] [IRD_SL]     0       21    341.6UA 
+[Info] [IRD_SL]     1       21    298.8UA 
+[Info] [IRD_SL]     2       21    260.4UA 
+[Info] [IRD_SL]     3       21    224.4UA 
+[Info] [IRD_SL]     4       21    181.0UA 
+[Info] [IRD_SL]     5       21    137.2UA 
+[Info] [IRD_SL]     6       21    99.44UA 
+[Info] [IRD_SL]     7       21    440.0UA 
+[Info] [IRD_SL]     8       21    433.6UA 
+[Info] [IRD_SL]     9       21    429.2UA 
+[Info] [IRD_SL]    10       21    436.8UA 
+[Info] [IRD_SL]    11       21    418.8UA 
+[Info] [IRD_SL]    12       21    404.4UA 
+[Info] [IRD_SL]    13       21    401.6UA 
+[Info] [IRD_SL]    14       21    414.8UA 
+[Info] [IRD_SL]    15       21    454.8UA 
+[Info] [IRD_SL]    16       21    444.4UA 
+[Info] [IRD_SL]    17       21    424.8UA 
+[Info] [IRD_SL]    18       21    394.8UA 
+[Info] [IRD_SL]    19       21    414.0UA 
+[Info] [IRD_SL]    20       21    404.0UA 
+[Info] [IRD_SL]    21       21    390.4UA 
+[Info] [IRD_SL]    22       21    426.4UA 
+[Info] [IRD_SL]    23       21    394.0UA 
+[Info] [IRD_SL]    24       21    433.6UA 
+[Info] [IRD_SL]    25       21    437.6UA 
+[Info] [IRD_SL]    26       21    406.0UA 
+[Info] [IRD_SL]    27       21    350.8UA 
+[Info] [IRD_SL]    28       21    386.0UA 
+[Info] [IRD_SL]    29       21    371.2UA 
+[Info] [IRD_SL]    30       21    440.4UA 
+[Info] [IRD_SL]    31       21    402.0UA 
+[Info] [IRD_SL]     0       22    32.56UA 
+[Info] [IRD_SL]     1       22    28.84UA 
+[Info] [IRD_SL]     2       22    28.20UA 
+[Info] [IRD_SL]     3       22    23.84UA 
+[Info] [IRD_SL]     4       22    24.76UA 
+[Info] [IRD_SL]     5       22    31.56UA 
+[Info] [IRD_SL]     6       22    29.88UA 
+[Info] [IRD_SL]     7       22    421.6UA 
+[Info] [IRD_SL]     8       22    442.8UA 
+[Info] [IRD_SL]     9       22    401.6UA 
+[Info] [IRD_SL]    10       22    422.8UA 
+[Info] [IRD_SL]    11       22    438.0UA 
+[Info] [IRD_SL]    12       22    400.0UA 
+[Info] [IRD_SL]    13       22    437.2UA 
+[Info] [IRD_SL]    14       22    416.4UA 
+[Info] [IRD_SL]    15       22    407.6UA 
+[Info] [IRD_SL]    16       22    415.6UA 
+[Info] [IRD_SL]    17       22    402.4UA 
+[Info] [IRD_SL]    18       22    398.0UA 
+[Info] [IRD_SL]    19       22    420.4UA 
+[Info] [IRD_SL]    20       22    398.8UA 
+[Info] [IRD_SL]    21       22    431.6UA 
+[Info] [IRD_SL]    22       22    434.4UA 
+[Info] [IRD_SL]    23       22    412.0UA 
+[Info] [IRD_SL]    24       22    426.4UA 
+[Info] [IRD_SL]    25       22    410.4UA 
+[Info] [IRD_SL]    26       22    397.2UA 
+[Info] [IRD_SL]    27       22    404.4UA 
+[Info] [IRD_SL]    28       22    407.6UA 
+[Info] [IRD_SL]    29       22    398.4UA 
+[Info] [IRD_SL]    30       22    399.2UA 
+[Info] [IRD_SL]    31       22    391.2UA 
+[Info] [IRD_SL]     0       23    340.0UA 
+[Info] [IRD_SL]     1       23    294.8UA 
+[Info] [IRD_SL]     2       23    254.4UA 
+[Info] [IRD_SL]     3       23    214.8UA 
+[Info] [IRD_SL]     4       23    176.5UA 
+[Info] [IRD_SL]     5       23    135.2UA 
+[Info] [IRD_SL]     6       23    91.00UA 
+[Info] [IRD_SL]     7       23    437.2UA 
+[Info] [IRD_SL]     8       23    416.0UA 
+[Info] [IRD_SL]     9       23    410.4UA 
+[Info] [IRD_SL]    10       23    439.6UA 
+[Info] [IRD_SL]    11       23    432.4UA 
+[Info] [IRD_SL]    12       23    428.4UA 
+[Info] [IRD_SL]    13       23    430.0UA 
+[Info] [IRD_SL]    14       23    390.8UA 
+[Info] [IRD_SL]    15       23    410.0UA 
+[Info] [IRD_SL]    16       23    414.4UA 
+[Info] [IRD_SL]    17       23    420.0UA 
+[Info] [IRD_SL]    18       23    415.6UA 
+[Info] [IRD_SL]    19       23    429.6UA 
+[Info] [IRD_SL]    20       23    404.0UA 
+[Info] [IRD_SL]    21       23    422.8UA 
+[Info] [IRD_SL]    22       23    414.0UA 
+[Info] [IRD_SL]    23       23    393.6UA 
+[Info] [IRD_SL]    24       23    421.2UA 
+[Info] [IRD_SL]    25       23    391.6UA 
+[Info] [IRD_SL]    26       23    421.2UA 
+[Info] [IRD_SL]    27       23    382.8UA 
+[Info] [IRD_SL]    28       23    416.4UA 
+[Info] [IRD_SL]    29       23    424.4UA 
+[Info] [IRD_SL]    30       23    402.0UA 
+[Info] [IRD_SL]    31       23    390.4UA 
+[Info] [IRD_SL]     0       24    247.6UA 
+[Info] [IRD_SL]     1       24    24.36UA 
+[Info] [IRD_SL]     2       24    31.48UA 
+[Info] [IRD_SL]     3       24    30.96UA 
+[Info] [IRD_SL]     4       24    249.2UA 
+[Info] [IRD_SL]     5       24    32.48UA 
+[Info] [IRD_SL]     6       24    31.60UA 
+[Info] [IRD_SL]     7       24    401.6UA 
+[Info] [IRD_SL]     8       24    260.4UA 
+[Info] [IRD_SL]     9       24    423.6UA 
+[Info] [IRD_SL]    10       24    423.6UA 
+[Info] [IRD_SL]    11       24    414.4UA 
+[Info] [IRD_SL]    12       24    252.4UA 
+[Info] [IRD_SL]    13       24    376.0UA 
+[Info] [IRD_SL]    14       24    426.0UA 
+[Info] [IRD_SL]    15       24    374.8UA 
+[Info] [IRD_SL]    16       24    252.0UA 
+[Info] [IRD_SL]    17       24    417.6UA 
+[Info] [IRD_SL]    18       24    418.4UA 
+[Info] [IRD_SL]    19       24    359.6UA 
+[Info] [IRD_SL]    20       24    250.4UA 
+[Info] [IRD_SL]    21       24    426.0UA 
+[Info] [IRD_SL]    22       24    428.4UA 
+[Info] [IRD_SL]    23       24    402.0UA 
+[Info] [IRD_SL]    24       24    249.6UA 
+[Info] [IRD_SL]    25       24    447.6UA 
+[Info] [IRD_SL]    26       24    397.6UA 
+[Info] [IRD_SL]    27       24    408.4UA 
+[Info] [IRD_SL]    28       24    249.6UA 
+[Info] [IRD_SL]    29       24    422.8UA 
+[Info] [IRD_SL]    30       24    388.0UA 
+[Info] [IRD_SL]    31       24    401.2UA 
+[Info] [IRD_SL]     0       25    352.0UA 
+[Info] [IRD_SL]     1       25    310.0UA 
+[Info] [IRD_SL]     2       25    274.4UA 
+[Info] [IRD_SL]     3       25    231.6UA 
+[Info] [IRD_SL]     4       25    189.2UA 
+[Info] [IRD_SL]     5       25    147.9UA 
+[Info] [IRD_SL]     6       25    110.7UA 
+[Info] [IRD_SL]     7       25    446.0UA 
+[Info] [IRD_SL]     8       25    422.0UA 
+[Info] [IRD_SL]     9       25    424.4UA 
+[Info] [IRD_SL]    10       25    433.6UA 
+[Info] [IRD_SL]    11       25    368.4UA 
+[Info] [IRD_SL]    12       25    431.2UA 
+[Info] [IRD_SL]    13       25    445.6UA 
+[Info] [IRD_SL]    14       25    419.2UA 
+[Info] [IRD_SL]    15       25    418.4UA 
+[Info] [IRD_SL]    16       25    399.2UA 
+[Info] [IRD_SL]    17       25    374.8UA 
+[Info] [IRD_SL]    18       25    359.2UA 
+[Info] [IRD_SL]    19       25    411.6UA 
+[Info] [IRD_SL]    20       25    398.8UA 
+[Info] [IRD_SL]    21       25    337.6UA 
+[Info] [IRD_SL]    22       25    404.8UA 
+[Info] [IRD_SL]    23       25    428.8UA 
+[Info] [IRD_SL]    24       25    408.4UA 
+[Info] [IRD_SL]    25       25    406.0UA 
+[Info] [IRD_SL]    26       25    421.2UA 
+[Info] [IRD_SL]    27       25    405.2UA 
+[Info] [IRD_SL]    28       25    405.6UA 
+[Info] [IRD_SL]    29       25    386.4UA 
+[Info] [IRD_SL]    30       25    380.8UA 
+[Info] [IRD_SL]    31       25    444.4UA 
+[Info] [IRD_SL]     0       26    26.84UA 
+[Info] [IRD_SL]     1       26    27.52UA 
+[Info] [IRD_SL]     2       26    29.20UA 
+[Info] [IRD_SL]     3       26    28.52UA 
+[Info] [IRD_SL]     4       26    30.76UA 
+[Info] [IRD_SL]     5       26    27.76UA 
+[Info] [IRD_SL]     6       26    29.36UA 
+[Info] [IRD_SL]     7       26    423.6UA 
+[Info] [IRD_SL]     8       26    398.4UA 
+[Info] [IRD_SL]     9       26    420.8UA 
+[Info] [IRD_SL]    10       26    440.8UA 
+[Info] [IRD_SL]    11       26    431.2UA 
+[Info] [IRD_SL]    12       26    438.8UA 
+[Info] [IRD_SL]    13       26    416.8UA 
+[Info] [IRD_SL]    14       26    410.4UA 
+[Info] [IRD_SL]    15       26    432.4UA 
+[Info] [IRD_SL]    16       26    432.4UA 
+[Info] [IRD_SL]    17       26    414.8UA 
+[Info] [IRD_SL]    18       26    399.2UA 
+[Info] [IRD_SL]    19       26    369.6UA 
+[Info] [IRD_SL]    20       26    306.8UA 
+[Info] [IRD_SL]    21       26    418.8UA 
+[Info] [IRD_SL]    22       26    383.6UA 
+[Info] [IRD_SL]    23       26    404.4UA 
+[Info] [IRD_SL]    24       26    420.8UA 
+[Info] [IRD_SL]    25       26    392.8UA 
+[Info] [IRD_SL]    26       26    387.2UA 
+[Info] [IRD_SL]    27       26    366.4UA 
+[Info] [IRD_SL]    28       26    405.2UA 
+[Info] [IRD_SL]    29       26    406.8UA 
+[Info] [IRD_SL]    30       26    384.0UA 
+[Info] [IRD_SL]    31       26    409.6UA 
+[Info] [IRD_SL]     0       27    344.8UA 
+[Info] [IRD_SL]     1       27    306.8UA 
+[Info] [IRD_SL]     2       27    268.0UA 
+[Info] [IRD_SL]     3       27    224.4UA 
+[Info] [IRD_SL]     4       27    187.6UA 
+[Info] [IRD_SL]     5       27    145.4UA 
+[Info] [IRD_SL]     6       27    106.8UA 
+[Info] [IRD_SL]     7       27    396.8UA 
+[Info] [IRD_SL]     8       27    429.6UA 
+[Info] [IRD_SL]     9       27    431.2UA 
+[Info] [IRD_SL]    10       27    368.4UA 
+[Info] [IRD_SL]    11       27    399.2UA 
+[Info] [IRD_SL]    12       27    417.2UA 
+[Info] [IRD_SL]    13       27    438.4UA 
+[Info] [IRD_SL]    14       27    442.0UA 
+[Info] [IRD_SL]    15       27    421.6UA 
+[Info] [IRD_SL]    16       27    416.8UA 
+[Info] [IRD_SL]    17       27    415.6UA 
+[Info] [IRD_SL]    18       27    420.4UA 
+[Info] [IRD_SL]    19       27    360.8UA 
+[Info] [IRD_SL]    20       27    380.4UA 
+[Info] [IRD_SL]    21       27    393.6UA 
+[Info] [IRD_SL]    22       27    412.8UA 
+[Info] [IRD_SL]    23       27    397.2UA 
+[Info] [IRD_SL]    24       27    429.2UA 
+[Info] [IRD_SL]    25       27    403.2UA 
+[Info] [IRD_SL]    26       27    406.4UA 
+[Info] [IRD_SL]    27       27    414.8UA 
+[Info] [IRD_SL]    28       27    413.6UA 
+[Info] [IRD_SL]    29       27    401.2UA 
+[Info] [IRD_SL]    30       27    414.0UA 
+[Info] [IRD_SL]    31       27    422.8UA 
+[Info] [IRD_SL]     0       28    249.2UA 
+[Info] [IRD_SL]     1       28    24.68UA 
+[Info] [IRD_SL]     2       28    30.04UA 
+[Info] [IRD_SL]     3       28    27.76UA 
+[Info] [IRD_SL]     4       28    248.8UA 
+[Info] [IRD_SL]     5       28    27.36UA 
+[Info] [IRD_SL]     6       28    17.15UA 
+[Info] [IRD_SL]     7       28    418.8UA 
+[Info] [IRD_SL]     8       28    250.0UA 
+[Info] [IRD_SL]     9       28    424.4UA 
+[Info] [IRD_SL]    10       28    412.8UA 
+[Info] [IRD_SL]    11       28    416.4UA 
+[Info] [IRD_SL]    12       28    250.4UA 
+[Info] [IRD_SL]    13       28    406.4UA 
+[Info] [IRD_SL]    14       28    427.2UA 
+[Info] [IRD_SL]    15       28    396.4UA 
+[Info] [IRD_SL]    16       28    252.8UA 
+[Info] [IRD_SL]    17       28    397.2UA 
+[Info] [IRD_SL]    18       28    394.4UA 
+[Info] [IRD_SL]    19       28    352.8UA 
+[Info] [IRD_SL]    20       28    250.0UA 
+[Info] [IRD_SL]    21       28    415.2UA 
+[Info] [IRD_SL]    22       28    397.6UA 
+[Info] [IRD_SL]    23       28    381.2UA 
+[Info] [IRD_SL]    24       28    252.0UA 
+[Info] [IRD_SL]    25       28    404.0UA 
+[Info] [IRD_SL]    26       28    408.4UA 
+[Info] [IRD_SL]    27       28    400.0UA 
+[Info] [IRD_SL]    28       28    249.6UA 
+[Info] [IRD_SL]    29       28    391.6UA 
+[Info] [IRD_SL]    30       28    392.0UA 
+[Info] [IRD_SL]    31       28    409.2UA 
+[Info] [IRD_SL]     0       29    339.6UA 
+[Info] [IRD_SL]     1       29    299.2UA 
+[Info] [IRD_SL]     2       29    258.4UA 
+[Info] [IRD_SL]     3       29    220.8UA 
+[Info] [IRD_SL]     4       29    178.6UA 
+[Info] [IRD_SL]     5       29    138.8UA 
+[Info] [IRD_SL]     6       29    103.1UA 
+[Info] [IRD_SL]     7       29    410.8UA 
+[Info] [IRD_SL]     8       29    395.6UA 
+[Info] [IRD_SL]     9       29    424.8UA 
+[Info] [IRD_SL]    10       29    380.0UA 
+[Info] [IRD_SL]    11       29    423.2UA 
+[Info] [IRD_SL]    12       29    444.0UA 
+[Info] [IRD_SL]    13       29    429.6UA 
+[Info] [IRD_SL]    14       29    420.4UA 
+[Info] [IRD_SL]    15       29    425.2UA 
+[Info] [IRD_SL]    16       29    383.6UA 
+[Info] [IRD_SL]    17       29    416.8UA 
+[Info] [IRD_SL]    18       29    410.4UA 
+[Info] [IRD_SL]    19       29    364.0UA 
+[Info] [IRD_SL]    20       29    384.8UA 
+[Info] [IRD_SL]    21       29    423.2UA 
+[Info] [IRD_SL]    22       29    391.2UA 
+[Info] [IRD_SL]    23       29    416.8UA 
+[Info] [IRD_SL]    24       29    392.4UA 
+[Info] [IRD_SL]    25       29    424.0UA 
+[Info] [IRD_SL]    26       29    376.4UA 
+[Info] [IRD_SL]    27       29    387.6UA 
+[Info] [IRD_SL]    28       29    381.6UA 
+[Info] [IRD_SL]    29       29    404.8UA 
+[Info] [IRD_SL]    30       29    409.6UA 
+[Info] [IRD_SL]    31       29    392.4UA 
+[Info] [IRD_SL]     0       30    25.64UA 
+[Info] [IRD_SL]     1       30    36.08UA 
+[Info] [IRD_SL]     2       30    29.12UA 
+[Info] [IRD_SL]     3       30    27.84UA 
+[Info] [IRD_SL]     4       30    26.84UA 
+[Info] [IRD_SL]     5       30    32.16UA 
+[Info] [IRD_SL]     6       30    26.44UA 
+[Info] [IRD_SL]     7       30    438.4UA 
+[Info] [IRD_SL]     8       30    342.4UA 
+[Info] [IRD_SL]     9       30    381.2UA 
+[Info] [IRD_SL]    10       30    398.8UA 
+[Info] [IRD_SL]    11       30    380.0UA 
+[Info] [IRD_SL]    12       30    397.2UA 
+[Info] [IRD_SL]    13       30    432.4UA 
+[Info] [IRD_SL]    14       30    407.2UA 
+[Info] [IRD_SL]    15       30    430.0UA 
+[Info] [IRD_SL]    16       30    300.4UA 
+[Info] [IRD_SL]    17       30    390.0UA 
+[Info] [IRD_SL]    18       30    376.4UA 
+[Info] [IRD_SL]    19       30    410.4UA 
+[Info] [IRD_SL]    20       30    426.4UA 
+[Info] [IRD_SL]    21       30    393.6UA 
+[Info] [IRD_SL]    22       30    407.6UA 
+[Info] [IRD_SL]    23       30    409.6UA 
+[Info] [IRD_SL]    24       30    405.2UA 
+[Info] [IRD_SL]    25       30    415.2UA 
+[Info] [IRD_SL]    26       30    407.2UA 
+[Info] [IRD_SL]    27       30    406.4UA 
+[Info] [IRD_SL]    28       30    356.8UA 
+[Info] [IRD_SL]    29       30    399.6UA 
+[Info] [IRD_SL]    30       30    360.8UA 
+[Info] [IRD_SL]    31       30    387.6UA 
+[Info] [IRD_SL]     0       31    335.6UA 
+[Info] [IRD_SL]     1       31    298.8UA 
+[Info] [IRD_SL]     2       31    253.6UA 
+[Info] [IRD_SL]     3       31    215.6UA 
+[Info] [IRD_SL]     4       31    175.8UA 
+[Info] [IRD_SL]     5       31    138.1UA 
+[Info] [IRD_SL]     6       31    89.32UA 
+[Info] [IRD_SL]     7       31    416.8UA 
+[Info] [IRD_SL]     8       31    426.4UA 
+[Info] [IRD_SL]     9       31    420.8UA 
+[Info] [IRD_SL]    10       31    416.0UA 
+[Info] [IRD_SL]    11       31    414.8UA 
+[Info] [IRD_SL]    12       31    408.8UA 
+[Info] [IRD_SL]    13       31    414.8UA 
+[Info] [IRD_SL]    14       31    414.0UA 
+[Info] [IRD_SL]    15       31    446.4UA 
+[Info] [IRD_SL]    16       31    384.0UA 
+[Info] [IRD_SL]    17       31    382.4UA 
+[Info] [IRD_SL]    18       31    411.6UA 
+[Info] [IRD_SL]    19       31    404.0UA 
+[Info] [IRD_SL]    20       31    396.4UA 
+[Info] [IRD_SL]    21       31    396.4UA 
+[Info] [IRD_SL]    22       31    387.2UA 
+[Info] [IRD_SL]    23       31    386.0UA 
+[Info] [IRD_SL]    24       31    416.0UA 
+[Info] [IRD_SL]    25       31    424.8UA 
+[Info] [IRD_SL]    26       31    396.8UA 
+[Info] [IRD_SL]    27       31    396.8UA 
+[Info] [IRD_SL]    28       31    394.4UA 
+[Info] [IRD_SL]    29       31    393.2UA 
+[Info] [IRD_SL]    30       31    391.2UA 
+[Info] [IRD_SL]    31       31    390.8UA 
+[Info] [SCAN_COMPLETED]
+TEST TIME :  0.7603999E+03S  
