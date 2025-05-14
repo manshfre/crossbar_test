@@ -1,0 +1,3637 @@
+
+##### rram32x32 leolee write#####
+
+[Info] [WRITE_COUPLE]     2        3    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     2        3    700.0MV  2.328UA 
+[Info] [IRD_SL]     2        3    710.0MV  2.272UA 
+[Info] [IRD_SL]     2        3    720.0MV  2.236UA 
+[Info] [IRD_SL]     2        3    730.0MV  2.608UA 
+[Info] [IRD_SL]     2        3    740.0MV  2.632UA 
+[Info] [IRD_SL]     2        3    750.0MV  2.696UA 
+[Info] [IRD_SL]     2        3    760.0MV  2.752UA 
+[Info] [IRD_SL]     2        3    770.0MV  3.004UA 
+[Info] [IRD_SL]     2        3    780.0MV  2.780UA 
+[Info] [IRD_SL]     2        3    790.0MV  45.56UA 
+[Info] [IRD_SL]     2        3    800.0MV  47.60UA 
+[Info] [IRD_SL]     2        3    810.0MV  49.08UA 
+[Info] [IRD_SL]     2        3    820.0MV  54.36UA 
+[Info] [IRD_SL]     2        3    830.0MV  54.28UA 
+[Info] [IRD_SL]     2        3    840.0MV  63.32UA 
+[Info] [IRD_SL]     2        3    850.0MV  68.56UA 
+[Info] [IRD_SL]     2        3    851.0MV  72.00UA 
+[Info] [IRD_SL]     2        3    852.0MV  73.32UA 
+[Info] [IRD_SL]     2        3    853.0MV  77.60UA 
+[Info] [IRD_SL]     2        3    854.0MV  78.88UA 
+[Info] [IRD_SL]     2        3    855.0MV  80.28UA 
+[Info] [IRD_SL]     2        3    856.0MV  80.40UA 
+[Info] [IRD_SL]     2        3    857.0MV  82.04UA 
+[Info] [IRD_SL]     2        3    858.0MV  81.48UA 
+[Info] [IRD_SL]     2        3    859.0MV  84.96UA 
+[Info] [IRD_SL]     2        3    860.0MV  84.60UA 
+[Info] [IRD_SL]     2        3    861.0MV  84.36UA 
+[Info] [IRD_SL]     2        3    862.0MV  87.28UA 
+[Info] [IRD_SL]     2        3    863.0MV  86.92UA 
+[Info] [IRD_SL]     2        3    864.0MV  85.52UA 
+[Info] [IRD_SL]     2        3    865.0MV  87.44UA 
+[Info] [IRD_SL]     2        3    866.0MV  89.60UA 
+[Info] [IRD_SL]     2        3    867.0MV  89.64UA 
+[Info] [IRD_SL]     2        3    868.0MV  88.56UA 
+[Info] [IRD_SL]     2        3    869.0MV  90.48UA 
+[Info] [IRD_SL]     2        3    870.0MV  89.20UA 
+[Info] [IRD_SL]     2        3    871.0MV  91.04UA 
+[Info] [IRD_SL]     2        3    872.0MV  90.48UA 
+[Info] [IRD_SL]     2        3    873.0MV  94.36UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     2        4    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     2        4    700.0MV  2.544UA 
+[Info] [IRD_SL]     2        4    710.0MV  2.408UA 
+[Info] [IRD_SL]     2        4    720.0MV  2.364UA 
+[Info] [IRD_SL]     2        4    730.0MV  2.448UA 
+[Info] [IRD_SL]     2        4    740.0MV  2.552UA 
+[Info] [IRD_SL]     2        4    750.0MV  2.796UA 
+[Info] [IRD_SL]     2        4    760.0MV  2.544UA 
+[Info] [IRD_SL]     2        4    770.0MV  2.756UA 
+[Info] [IRD_SL]     2        4    780.0MV  2.984UA 
+[Info] [IRD_SL]     2        4    790.0MV  3.520UA 
+[Info] [IRD_SL]     2        4    800.0MV  12.65UA 
+[Info] [IRD_SL]     2        4    810.0MV  37.80UA 
+[Info] [IRD_SL]     2        4    820.0MV  41.16UA 
+[Info] [IRD_SL]     2        4    830.0MV  47.80UA 
+[Info] [IRD_SL]     2        4    840.0MV  50.40UA 
+[Info] [IRD_SL]     2        4    850.0MV  59.20UA 
+[Info] [IRD_SL]     2        4    860.0MV  62.80UA 
+[Info] [IRD_SL]     2        4    870.0MV  69.52UA 
+[Info] [IRD_SL]     2        4    880.0MV  79.36UA 
+[Info] [IRD_SL]     2        4    890.0MV  84.84UA 
+[Info] [IRD_SL]     2        4    900.0MV  97.80UA 
+[Info] [IRD_SL]     2        4    910.0MV  105.9UA 
+[Info] [IRD_SL]     2        4    920.0MV  112.4UA 
+[Info] [IRD_SL]     2        4    930.0MV  119.5UA 
+[Info] [IRD_SL]     2        4    940.0MV  126.1UA 
+[Info] [IRD_SL]     2        4    950.0MV  135.4UA 
+[Info] [IRD_SL]     2        4    960.0MV  142.2UA 
+[Info] [IRD_SL]     2        4    970.0MV  148.3UA 
+[Info] [IRD_SL]     2        4    980.0MV  154.8UA 
+[Info] [IRD_SL]     2        4    990.0MV  163.9UA 
+[Info] [IRD_SL]     2        4    1.000V   171.4UA 
+[Info] [IRD_SL]     2        4    1.010V   177.7UA 
+[Info] [IRD_SL]     2        4    1.020V   185.4UA 
+[Info] [IRD_SL]     2        4    1.030V   193.5UA 
+[Info] [IRD_SL]     2        4    1.040V   197.5UA 
+[Info] [IRD_SL]     2        4    1.050V   205.6UA 
+[Info] [IRD_SL]     2        4    1.060V   212.4UA 
+[Info] [IRD_SL]     2        4    1.070V   216.4UA 
+[Info] [IRD_SL]     2        4    1.080V   222.8UA 
+[Info] [IRD_SL]     2        4    1.090V   226.8UA 
+[Info] [IRD_SL]     2        4    1.100V   233.6UA 
+[Info] [IRD_SL]     2        4    1.110V   238.4UA 
+[Info] [IRD_SL]     2        4    1.120V   245.6UA 
+[Info] [IRD_SL]     2        4    1.121V   247.6UA 
+[Info] [IRD_SL]     2        4    1.122V   255.2UA 
+[Info] [IRD_SL]     2        4    1.123V   260.8UA 
+[Info] [IRD_SL]     2        4    1.124V   265.6UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     2       11    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     2       11    700.0MV  824.0NA 
+[Info] [IRD_SL]     2       11    710.0MV  844.0NA 
+[Info] [IRD_SL]     2       11    720.0MV  908.0NA 
+[Info] [IRD_SL]     2       11    730.0MV  880.0NA 
+[Info] [IRD_SL]     2       11    740.0MV  916.0NA 
+[Info] [IRD_SL]     2       11    750.0MV  1.292UA 
+[Info] [IRD_SL]     2       11    760.0MV  3.392UA 
+[Info] [IRD_SL]     2       11    770.0MV  7.232UA 
+[Info] [IRD_SL]     2       11    780.0MV  14.89UA 
+[Info] [IRD_SL]     2       11    790.0MV  18.59UA 
+[Info] [IRD_SL]     2       11    800.0MV  20.36UA 
+[Info] [IRD_SL]     2       11    810.0MV  28.76UA 
+[Info] [IRD_SL]     2       11    820.0MV  29.52UA 
+[Info] [IRD_SL]     2       11    830.0MV  39.08UA 
+[Info] [IRD_SL]     2       11    840.0MV  44.36UA 
+[Info] [IRD_SL]     2       11    850.0MV  53.56UA 
+[Info] [IRD_SL]     2       11    860.0MV  57.16UA 
+[Info] [IRD_SL]     2       11    870.0MV  68.68UA 
+[Info] [IRD_SL]     2       11    871.0MV  71.44UA 
+[Info] [IRD_SL]     2       11    872.0MV  74.20UA 
+[Info] [IRD_SL]     2       11    873.0MV  75.64UA 
+[Info] [IRD_SL]     2       11    874.0MV  76.92UA 
+[Info] [IRD_SL]     2       11    875.0MV  78.08UA 
+[Info] [IRD_SL]     2       11    876.0MV  84.60UA 
+[Info] [IRD_SL]     2       11    877.0MV  83.16UA 
+[Info] [IRD_SL]     2       11    878.0MV  84.44UA 
+[Info] [IRD_SL]     2       11    879.0MV  86.80UA 
+[Info] [IRD_SL]     2       11    880.0MV  88.44UA 
+[Info] [IRD_SL]     2       11    881.0MV  88.20UA 
+[Info] [IRD_SL]     2       11    882.0MV  88.68UA 
+[Info] [IRD_SL]     2       11    883.0MV  89.92UA 
+[Info] [IRD_SL]     2       11    884.0MV  93.16UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     2       12    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     2       12    700.0MV  5.936UA 
+[Info] [IRD_SL]     2       12    710.0MV  6.296UA 
+[Info] [IRD_SL]     2       12    720.0MV  6.836UA 
+[Info] [IRD_SL]     2       12    730.0MV  6.784UA 
+[Info] [IRD_SL]     2       12    740.0MV  6.844UA 
+[Info] [IRD_SL]     2       12    750.0MV  6.956UA 
+[Info] [IRD_SL]     2       12    760.0MV  10.20UA 
+[Info] [IRD_SL]     2       12    770.0MV  8.668UA 
+[Info] [IRD_SL]     2       12    780.0MV  9.100UA 
+[Info] [IRD_SL]     2       12    790.0MV  19.17UA 
+[Info] [IRD_SL]     2       12    800.0MV  26.32UA 
+[Info] [IRD_SL]     2       12    810.0MV  32.28UA 
+[Info] [IRD_SL]     2       12    820.0MV  43.40UA 
+[Info] [IRD_SL]     2       12    830.0MV  51.64UA 
+[Info] [IRD_SL]     2       12    840.0MV  58.44UA 
+[Info] [IRD_SL]     2       12    850.0MV  62.68UA 
+[Info] [IRD_SL]     2       12    860.0MV  66.12UA 
+[Info] [IRD_SL]     2       12    870.0MV  77.32UA 
+[Info] [IRD_SL]     2       12    880.0MV  87.12UA 
+[Info] [IRD_SL]     2       12    890.0MV  90.92UA 
+[Info] [IRD_SL]     2       12    900.0MV  97.40UA 
+[Info] [IRD_SL]     2       12    910.0MV  104.3UA 
+[Info] [IRD_SL]     2       12    920.0MV  110.8UA 
+[Info] [IRD_SL]     2       12    930.0MV  116.2UA 
+[Info] [IRD_SL]     2       12    940.0MV  124.0UA 
+[Info] [IRD_SL]     2       12    950.0MV  125.8UA 
+[Info] [IRD_SL]     2       12    960.0MV  133.5UA 
+[Info] [IRD_SL]     2       12    970.0MV  140.8UA 
+[Info] [IRD_SL]     2       12    980.0MV  154.8UA 
+[Info] [IRD_SL]     2       12    990.0MV  174.2UA 
+[Info] [IRD_SL]     2       12    1.000V   181.9UA 
+[Info] [IRD_SL]     2       12    1.010V   187.8UA 
+[Info] [IRD_SL]     2       12    1.020V   195.8UA 
+[Info] [IRD_SL]     2       12    1.030V   200.0UA 
+[Info] [IRD_SL]     2       12    1.040V   211.6UA 
+[Info] [IRD_SL]     2       12    1.050V   216.8UA 
+[Info] [IRD_SL]     2       12    1.060V   222.4UA 
+[Info] [IRD_SL]     2       12    1.070V   227.2UA 
+[Info] [IRD_SL]     2       12    1.080V   234.0UA 
+[Info] [IRD_SL]     2       12    1.090V   242.8UA 
+[Info] [IRD_SL]     2       12    1.091V   247.2UA 
+[Info] [IRD_SL]     2       12    1.092V   252.4UA 
+[Info] [IRD_SL]     2       12    1.093V   252.8UA 
+[Info] [IRD_SL]     2       12    1.094V   255.2UA 
+[Info] [IRD_SL]     2       12    1.095V   257.6UA 
+[Info] [IRD_SL]     2       12    1.096V   259.2UA 
+[Info] [IRD_SL]     2       12    1.097V   258.8UA 
+[Info] [IRD_SL]     2       12    1.098V   262.4UA 
+[Info] [IRD_SL]     2       12    1.099V   263.6UA 
+[Info] [IRD_SL]     2       12    1.100V   266.0UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     2       19    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     2       19    700.0MV  6.620UA 
+[Info] [IRD_SL]     2       19    710.0MV  6.640UA 
+[Info] [IRD_SL]     2       19    720.0MV  6.620UA 
+[Info] [IRD_SL]     2       19    730.0MV  6.460UA 
+[Info] [IRD_SL]     2       19    740.0MV  6.508UA 
+[Info] [IRD_SL]     2       19    750.0MV  7.272UA 
+[Info] [IRD_SL]     2       19    760.0MV  7.292UA 
+[Info] [IRD_SL]     2       19    770.0MV  10.53UA 
+[Info] [IRD_SL]     2       19    780.0MV  26.52UA 
+[Info] [IRD_SL]     2       19    790.0MV  38.68UA 
+[Info] [IRD_SL]     2       19    800.0MV  37.84UA 
+[Info] [IRD_SL]     2       19    810.0MV  48.72UA 
+[Info] [IRD_SL]     2       19    820.0MV  57.20UA 
+[Info] [IRD_SL]     2       19    830.0MV  62.80UA 
+[Info] [IRD_SL]     2       19    840.0MV  72.96UA 
+[Info] [IRD_SL]     2       19    841.0MV  76.04UA 
+[Info] [IRD_SL]     2       19    842.0MV  80.08UA 
+[Info] [IRD_SL]     2       19    843.0MV  81.32UA 
+[Info] [IRD_SL]     2       19    844.0MV  85.00UA 
+[Info] [IRD_SL]     2       19    845.0MV  86.84UA 
+[Info] [IRD_SL]     2       19    846.0MV  87.16UA 
+[Info] [IRD_SL]     2       19    847.0MV  87.08UA 
+[Info] [IRD_SL]     2       19    848.0MV  89.68UA 
+[Info] [IRD_SL]     2       19    849.0MV  90.44UA 
+[Info] [IRD_SL]     2       19    850.0MV  89.80UA 
+[Info] [IRD_SL]     2       19    851.0MV  93.24UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     2       20    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     2       20    700.0MV  5.828UA 
+[Info] [IRD_SL]     2       20    710.0MV  5.900UA 
+[Info] [IRD_SL]     2       20    720.0MV  5.912UA 
+[Info] [IRD_SL]     2       20    730.0MV  6.180UA 
+[Info] [IRD_SL]     2       20    740.0MV  6.292UA 
+[Info] [IRD_SL]     2       20    750.0MV  7.624UA 
+[Info] [IRD_SL]     2       20    760.0MV  7.960UA 
+[Info] [IRD_SL]     2       20    770.0MV  11.85UA 
+[Info] [IRD_SL]     2       20    780.0MV  15.94UA 
+[Info] [IRD_SL]     2       20    790.0MV  24.24UA 
+[Info] [IRD_SL]     2       20    800.0MV  22.88UA 
+[Info] [IRD_SL]     2       20    810.0MV  33.32UA 
+[Info] [IRD_SL]     2       20    820.0MV  31.32UA 
+[Info] [IRD_SL]     2       20    830.0MV  40.76UA 
+[Info] [IRD_SL]     2       20    840.0MV  44.20UA 
+[Info] [IRD_SL]     2       20    850.0MV  50.68UA 
+[Info] [IRD_SL]     2       20    860.0MV  62.12UA 
+[Info] [IRD_SL]     2       20    870.0MV  65.88UA 
+[Info] [IRD_SL]     2       20    880.0MV  71.72UA 
+[Info] [IRD_SL]     2       20    890.0MV  76.28UA 
+[Info] [IRD_SL]     2       20    900.0MV  84.92UA 
+[Info] [IRD_SL]     2       20    910.0MV  89.64UA 
+[Info] [IRD_SL]     2       20    920.0MV  93.56UA 
+[Info] [IRD_SL]     2       20    930.0MV  117.5UA 
+[Info] [IRD_SL]     2       20    940.0MV  138.8UA 
+[Info] [IRD_SL]     2       20    950.0MV  153.6UA 
+[Info] [IRD_SL]     2       20    960.0MV  164.0UA 
+[Info] [IRD_SL]     2       20    970.0MV  174.2UA 
+[Info] [IRD_SL]     2       20    980.0MV  180.2UA 
+[Info] [IRD_SL]     2       20    990.0MV  188.9UA 
+[Info] [IRD_SL]     2       20    1.000V   199.2UA 
+[Info] [IRD_SL]     2       20    1.010V   205.6UA 
+[Info] [IRD_SL]     2       20    1.020V   208.0UA 
+[Info] [IRD_SL]     2       20    1.030V   213.6UA 
+[Info] [IRD_SL]     2       20    1.040V   220.8UA 
+[Info] [IRD_SL]     2       20    1.050V   231.6UA 
+[Info] [IRD_SL]     2       20    1.060V   239.6UA 
+[Info] [IRD_SL]     2       20    1.070V   243.2UA 
+[Info] [IRD_SL]     2       20    1.071V   250.4UA 
+[Info] [IRD_SL]     2       20    1.072V   257.6UA 
+[Info] [IRD_SL]     2       20    1.073V   259.2UA 
+[Info] [IRD_SL]     2       20    1.074V   262.4UA 
+[Info] [IRD_SL]     2       20    1.075V   265.6UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     2       27    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     2       27    700.0MV  6.824UA 
+[Info] [IRD_SL]     2       27    710.0MV  6.888UA 
+[Info] [IRD_SL]     2       27    720.0MV  6.236UA 
+[Info] [IRD_SL]     2       27    730.0MV  6.232UA 
+[Info] [IRD_SL]     2       27    740.0MV  6.364UA 
+[Info] [IRD_SL]     2       27    750.0MV  6.368UA 
+[Info] [IRD_SL]     2       27    760.0MV  9.608UA 
+[Info] [IRD_SL]     2       27    770.0MV  18.04UA 
+[Info] [IRD_SL]     2       27    780.0MV  29.04UA 
+[Info] [IRD_SL]     2       27    790.0MV  34.96UA 
+[Info] [IRD_SL]     2       27    800.0MV  42.56UA 
+[Info] [IRD_SL]     2       27    810.0MV  47.64UA 
+[Info] [IRD_SL]     2       27    820.0MV  55.00UA 
+[Info] [IRD_SL]     2       27    830.0MV  65.68UA 
+[Info] [IRD_SL]     2       27    840.0MV  73.56UA 
+[Info] [IRD_SL]     2       27    841.0MV  77.52UA 
+[Info] [IRD_SL]     2       27    842.0MV  77.88UA 
+[Info] [IRD_SL]     2       27    843.0MV  80.44UA 
+[Info] [IRD_SL]     2       27    844.0MV  83.96UA 
+[Info] [IRD_SL]     2       27    845.0MV  85.56UA 
+[Info] [IRD_SL]     2       27    846.0MV  83.84UA 
+[Info] [IRD_SL]     2       27    847.0MV  86.68UA 
+[Info] [IRD_SL]     2       27    848.0MV  85.44UA 
+[Info] [IRD_SL]     2       27    849.0MV  87.48UA 
+[Info] [IRD_SL]     2       27    850.0MV  87.64UA 
+[Info] [IRD_SL]     2       27    851.0MV  91.12UA 
+[Info] [IRD_SL]     2       27    852.0MV  93.08UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]     2       28    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]     2       28    700.0MV  2.116UA 
+[Info] [IRD_SL]     2       28    710.0MV  2.088UA 
+[Info] [IRD_SL]     2       28    720.0MV  3.160UA 
+[Info] [IRD_SL]     2       28    730.0MV  2.424UA 
+[Info] [IRD_SL]     2       28    740.0MV  18.36UA 
+[Info] [IRD_SL]     2       28    750.0MV  17.58UA 
+[Info] [IRD_SL]     2       28    760.0MV  19.42UA 
+[Info] [IRD_SL]     2       28    770.0MV  21.20UA 
+[Info] [IRD_SL]     2       28    780.0MV  32.76UA 
+[Info] [IRD_SL]     2       28    790.0MV  41.24UA 
+[Info] [IRD_SL]     2       28    800.0MV  41.36UA 
+[Info] [IRD_SL]     2       28    810.0MV  47.64UA 
+[Info] [IRD_SL]     2       28    820.0MV  48.64UA 
+[Info] [IRD_SL]     2       28    830.0MV  54.76UA 
+[Info] [IRD_SL]     2       28    840.0MV  61.24UA 
+[Info] [IRD_SL]     2       28    850.0MV  67.84UA 
+[Info] [IRD_SL]     2       28    860.0MV  78.60UA 
+[Info] [IRD_SL]     2       28    870.0MV  83.80UA 
+[Info] [IRD_SL]     2       28    880.0MV  88.76UA 
+[Info] [IRD_SL]     2       28    890.0MV  94.96UA 
+[Info] [IRD_SL]     2       28    900.0MV  97.44UA 
+[Info] [IRD_SL]     2       28    910.0MV  100.4UA 
+[Info] [IRD_SL]     2       28    920.0MV  107.0UA 
+[Info] [IRD_SL]     2       28    930.0MV  127.4UA 
+[Info] [IRD_SL]     2       28    940.0MV  141.8UA 
+[Info] [IRD_SL]     2       28    950.0MV  157.0UA 
+[Info] [IRD_SL]     2       28    960.0MV  162.9UA 
+[Info] [IRD_SL]     2       28    970.0MV  171.3UA 
+[Info] [IRD_SL]     2       28    980.0MV  180.9UA 
+[Info] [IRD_SL]     2       28    990.0MV  185.6UA 
+[Info] [IRD_SL]     2       28    1.000V   194.0UA 
+[Info] [IRD_SL]     2       28    1.010V   199.9UA 
+[Info] [IRD_SL]     2       28    1.020V   208.4UA 
+[Info] [IRD_SL]     2       28    1.030V   215.6UA 
+[Info] [IRD_SL]     2       28    1.040V   219.6UA 
+[Info] [IRD_SL]     2       28    1.050V   224.8UA 
+[Info] [IRD_SL]     2       28    1.060V   233.6UA 
+[Info] [IRD_SL]     2       28    1.070V   242.8UA 
+[Info] [IRD_SL]     2       28    1.071V   248.0UA 
+[Info] [IRD_SL]     2       28    1.072V   251.2UA 
+[Info] [IRD_SL]     2       28    1.073V   253.2UA 
+[Info] [IRD_SL]     2       28    1.074V   257.2UA 
+[Info] [IRD_SL]     2       28    1.075V   259.2UA 
+[Info] [IRD_SL]     2       28    1.076V   262.0UA 
+[Info] [IRD_SL]     2       28    1.077V   266.0UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    10        3    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    10        3    700.0MV  7.368UA 
+[Info] [IRD_SL]    10        3    710.0MV  6.700UA 
+[Info] [IRD_SL]    10        3    720.0MV  6.400UA 
+[Info] [IRD_SL]    10        3    730.0MV  6.688UA 
+[Info] [IRD_SL]    10        3    740.0MV  6.436UA 
+[Info] [IRD_SL]    10        3    750.0MV  6.812UA 
+[Info] [IRD_SL]    10        3    760.0MV  8.832UA 
+[Info] [IRD_SL]    10        3    770.0MV  7.624UA 
+[Info] [IRD_SL]    10        3    780.0MV  7.024UA 
+[Info] [IRD_SL]    10        3    790.0MV  9.296UA 
+[Info] [IRD_SL]    10        3    800.0MV  20.88UA 
+[Info] [IRD_SL]    10        3    810.0MV  31.24UA 
+[Info] [IRD_SL]    10        3    820.0MV  36.24UA 
+[Info] [IRD_SL]    10        3    830.0MV  42.32UA 
+[Info] [IRD_SL]    10        3    840.0MV  46.68UA 
+[Info] [IRD_SL]    10        3    850.0MV  56.76UA 
+[Info] [IRD_SL]    10        3    860.0MV  60.80UA 
+[Info] [IRD_SL]    10        3    870.0MV  66.96UA 
+[Info] [IRD_SL]    10        3    880.0MV  73.36UA 
+[Info] [IRD_SL]    10        3    881.0MV  81.04UA 
+[Info] [IRD_SL]    10        3    882.0MV  79.96UA 
+[Info] [IRD_SL]    10        3    883.0MV  82.96UA 
+[Info] [IRD_SL]    10        3    884.0MV  84.32UA 
+[Info] [IRD_SL]    10        3    885.0MV  84.60UA 
+[Info] [IRD_SL]    10        3    886.0MV  83.80UA 
+[Info] [IRD_SL]    10        3    887.0MV  88.12UA 
+[Info] [IRD_SL]    10        3    888.0MV  88.08UA 
+[Info] [IRD_SL]    10        3    889.0MV  88.24UA 
+[Info] [IRD_SL]    10        3    890.0MV  89.12UA 
+[Info] [IRD_SL]    10        3    891.0MV  92.12UA 
+[Info] [IRD_SL]    10        3    892.0MV  91.96UA 
+[Info] [IRD_SL]    10        3    893.0MV  93.96UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    10        4    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    10        4    700.0MV  6.004UA 
+[Info] [IRD_SL]    10        4    710.0MV  5.652UA 
+[Info] [IRD_SL]    10        4    720.0MV  5.512UA 
+[Info] [IRD_SL]    10        4    730.0MV  5.668UA 
+[Info] [IRD_SL]    10        4    740.0MV  5.632UA 
+[Info] [IRD_SL]    10        4    750.0MV  5.712UA 
+[Info] [IRD_SL]    10        4    760.0MV  5.992UA 
+[Info] [IRD_SL]    10        4    770.0MV  8.944UA 
+[Info] [IRD_SL]    10        4    780.0MV  7.640UA 
+[Info] [IRD_SL]    10        4    790.0MV  12.99UA 
+[Info] [IRD_SL]    10        4    800.0MV  18.08UA 
+[Info] [IRD_SL]    10        4    810.0MV  22.20UA 
+[Info] [IRD_SL]    10        4    820.0MV  30.48UA 
+[Info] [IRD_SL]    10        4    830.0MV  36.04UA 
+[Info] [IRD_SL]    10        4    840.0MV  37.64UA 
+[Info] [IRD_SL]    10        4    850.0MV  43.64UA 
+[Info] [IRD_SL]    10        4    860.0MV  51.24UA 
+[Info] [IRD_SL]    10        4    870.0MV  60.44UA 
+[Info] [IRD_SL]    10        4    880.0MV  72.64UA 
+[Info] [IRD_SL]    10        4    890.0MV  73.20UA 
+[Info] [IRD_SL]    10        4    900.0MV  83.20UA 
+[Info] [IRD_SL]    10        4    910.0MV  88.24UA 
+[Info] [IRD_SL]    10        4    920.0MV  102.2UA 
+[Info] [IRD_SL]    10        4    930.0MV  112.0UA 
+[Info] [IRD_SL]    10        4    940.0MV  113.9UA 
+[Info] [IRD_SL]    10        4    950.0MV  124.5UA 
+[Info] [IRD_SL]    10        4    960.0MV  128.8UA 
+[Info] [IRD_SL]    10        4    970.0MV  135.6UA 
+[Info] [IRD_SL]    10        4    980.0MV  143.3UA 
+[Info] [IRD_SL]    10        4    990.0MV  151.8UA 
+[Info] [IRD_SL]    10        4    1.000V   158.0UA 
+[Info] [IRD_SL]    10        4    1.010V   166.9UA 
+[Info] [IRD_SL]    10        4    1.020V   174.1UA 
+[Info] [IRD_SL]    10        4    1.030V   176.7UA 
+[Info] [IRD_SL]    10        4    1.040V   185.4UA 
+[Info] [IRD_SL]    10        4    1.050V   193.1UA 
+[Info] [IRD_SL]    10        4    1.060V   202.4UA 
+[Info] [IRD_SL]    10        4    1.070V   209.6UA 
+[Info] [IRD_SL]    10        4    1.080V   214.0UA 
+[Info] [IRD_SL]    10        4    1.090V   229.2UA 
+[Info] [IRD_SL]    10        4    1.100V   241.6UA 
+[Info] [IRD_SL]    10        4    1.101V   252.4UA 
+[Info] [IRD_SL]    10        4    1.102V   252.8UA 
+[Info] [IRD_SL]    10        4    1.103V   255.6UA 
+[Info] [IRD_SL]    10        4    1.104V   258.8UA 
+[Info] [IRD_SL]    10        4    1.105V   262.4UA 
+[Info] [IRD_SL]    10        4    1.106V   262.8UA 
+[Info] [IRD_SL]    10        4    1.107V   264.4UA 
+[Info] [IRD_SL]    10        4    1.108V   264.8UA 
+[Info] [IRD_SL]    10        4    1.109V   268.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    10       11    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    10       11    700.0MV  4.016UA 
+[Info] [IRD_SL]    10       11    710.0MV  3.992UA 
+[Info] [IRD_SL]    10       11    720.0MV  3.872UA 
+[Info] [IRD_SL]    10       11    730.0MV  3.872UA 
+[Info] [IRD_SL]    10       11    740.0MV  3.736UA 
+[Info] [IRD_SL]    10       11    750.0MV  4.844UA 
+[Info] [IRD_SL]    10       11    760.0MV  4.044UA 
+[Info] [IRD_SL]    10       11    770.0MV  4.240UA 
+[Info] [IRD_SL]    10       11    780.0MV  4.688UA 
+[Info] [IRD_SL]    10       11    790.0MV  4.812UA 
+[Info] [IRD_SL]    10       11    800.0MV  33.80UA 
+[Info] [IRD_SL]    10       11    810.0MV  37.40UA 
+[Info] [IRD_SL]    10       11    820.0MV  40.60UA 
+[Info] [IRD_SL]    10       11    830.0MV  51.64UA 
+[Info] [IRD_SL]    10       11    840.0MV  60.64UA 
+[Info] [IRD_SL]    10       11    850.0MV  63.12UA 
+[Info] [IRD_SL]    10       11    860.0MV  75.24UA 
+[Info] [IRD_SL]    10       11    861.0MV  87.76UA 
+[Info] [IRD_SL]    10       11    862.0MV  90.88UA 
+[Info] [IRD_SL]    10       11    863.0MV  87.80UA 
+[Info] [IRD_SL]    10       11    864.0MV  89.56UA 
+[Info] [IRD_SL]    10       11    865.0MV  92.96UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    10       12    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    10       12    700.0MV  7.088UA 
+[Info] [IRD_SL]    10       12    710.0MV  7.012UA 
+[Info] [IRD_SL]    10       12    720.0MV  7.120UA 
+[Info] [IRD_SL]    10       12    730.0MV  7.072UA 
+[Info] [IRD_SL]    10       12    740.0MV  7.176UA 
+[Info] [IRD_SL]    10       12    750.0MV  6.820UA 
+[Info] [IRD_SL]    10       12    760.0MV  7.480UA 
+[Info] [IRD_SL]    10       12    770.0MV  8.300UA 
+[Info] [IRD_SL]    10       12    780.0MV  8.536UA 
+[Info] [IRD_SL]    10       12    790.0MV  9.944UA 
+[Info] [IRD_SL]    10       12    800.0MV  19.57UA 
+[Info] [IRD_SL]    10       12    810.0MV  26.88UA 
+[Info] [IRD_SL]    10       12    820.0MV  34.32UA 
+[Info] [IRD_SL]    10       12    830.0MV  39.68UA 
+[Info] [IRD_SL]    10       12    840.0MV  48.12UA 
+[Info] [IRD_SL]    10       12    850.0MV  53.92UA 
+[Info] [IRD_SL]    10       12    860.0MV  62.32UA 
+[Info] [IRD_SL]    10       12    870.0MV  70.92UA 
+[Info] [IRD_SL]    10       12    880.0MV  75.52UA 
+[Info] [IRD_SL]    10       12    890.0MV  80.84UA 
+[Info] [IRD_SL]    10       12    900.0MV  90.80UA 
+[Info] [IRD_SL]    10       12    910.0MV  87.88UA 
+[Info] [IRD_SL]    10       12    920.0MV  104.9UA 
+[Info] [IRD_SL]    10       12    930.0MV  111.5UA 
+[Info] [IRD_SL]    10       12    940.0MV  121.0UA 
+[Info] [IRD_SL]    10       12    950.0MV  126.8UA 
+[Info] [IRD_SL]    10       12    960.0MV  138.7UA 
+[Info] [IRD_SL]    10       12    970.0MV  150.1UA 
+[Info] [IRD_SL]    10       12    980.0MV  160.8UA 
+[Info] [IRD_SL]    10       12    990.0MV  170.1UA 
+[Info] [IRD_SL]    10       12    1.000V   176.3UA 
+[Info] [IRD_SL]    10       12    1.010V   182.9UA 
+[Info] [IRD_SL]    10       12    1.020V   193.2UA 
+[Info] [IRD_SL]    10       12    1.030V   202.4UA 
+[Info] [IRD_SL]    10       12    1.040V   209.6UA 
+[Info] [IRD_SL]    10       12    1.050V   220.0UA 
+[Info] [IRD_SL]    10       12    1.060V   228.4UA 
+[Info] [IRD_SL]    10       12    1.070V   239.2UA 
+[Info] [IRD_SL]    10       12    1.080V   243.2UA 
+[Info] [IRD_SL]    10       12    1.081V   250.8UA 
+[Info] [IRD_SL]    10       12    1.082V   258.8UA 
+[Info] [IRD_SL]    10       12    1.083V   262.4UA 
+[Info] [IRD_SL]    10       12    1.084V   265.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    10       19    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    10       19    700.0MV  7.168UA 
+[Info] [IRD_SL]    10       19    710.0MV  7.176UA 
+[Info] [IRD_SL]    10       19    720.0MV  7.224UA 
+[Info] [IRD_SL]    10       19    730.0MV  7.192UA 
+[Info] [IRD_SL]    10       19    740.0MV  7.268UA 
+[Info] [IRD_SL]    10       19    750.0MV  7.108UA 
+[Info] [IRD_SL]    10       19    760.0MV  7.896UA 
+[Info] [IRD_SL]    10       19    770.0MV  12.21UA 
+[Info] [IRD_SL]    10       19    780.0MV  30.04UA 
+[Info] [IRD_SL]    10       19    790.0MV  29.28UA 
+[Info] [IRD_SL]    10       19    800.0MV  38.88UA 
+[Info] [IRD_SL]    10       19    810.0MV  42.76UA 
+[Info] [IRD_SL]    10       19    820.0MV  50.72UA 
+[Info] [IRD_SL]    10       19    830.0MV  56.56UA 
+[Info] [IRD_SL]    10       19    840.0MV  62.68UA 
+[Info] [IRD_SL]    10       19    850.0MV  69.96UA 
+[Info] [IRD_SL]    10       19    851.0MV  78.28UA 
+[Info] [IRD_SL]    10       19    852.0MV  79.60UA 
+[Info] [IRD_SL]    10       19    853.0MV  79.36UA 
+[Info] [IRD_SL]    10       19    854.0MV  84.04UA 
+[Info] [IRD_SL]    10       19    855.0MV  86.04UA 
+[Info] [IRD_SL]    10       19    856.0MV  86.84UA 
+[Info] [IRD_SL]    10       19    857.0MV  87.44UA 
+[Info] [IRD_SL]    10       19    858.0MV  89.28UA 
+[Info] [IRD_SL]    10       19    859.0MV  90.12UA 
+[Info] [IRD_SL]    10       19    860.0MV  90.64UA 
+[Info] [IRD_SL]    10       19    861.0MV  91.92UA 
+[Info] [IRD_SL]    10       19    862.0MV  92.32UA 
+[Info] [IRD_SL]    10       19    863.0MV  93.80UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    10       20    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    10       20    700.0MV  1.608UA 
+[Info] [IRD_SL]    10       20    710.0MV  1.568UA 
+[Info] [IRD_SL]    10       20    720.0MV  1.876UA 
+[Info] [IRD_SL]    10       20    730.0MV  1.624UA 
+[Info] [IRD_SL]    10       20    740.0MV  1.524UA 
+[Info] [IRD_SL]    10       20    750.0MV  1.488UA 
+[Info] [IRD_SL]    10       20    760.0MV  1.528UA 
+[Info] [IRD_SL]    10       20    770.0MV  1.464UA 
+[Info] [IRD_SL]    10       20    780.0MV  1.880UA 
+[Info] [IRD_SL]    10       20    790.0MV  1.536UA 
+[Info] [IRD_SL]    10       20    800.0MV  2.048UA 
+[Info] [IRD_SL]    10       20    810.0MV  31.44UA 
+[Info] [IRD_SL]    10       20    820.0MV  49.24UA 
+[Info] [IRD_SL]    10       20    830.0MV  53.48UA 
+[Info] [IRD_SL]    10       20    840.0MV  70.00UA 
+[Info] [IRD_SL]    10       20    850.0MV  79.36UA 
+[Info] [IRD_SL]    10       20    860.0MV  83.84UA 
+[Info] [IRD_SL]    10       20    870.0MV  92.92UA 
+[Info] [IRD_SL]    10       20    880.0MV  101.2UA 
+[Info] [IRD_SL]    10       20    890.0MV  103.8UA 
+[Info] [IRD_SL]    10       20    900.0MV  113.6UA 
+[Info] [IRD_SL]    10       20    910.0MV  118.6UA 
+[Info] [IRD_SL]    10       20    920.0MV  126.6UA 
+[Info] [IRD_SL]    10       20    930.0MV  134.5UA 
+[Info] [IRD_SL]    10       20    940.0MV  144.3UA 
+[Info] [IRD_SL]    10       20    950.0MV  151.2UA 
+[Info] [IRD_SL]    10       20    960.0MV  159.4UA 
+[Info] [IRD_SL]    10       20    970.0MV  164.8UA 
+[Info] [IRD_SL]    10       20    980.0MV  171.8UA 
+[Info] [IRD_SL]    10       20    990.0MV  184.2UA 
+[Info] [IRD_SL]    10       20    1.000V   196.4UA 
+[Info] [IRD_SL]    10       20    1.010V   208.4UA 
+[Info] [IRD_SL]    10       20    1.020V   221.2UA 
+[Info] [IRD_SL]    10       20    1.030V   232.0UA 
+[Info] [IRD_SL]    10       20    1.040V   238.0UA 
+[Info] [IRD_SL]    10       20    1.050V   243.2UA 
+[Info] [IRD_SL]    10       20    1.051V   251.2UA 
+[Info] [IRD_SL]    10       20    1.052V   250.4UA 
+[Info] [IRD_SL]    10       20    1.053V   254.8UA 
+[Info] [IRD_SL]    10       20    1.054V   256.8UA 
+[Info] [IRD_SL]    10       20    1.055V   257.6UA 
+[Info] [IRD_SL]    10       20    1.056V   262.4UA 
+[Info] [IRD_SL]    10       20    1.057V   260.8UA 
+[Info] [IRD_SL]    10       20    1.058V   262.8UA 
+[Info] [IRD_SL]    10       20    1.059V   267.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    10       27    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    10       27    700.0MV  9.684UA 
+[Info] [IRD_SL]    10       27    710.0MV  9.468UA 
+[Info] [IRD_SL]    10       27    720.0MV  8.448UA 
+[Info] [IRD_SL]    10       27    730.0MV  9.104UA 
+[Info] [IRD_SL]    10       27    740.0MV  8.184UA 
+[Info] [IRD_SL]    10       27    750.0MV  8.296UA 
+[Info] [IRD_SL]    10       27    760.0MV  8.732UA 
+[Info] [IRD_SL]    10       27    770.0MV  22.40UA 
+[Info] [IRD_SL]    10       27    780.0MV  28.28UA 
+[Info] [IRD_SL]    10       27    790.0MV  33.52UA 
+[Info] [IRD_SL]    10       27    800.0MV  40.24UA 
+[Info] [IRD_SL]    10       27    810.0MV  46.16UA 
+[Info] [IRD_SL]    10       27    820.0MV  53.12UA 
+[Info] [IRD_SL]    10       27    830.0MV  57.72UA 
+[Info] [IRD_SL]    10       27    840.0MV  65.84UA 
+[Info] [IRD_SL]    10       27    850.0MV  76.52UA 
+[Info] [IRD_SL]    10       27    851.0MV  75.96UA 
+[Info] [IRD_SL]    10       27    852.0MV  79.64UA 
+[Info] [IRD_SL]    10       27    853.0MV  81.60UA 
+[Info] [IRD_SL]    10       27    854.0MV  83.60UA 
+[Info] [IRD_SL]    10       27    855.0MV  83.80UA 
+[Info] [IRD_SL]    10       27    856.0MV  87.60UA 
+[Info] [IRD_SL]    10       27    857.0MV  89.40UA 
+[Info] [IRD_SL]    10       27    858.0MV  88.40UA 
+[Info] [IRD_SL]    10       27    859.0MV  91.32UA 
+[Info] [IRD_SL]    10       27    860.0MV  92.32UA 
+[Info] [IRD_SL]    10       27    861.0MV  94.92UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    10       28    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    10       28    700.0MV  5.452UA 
+[Info] [IRD_SL]    10       28    710.0MV  5.372UA 
+[Info] [IRD_SL]    10       28    720.0MV  5.504UA 
+[Info] [IRD_SL]    10       28    730.0MV  5.736UA 
+[Info] [IRD_SL]    10       28    740.0MV  6.248UA 
+[Info] [IRD_SL]    10       28    750.0MV  6.624UA 
+[Info] [IRD_SL]    10       28    760.0MV  7.212UA 
+[Info] [IRD_SL]    10       28    770.0MV  15.78UA 
+[Info] [IRD_SL]    10       28    780.0MV  18.74UA 
+[Info] [IRD_SL]    10       28    790.0MV  32.68UA 
+[Info] [IRD_SL]    10       28    800.0MV  43.20UA 
+[Info] [IRD_SL]    10       28    810.0MV  45.56UA 
+[Info] [IRD_SL]    10       28    820.0MV  54.92UA 
+[Info] [IRD_SL]    10       28    830.0MV  61.96UA 
+[Info] [IRD_SL]    10       28    840.0MV  66.88UA 
+[Info] [IRD_SL]    10       28    850.0MV  73.40UA 
+[Info] [IRD_SL]    10       28    860.0MV  81.84UA 
+[Info] [IRD_SL]    10       28    870.0MV  85.48UA 
+[Info] [IRD_SL]    10       28    880.0MV  95.60UA 
+[Info] [IRD_SL]    10       28    890.0MV  105.4UA 
+[Info] [IRD_SL]    10       28    900.0MV  109.3UA 
+[Info] [IRD_SL]    10       28    910.0MV  117.1UA 
+[Info] [IRD_SL]    10       28    920.0MV  124.5UA 
+[Info] [IRD_SL]    10       28    930.0MV  133.5UA 
+[Info] [IRD_SL]    10       28    940.0MV  141.1UA 
+[Info] [IRD_SL]    10       28    950.0MV  145.6UA 
+[Info] [IRD_SL]    10       28    960.0MV  149.5UA 
+[Info] [IRD_SL]    10       28    970.0MV  161.2UA 
+[Info] [IRD_SL]    10       28    980.0MV  162.0UA 
+[Info] [IRD_SL]    10       28    990.0MV  173.3UA 
+[Info] [IRD_SL]    10       28    1.000V   178.4UA 
+[Info] [IRD_SL]    10       28    1.010V   195.6UA 
+[Info] [IRD_SL]    10       28    1.020V   205.6UA 
+[Info] [IRD_SL]    10       28    1.030V   214.8UA 
+[Info] [IRD_SL]    10       28    1.040V   221.2UA 
+[Info] [IRD_SL]    10       28    1.050V   234.0UA 
+[Info] [IRD_SL]    10       28    1.060V   239.6UA 
+[Info] [IRD_SL]    10       28    1.070V   246.8UA 
+[Info] [IRD_SL]    10       28    1.071V   248.4UA 
+[Info] [IRD_SL]    10       28    1.072V   252.4UA 
+[Info] [IRD_SL]    10       28    1.073V   254.0UA 
+[Info] [IRD_SL]    10       28    1.074V   257.6UA 
+[Info] [IRD_SL]    10       28    1.075V   261.6UA 
+[Info] [IRD_SL]    10       28    1.076V   262.4UA 
+[Info] [IRD_SL]    10       28    1.077V   262.0UA 
+[Info] [IRD_SL]    10       28    1.078V   266.8UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    18        3    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    18        3    700.0MV  1.340UA 
+[Info] [IRD_SL]    18        3    710.0MV  1.328UA 
+[Info] [IRD_SL]    18        3    720.0MV  1.500UA 
+[Info] [IRD_SL]    18        3    730.0MV  1.484UA 
+[Info] [IRD_SL]    18        3    740.0MV  1.504UA 
+[Info] [IRD_SL]    18        3    750.0MV  1.300UA 
+[Info] [IRD_SL]    18        3    760.0MV  1.396UA 
+[Info] [IRD_SL]    18        3    770.0MV  2.080UA 
+[Info] [IRD_SL]    18        3    780.0MV  2.480UA 
+[Info] [IRD_SL]    18        3    790.0MV  1.892UA 
+[Info] [IRD_SL]    18        3    800.0MV  3.276UA 
+[Info] [IRD_SL]    18        3    810.0MV  5.712UA 
+[Info] [IRD_SL]    18        3    820.0MV  43.36UA 
+[Info] [IRD_SL]    18        3    830.0MV  46.44UA 
+[Info] [IRD_SL]    18        3    840.0MV  52.20UA 
+[Info] [IRD_SL]    18        3    850.0MV  55.80UA 
+[Info] [IRD_SL]    18        3    860.0MV  63.60UA 
+[Info] [IRD_SL]    18        3    870.0MV  70.12UA 
+[Info] [IRD_SL]    18        3    871.0MV  74.04UA 
+[Info] [IRD_SL]    18        3    872.0MV  74.12UA 
+[Info] [IRD_SL]    18        3    873.0MV  76.00UA 
+[Info] [IRD_SL]    18        3    874.0MV  77.04UA 
+[Info] [IRD_SL]    18        3    875.0MV  79.24UA 
+[Info] [IRD_SL]    18        3    876.0MV  81.52UA 
+[Info] [IRD_SL]    18        3    877.0MV  82.76UA 
+[Info] [IRD_SL]    18        3    878.0MV  86.08UA 
+[Info] [IRD_SL]    18        3    879.0MV  83.16UA 
+[Info] [IRD_SL]    18        3    880.0MV  85.92UA 
+[Info] [IRD_SL]    18        3    881.0MV  85.56UA 
+[Info] [IRD_SL]    18        3    882.0MV  87.20UA 
+[Info] [IRD_SL]    18        3    883.0MV  88.32UA 
+[Info] [IRD_SL]    18        3    884.0MV  91.80UA 
+[Info] [IRD_SL]    18        3    885.0MV  92.36UA 
+[Info] [IRD_SL]    18        3    886.0MV  93.92UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    18        4    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    18        4    700.0MV  8.280UA 
+[Info] [IRD_SL]    18        4    710.0MV  9.016UA 
+[Info] [IRD_SL]    18        4    720.0MV  9.028UA 
+[Info] [IRD_SL]    18        4    730.0MV  9.136UA 
+[Info] [IRD_SL]    18        4    740.0MV  9.104UA 
+[Info] [IRD_SL]    18        4    750.0MV  9.128UA 
+[Info] [IRD_SL]    18        4    760.0MV  9.024UA 
+[Info] [IRD_SL]    18        4    770.0MV  9.240UA 
+[Info] [IRD_SL]    18        4    780.0MV  9.312UA 
+[Info] [IRD_SL]    18        4    790.0MV  9.676UA 
+[Info] [IRD_SL]    18        4    800.0MV  9.804UA 
+[Info] [IRD_SL]    18        4    810.0MV  20.72UA 
+[Info] [IRD_SL]    18        4    820.0MV  24.20UA 
+[Info] [IRD_SL]    18        4    830.0MV  31.44UA 
+[Info] [IRD_SL]    18        4    840.0MV  34.32UA 
+[Info] [IRD_SL]    18        4    850.0MV  45.48UA 
+[Info] [IRD_SL]    18        4    860.0MV  54.24UA 
+[Info] [IRD_SL]    18        4    870.0MV  60.92UA 
+[Info] [IRD_SL]    18        4    880.0MV  77.04UA 
+[Info] [IRD_SL]    18        4    890.0MV  86.36UA 
+[Info] [IRD_SL]    18        4    900.0MV  90.68UA 
+[Info] [IRD_SL]    18        4    910.0MV  99.16UA 
+[Info] [IRD_SL]    18        4    920.0MV  115.0UA 
+[Info] [IRD_SL]    18        4    930.0MV  121.1UA 
+[Info] [IRD_SL]    18        4    940.0MV  133.0UA 
+[Info] [IRD_SL]    18        4    950.0MV  137.1UA 
+[Info] [IRD_SL]    18        4    960.0MV  146.0UA 
+[Info] [IRD_SL]    18        4    970.0MV  148.2UA 
+[Info] [IRD_SL]    18        4    980.0MV  155.6UA 
+[Info] [IRD_SL]    18        4    990.0MV  165.1UA 
+[Info] [IRD_SL]    18        4    1.000V   171.2UA 
+[Info] [IRD_SL]    18        4    1.010V   174.2UA 
+[Info] [IRD_SL]    18        4    1.020V   182.4UA 
+[Info] [IRD_SL]    18        4    1.030V   191.7UA 
+[Info] [IRD_SL]    18        4    1.040V   199.2UA 
+[Info] [IRD_SL]    18        4    1.050V   210.8UA 
+[Info] [IRD_SL]    18        4    1.060V   222.8UA 
+[Info] [IRD_SL]    18        4    1.070V   225.6UA 
+[Info] [IRD_SL]    18        4    1.080V   237.6UA 
+[Info] [IRD_SL]    18        4    1.090V   240.4UA 
+[Info] [IRD_SL]    18        4    1.091V   246.0UA 
+[Info] [IRD_SL]    18        4    1.092V   248.4UA 
+[Info] [IRD_SL]    18        4    1.093V   252.4UA 
+[Info] [IRD_SL]    18        4    1.094V   254.4UA 
+[Info] [IRD_SL]    18        4    1.095V   256.4UA 
+[Info] [IRD_SL]    18        4    1.096V   257.6UA 
+[Info] [IRD_SL]    18        4    1.097V   259.2UA 
+[Info] [IRD_SL]    18        4    1.098V   262.0UA 
+[Info] [IRD_SL]    18        4    1.099V   263.6UA 
+[Info] [IRD_SL]    18        4    1.100V   264.0UA 
+[Info] [IRD_SL]    18        4    1.101V   263.6UA 
+[Info] [IRD_SL]    18        4    1.102V   264.0UA 
+[Info] [IRD_SL]    18        4    1.103V   266.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    18       11    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    18       11    700.0MV  5.360UA 
+[Info] [IRD_SL]    18       11    710.0MV  5.756UA 
+[Info] [IRD_SL]    18       11    720.0MV  5.588UA 
+[Info] [IRD_SL]    18       11    730.0MV  5.660UA 
+[Info] [IRD_SL]    18       11    740.0MV  5.492UA 
+[Info] [IRD_SL]    18       11    750.0MV  5.204UA 
+[Info] [IRD_SL]    18       11    760.0MV  5.412UA 
+[Info] [IRD_SL]    18       11    770.0MV  8.052UA 
+[Info] [IRD_SL]    18       11    780.0MV  21.80UA 
+[Info] [IRD_SL]    18       11    790.0MV  27.04UA 
+[Info] [IRD_SL]    18       11    800.0MV  36.44UA 
+[Info] [IRD_SL]    18       11    810.0MV  46.04UA 
+[Info] [IRD_SL]    18       11    820.0MV  51.96UA 
+[Info] [IRD_SL]    18       11    830.0MV  54.12UA 
+[Info] [IRD_SL]    18       11    840.0MV  56.80UA 
+[Info] [IRD_SL]    18       11    850.0MV  66.84UA 
+[Info] [IRD_SL]    18       11    860.0MV  72.44UA 
+[Info] [IRD_SL]    18       11    861.0MV  77.44UA 
+[Info] [IRD_SL]    18       11    862.0MV  81.36UA 
+[Info] [IRD_SL]    18       11    863.0MV  81.56UA 
+[Info] [IRD_SL]    18       11    864.0MV  84.24UA 
+[Info] [IRD_SL]    18       11    865.0MV  87.00UA 
+[Info] [IRD_SL]    18       11    866.0MV  88.36UA 
+[Info] [IRD_SL]    18       11    867.0MV  87.04UA 
+[Info] [IRD_SL]    18       11    868.0MV  90.40UA 
+[Info] [IRD_SL]    18       11    869.0MV  93.08UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    18       12    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    18       12    700.0MV  532.0NA 
+[Info] [IRD_SL]    18       12    710.0MV  576.0NA 
+[Info] [IRD_SL]    18       12    720.0MV  448.0NA 
+[Info] [IRD_SL]    18       12    730.0MV  784.0NA 
+[Info] [IRD_SL]    18       12    740.0MV  400.0NA 
+[Info] [IRD_SL]    18       12    750.0MV  376.0NA 
+[Info] [IRD_SL]    18       12    760.0MV  348.0NA 
+[Info] [IRD_SL]    18       12    770.0MV  312.0NA 
+[Info] [IRD_SL]    18       12    780.0MV  2.556UA 
+[Info] [IRD_SL]    18       12    790.0MV  12.85UA 
+[Info] [IRD_SL]    18       12    800.0MV  19.92UA 
+[Info] [IRD_SL]    18       12    810.0MV  23.80UA 
+[Info] [IRD_SL]    18       12    820.0MV  33.92UA 
+[Info] [IRD_SL]    18       12    830.0MV  35.00UA 
+[Info] [IRD_SL]    18       12    840.0MV  38.16UA 
+[Info] [IRD_SL]    18       12    850.0MV  45.68UA 
+[Info] [IRD_SL]    18       12    860.0MV  48.04UA 
+[Info] [IRD_SL]    18       12    870.0MV  51.04UA 
+[Info] [IRD_SL]    18       12    880.0MV  51.48UA 
+[Info] [IRD_SL]    18       12    890.0MV  55.24UA 
+[Info] [IRD_SL]    18       12    900.0MV  63.24UA 
+[Info] [IRD_SL]    18       12    910.0MV  69.92UA 
+[Info] [IRD_SL]    18       12    920.0MV  74.32UA 
+[Info] [IRD_SL]    18       12    930.0MV  77.48UA 
+[Info] [IRD_SL]    18       12    940.0MV  83.00UA 
+[Info] [IRD_SL]    18       12    950.0MV  89.20UA 
+[Info] [IRD_SL]    18       12    960.0MV  93.92UA 
+[Info] [IRD_SL]    18       12    970.0MV  102.2UA 
+[Info] [IRD_SL]    18       12    980.0MV  105.4UA 
+[Info] [IRD_SL]    18       12    990.0MV  110.8UA 
+[Info] [IRD_SL]    18       12    1.000V   112.3UA 
+[Info] [IRD_SL]    18       12    1.010V   121.6UA 
+[Info] [IRD_SL]    18       12    1.020V   130.4UA 
+[Info] [IRD_SL]    18       12    1.030V   131.6UA 
+[Info] [IRD_SL]    18       12    1.040V   134.5UA 
+[Info] [IRD_SL]    18       12    1.050V   135.6UA 
+[Info] [IRD_SL]    18       12    1.060V   139.4UA 
+[Info] [IRD_SL]    18       12    1.070V   148.6UA 
+[Info] [IRD_SL]    18       12    1.080V   151.2UA 
+[Info] [IRD_SL]    18       12    1.090V   154.8UA 
+[Info] [IRD_SL]    18       12    1.100V   168.8UA 
+[Info] [IRD_SL]    18       12    1.110V   182.3UA 
+[Info] [IRD_SL]    18       12    1.120V   200.0UA 
+[Info] [IRD_SL]    18       12    1.130V   208.0UA 
+[Info] [IRD_SL]    18       12    1.140V   216.4UA 
+[Info] [IRD_SL]    18       12    1.150V   221.2UA 
+[Info] [IRD_SL]    18       12    1.160V   224.0UA 
+[Info] [IRD_SL]    18       12    1.170V   231.2UA 
+[Info] [IRD_SL]    18       12    1.180V   230.4UA 
+[Info] [IRD_SL]    18       12    1.190V   240.4UA 
+[Info] [IRD_SL]    18       12    1.191V   247.2UA 
+[Info] [IRD_SL]    18       12    1.192V   248.0UA 
+[Info] [IRD_SL]    18       12    1.193V   247.2UA 
+[Info] [IRD_SL]    18       12    1.194V   250.0UA 
+[Info] [IRD_SL]    18       12    1.195V   252.0UA 
+[Info] [IRD_SL]    18       12    1.196V   253.2UA 
+[Info] [IRD_SL]    18       12    1.197V   254.8UA 
+[Info] [IRD_SL]    18       12    1.198V   255.6UA 
+[Info] [IRD_SL]    18       12    1.199V   258.0UA 
+[Info] [IRD_SL]    18       12    1.200V   260.8UA 
+[Info] [IRD_SL]    18       12    1.201V   262.8UA 
+[Info] [IRD_SL]    18       12    1.202V   260.0UA 
+[Info] [IRD_SL]    18       12    1.203V   262.0UA 
+[Info] [IRD_SL]    18       12    1.204V   262.8UA 
+[Info] [IRD_SL]    18       12    1.205V   265.2UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    18       19    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    18       19    700.0MV  4.388UA 
+[Info] [IRD_SL]    18       19    710.0MV  4.624UA 
+[Info] [IRD_SL]    18       19    720.0MV  4.332UA 
+[Info] [IRD_SL]    18       19    730.0MV  5.748UA 
+[Info] [IRD_SL]    18       19    740.0MV  8.212UA 
+[Info] [IRD_SL]    18       19    750.0MV  6.332UA 
+[Info] [IRD_SL]    18       19    760.0MV  6.096UA 
+[Info] [IRD_SL]    18       19    770.0MV  12.80UA 
+[Info] [IRD_SL]    18       19    780.0MV  18.34UA 
+[Info] [IRD_SL]    18       19    790.0MV  15.32UA 
+[Info] [IRD_SL]    18       19    800.0MV  27.68UA 
+[Info] [IRD_SL]    18       19    810.0MV  34.08UA 
+[Info] [IRD_SL]    18       19    820.0MV  47.28UA 
+[Info] [IRD_SL]    18       19    830.0MV  56.52UA 
+[Info] [IRD_SL]    18       19    840.0MV  62.92UA 
+[Info] [IRD_SL]    18       19    850.0MV  67.92UA 
+[Info] [IRD_SL]    18       19    851.0MV  70.00UA 
+[Info] [IRD_SL]    18       19    852.0MV  71.56UA 
+[Info] [IRD_SL]    18       19    853.0MV  74.12UA 
+[Info] [IRD_SL]    18       19    854.0MV  76.76UA 
+[Info] [IRD_SL]    18       19    855.0MV  78.00UA 
+[Info] [IRD_SL]    18       19    856.0MV  79.36UA 
+[Info] [IRD_SL]    18       19    857.0MV  82.88UA 
+[Info] [IRD_SL]    18       19    858.0MV  82.12UA 
+[Info] [IRD_SL]    18       19    859.0MV  83.04UA 
+[Info] [IRD_SL]    18       19    860.0MV  85.04UA 
+[Info] [IRD_SL]    18       19    861.0MV  84.80UA 
+[Info] [IRD_SL]    18       19    862.0MV  85.08UA 
+[Info] [IRD_SL]    18       19    863.0MV  85.08UA 
+[Info] [IRD_SL]    18       19    864.0MV  86.48UA 
+[Info] [IRD_SL]    18       19    865.0MV  86.60UA 
+[Info] [IRD_SL]    18       19    866.0MV  87.44UA 
+[Info] [IRD_SL]    18       19    867.0MV  90.16UA 
+[Info] [IRD_SL]    18       19    868.0MV  91.04UA 
+[Info] [IRD_SL]    18       19    869.0MV  92.88UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    18       20    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    18       20    700.0MV  8.816UA 
+[Info] [IRD_SL]    18       20    710.0MV  9.840UA 
+[Info] [IRD_SL]    18       20    720.0MV  9.736UA 
+[Info] [IRD_SL]    18       20    730.0MV  9.840UA 
+[Info] [IRD_SL]    18       20    740.0MV  8.328UA 
+[Info] [IRD_SL]    18       20    750.0MV  9.548UA 
+[Info] [IRD_SL]    18       20    760.0MV  10.63UA 
+[Info] [IRD_SL]    18       20    770.0MV  15.52UA 
+[Info] [IRD_SL]    18       20    780.0MV  19.62UA 
+[Info] [IRD_SL]    18       20    790.0MV  32.20UA 
+[Info] [IRD_SL]    18       20    800.0MV  38.00UA 
+[Info] [IRD_SL]    18       20    810.0MV  41.28UA 
+[Info] [IRD_SL]    18       20    820.0MV  48.64UA 
+[Info] [IRD_SL]    18       20    830.0MV  57.60UA 
+[Info] [IRD_SL]    18       20    840.0MV  62.04UA 
+[Info] [IRD_SL]    18       20    850.0MV  72.84UA 
+[Info] [IRD_SL]    18       20    860.0MV  77.56UA 
+[Info] [IRD_SL]    18       20    870.0MV  86.08UA 
+[Info] [IRD_SL]    18       20    880.0MV  99.80UA 
+[Info] [IRD_SL]    18       20    890.0MV  102.4UA 
+[Info] [IRD_SL]    18       20    900.0MV  112.9UA 
+[Info] [IRD_SL]    18       20    910.0MV  120.6UA 
+[Info] [IRD_SL]    18       20    920.0MV  128.2UA 
+[Info] [IRD_SL]    18       20    930.0MV  132.8UA 
+[Info] [IRD_SL]    18       20    940.0MV  141.3UA 
+[Info] [IRD_SL]    18       20    950.0MV  149.9UA 
+[Info] [IRD_SL]    18       20    960.0MV  154.8UA 
+[Info] [IRD_SL]    18       20    970.0MV  169.8UA 
+[Info] [IRD_SL]    18       20    980.0MV  175.9UA 
+[Info] [IRD_SL]    18       20    990.0MV  185.0UA 
+[Info] [IRD_SL]    18       20    1.000V   196.3UA 
+[Info] [IRD_SL]    18       20    1.010V   204.4UA 
+[Info] [IRD_SL]    18       20    1.020V   216.4UA 
+[Info] [IRD_SL]    18       20    1.030V   222.8UA 
+[Info] [IRD_SL]    18       20    1.040V   234.0UA 
+[Info] [IRD_SL]    18       20    1.050V   239.6UA 
+[Info] [IRD_SL]    18       20    1.060V   246.0UA 
+[Info] [IRD_SL]    18       20    1.061V   249.6UA 
+[Info] [IRD_SL]    18       20    1.062V   251.2UA 
+[Info] [IRD_SL]    18       20    1.063V   255.6UA 
+[Info] [IRD_SL]    18       20    1.064V   255.6UA 
+[Info] [IRD_SL]    18       20    1.065V   259.2UA 
+[Info] [IRD_SL]    18       20    1.066V   260.0UA 
+[Info] [IRD_SL]    18       20    1.067V   264.8UA 
+[Info] [IRD_SL]    18       20    1.068V   264.4UA 
+[Info] [IRD_SL]    18       20    1.069V   264.4UA 
+[Info] [IRD_SL]    18       20    1.070V   266.0UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    18       27    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    18       27    700.0MV  8.896UA 
+[Info] [IRD_SL]    18       27    710.0MV  9.064UA 
+[Info] [IRD_SL]    18       27    720.0MV  9.604UA 
+[Info] [IRD_SL]    18       27    730.0MV  6.936UA 
+[Info] [IRD_SL]    18       27    740.0MV  9.504UA 
+[Info] [IRD_SL]    18       27    750.0MV  8.492UA 
+[Info] [IRD_SL]    18       27    760.0MV  4.688UA 
+[Info] [IRD_SL]    18       27    770.0MV  48.28UA 
+[Info] [IRD_SL]    18       27    780.0MV  46.76UA 
+[Info] [IRD_SL]    18       27    790.0MV  45.32UA 
+[Info] [IRD_SL]    18       27    800.0MV  47.20UA 
+[Info] [IRD_SL]    18       27    810.0MV  50.52UA 
+[Info] [IRD_SL]    18       27    820.0MV  56.56UA 
+[Info] [IRD_SL]    18       27    830.0MV  61.84UA 
+[Info] [IRD_SL]    18       27    840.0MV  71.56UA 
+[Info] [IRD_SL]    18       27    841.0MV  75.24UA 
+[Info] [IRD_SL]    18       27    842.0MV  76.08UA 
+[Info] [IRD_SL]    18       27    843.0MV  79.20UA 
+[Info] [IRD_SL]    18       27    844.0MV  82.32UA 
+[Info] [IRD_SL]    18       27    845.0MV  82.88UA 
+[Info] [IRD_SL]    18       27    846.0MV  85.84UA 
+[Info] [IRD_SL]    18       27    847.0MV  91.80UA 
+[Info] [IRD_SL]    18       27    848.0MV  91.72UA 
+[Info] [IRD_SL]    18       27    849.0MV  89.24UA 
+[Info] [IRD_SL]    18       27    850.0MV  95.00UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    18       28    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    18       28    700.0MV  8.876UA 
+[Info] [IRD_SL]    18       28    710.0MV  8.768UA 
+[Info] [IRD_SL]    18       28    720.0MV  8.676UA 
+[Info] [IRD_SL]    18       28    730.0MV  8.780UA 
+[Info] [IRD_SL]    18       28    740.0MV  8.756UA 
+[Info] [IRD_SL]    18       28    750.0MV  12.15UA 
+[Info] [IRD_SL]    18       28    760.0MV  18.07UA 
+[Info] [IRD_SL]    18       28    770.0MV  17.35UA 
+[Info] [IRD_SL]    18       28    780.0MV  19.38UA 
+[Info] [IRD_SL]    18       28    790.0MV  26.12UA 
+[Info] [IRD_SL]    18       28    800.0MV  32.64UA 
+[Info] [IRD_SL]    18       28    810.0MV  37.20UA 
+[Info] [IRD_SL]    18       28    820.0MV  42.52UA 
+[Info] [IRD_SL]    18       28    830.0MV  47.00UA 
+[Info] [IRD_SL]    18       28    840.0MV  60.32UA 
+[Info] [IRD_SL]    18       28    850.0MV  65.44UA 
+[Info] [IRD_SL]    18       28    860.0MV  68.72UA 
+[Info] [IRD_SL]    18       28    870.0MV  83.36UA 
+[Info] [IRD_SL]    18       28    880.0MV  95.76UA 
+[Info] [IRD_SL]    18       28    890.0MV  100.2UA 
+[Info] [IRD_SL]    18       28    900.0MV  109.7UA 
+[Info] [IRD_SL]    18       28    910.0MV  120.2UA 
+[Info] [IRD_SL]    18       28    920.0MV  128.4UA 
+[Info] [IRD_SL]    18       28    930.0MV  138.8UA 
+[Info] [IRD_SL]    18       28    940.0MV  149.2UA 
+[Info] [IRD_SL]    18       28    950.0MV  155.3UA 
+[Info] [IRD_SL]    18       28    960.0MV  163.9UA 
+[Info] [IRD_SL]    18       28    970.0MV  167.4UA 
+[Info] [IRD_SL]    18       28    980.0MV  177.6UA 
+[Info] [IRD_SL]    18       28    990.0MV  187.5UA 
+[Info] [IRD_SL]    18       28    1.000V   190.8UA 
+[Info] [IRD_SL]    18       28    1.010V   192.9UA 
+[Info] [IRD_SL]    18       28    1.020V   199.8UA 
+[Info] [IRD_SL]    18       28    1.030V   203.2UA 
+[Info] [IRD_SL]    18       28    1.040V   214.4UA 
+[Info] [IRD_SL]    18       28    1.050V   220.4UA 
+[Info] [IRD_SL]    18       28    1.060V   228.8UA 
+[Info] [IRD_SL]    18       28    1.070V   235.2UA 
+[Info] [IRD_SL]    18       28    1.080V   241.2UA 
+[Info] [IRD_SL]    18       28    1.081V   241.6UA 
+[Info] [IRD_SL]    18       28    1.082V   248.4UA 
+[Info] [IRD_SL]    18       28    1.083V   250.8UA 
+[Info] [IRD_SL]    18       28    1.084V   254.8UA 
+[Info] [IRD_SL]    18       28    1.085V   256.8UA 
+[Info] [IRD_SL]    18       28    1.086V   257.6UA 
+[Info] [IRD_SL]    18       28    1.087V   261.6UA 
+[Info] [IRD_SL]    18       28    1.088V   262.8UA 
+[Info] [IRD_SL]    18       28    1.089V   263.6UA 
+[Info] [IRD_SL]    18       28    1.090V   266.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    26        3    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    26        3    700.0MV  1.260UA 
+[Info] [IRD_SL]    26        3    710.0MV  1.084UA 
+[Info] [IRD_SL]    26        3    720.0MV  1.044UA 
+[Info] [IRD_SL]    26        3    730.0MV  1.080UA 
+[Info] [IRD_SL]    26        3    740.0MV  852.0NA 
+[Info] [IRD_SL]    26        3    750.0MV  1.256UA 
+[Info] [IRD_SL]    26        3    760.0MV  1.564UA 
+[Info] [IRD_SL]    26        3    770.0MV  2.996UA 
+[Info] [IRD_SL]    26        3    780.0MV  6.644UA 
+[Info] [IRD_SL]    26        3    790.0MV  9.756UA 
+[Info] [IRD_SL]    26        3    800.0MV  16.90UA 
+[Info] [IRD_SL]    26        3    810.0MV  23.44UA 
+[Info] [IRD_SL]    26        3    820.0MV  24.28UA 
+[Info] [IRD_SL]    26        3    830.0MV  30.68UA 
+[Info] [IRD_SL]    26        3    840.0MV  33.08UA 
+[Info] [IRD_SL]    26        3    850.0MV  39.76UA 
+[Info] [IRD_SL]    26        3    860.0MV  40.72UA 
+[Info] [IRD_SL]    26        3    870.0MV  52.12UA 
+[Info] [IRD_SL]    26        3    880.0MV  58.76UA 
+[Info] [IRD_SL]    26        3    890.0MV  68.72UA 
+[Info] [IRD_SL]    26        3    891.0MV  70.80UA 
+[Info] [IRD_SL]    26        3    892.0MV  75.24UA 
+[Info] [IRD_SL]    26        3    893.0MV  76.76UA 
+[Info] [IRD_SL]    26        3    894.0MV  76.08UA 
+[Info] [IRD_SL]    26        3    895.0MV  79.36UA 
+[Info] [IRD_SL]    26        3    896.0MV  80.64UA 
+[Info] [IRD_SL]    26        3    897.0MV  82.04UA 
+[Info] [IRD_SL]    26        3    898.0MV  83.56UA 
+[Info] [IRD_SL]    26        3    899.0MV  84.04UA 
+[Info] [IRD_SL]    26        3    900.0MV  86.00UA 
+[Info] [IRD_SL]    26        3    901.0MV  85.88UA 
+[Info] [IRD_SL]    26        3    902.0MV  89.36UA 
+[Info] [IRD_SL]    26        3    903.0MV  88.92UA 
+[Info] [IRD_SL]    26        3    904.0MV  92.32UA 
+[Info] [IRD_SL]    26        3    905.0MV  90.04UA 
+[Info] [IRD_SL]    26        3    906.0MV  92.92UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    26        4    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    26        4    700.0MV  136.0NA 
+[Info] [IRD_SL]    26        4    710.0MV  160.0NA 
+[Info] [IRD_SL]    26        4    720.0MV  180.0NA 
+[Info] [IRD_SL]    26        4    730.0MV  164.0NA 
+[Info] [IRD_SL]    26        4    740.0MV  260.0NA 
+[Info] [IRD_SL]    26        4    750.0MV  212.0NA 
+[Info] [IRD_SL]    26        4    760.0MV  328.0NA 
+[Info] [IRD_SL]    26        4    770.0MV  14.06UA 
+[Info] [IRD_SL]    26        4    780.0MV  15.66UA 
+[Info] [IRD_SL]    26        4    790.0MV  21.52UA 
+[Info] [IRD_SL]    26        4    800.0MV  25.76UA 
+[Info] [IRD_SL]    26        4    810.0MV  29.40UA 
+[Info] [IRD_SL]    26        4    820.0MV  33.20UA 
+[Info] [IRD_SL]    26        4    830.0MV  39.40UA 
+[Info] [IRD_SL]    26        4    840.0MV  46.04UA 
+[Info] [IRD_SL]    26        4    850.0MV  49.72UA 
+[Info] [IRD_SL]    26        4    860.0MV  54.68UA 
+[Info] [IRD_SL]    26        4    870.0MV  61.60UA 
+[Info] [IRD_SL]    26        4    880.0MV  68.08UA 
+[Info] [IRD_SL]    26        4    890.0MV  74.24UA 
+[Info] [IRD_SL]    26        4    900.0MV  80.72UA 
+[Info] [IRD_SL]    26        4    910.0MV  88.76UA 
+[Info] [IRD_SL]    26        4    920.0MV  94.84UA 
+[Info] [IRD_SL]    26        4    930.0MV  101.9UA 
+[Info] [IRD_SL]    26        4    940.0MV  107.6UA 
+[Info] [IRD_SL]    26        4    950.0MV  112.5UA 
+[Info] [IRD_SL]    26        4    960.0MV  122.5UA 
+[Info] [IRD_SL]    26        4    970.0MV  126.7UA 
+[Info] [IRD_SL]    26        4    980.0MV  135.8UA 
+[Info] [IRD_SL]    26        4    990.0MV  142.3UA 
+[Info] [IRD_SL]    26        4    1.000V   151.5UA 
+[Info] [IRD_SL]    26        4    1.010V   156.4UA 
+[Info] [IRD_SL]    26        4    1.020V   165.0UA 
+[Info] [IRD_SL]    26        4    1.030V   169.6UA 
+[Info] [IRD_SL]    26        4    1.040V   179.2UA 
+[Info] [IRD_SL]    26        4    1.050V   183.6UA 
+[Info] [IRD_SL]    26        4    1.060V   191.4UA 
+[Info] [IRD_SL]    26        4    1.070V   201.2UA 
+[Info] [IRD_SL]    26        4    1.080V   203.6UA 
+[Info] [IRD_SL]    26        4    1.090V   208.8UA 
+[Info] [IRD_SL]    26        4    1.100V   211.6UA 
+[Info] [IRD_SL]    26        4    1.110V   216.8UA 
+[Info] [IRD_SL]    26        4    1.120V   222.8UA 
+[Info] [IRD_SL]    26        4    1.130V   226.0UA 
+[Info] [IRD_SL]    26        4    1.140V   229.2UA 
+[Info] [IRD_SL]    26        4    1.150V   235.2UA 
+[Info] [IRD_SL]    26        4    1.160V   239.2UA 
+[Info] [IRD_SL]    26        4    1.170V   242.4UA 
+[Info] [IRD_SL]    26        4    1.171V   246.4UA 
+[Info] [IRD_SL]    26        4    1.172V   247.2UA 
+[Info] [IRD_SL]    26        4    1.173V   250.8UA 
+[Info] [IRD_SL]    26        4    1.174V   251.6UA 
+[Info] [IRD_SL]    26        4    1.175V   253.6UA 
+[Info] [IRD_SL]    26        4    1.176V   254.4UA 
+[Info] [IRD_SL]    26        4    1.177V   259.2UA 
+[Info] [IRD_SL]    26        4    1.178V   261.2UA 
+[Info] [IRD_SL]    26        4    1.179V   262.4UA 
+[Info] [IRD_SL]    26        4    1.180V   266.4UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    26       11    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    26       11    700.0MV  7.656UA 
+[Info] [IRD_SL]    26       11    710.0MV  7.852UA 
+[Info] [IRD_SL]    26       11    720.0MV  8.364UA 
+[Info] [IRD_SL]    26       11    730.0MV  8.348UA 
+[Info] [IRD_SL]    26       11    740.0MV  7.724UA 
+[Info] [IRD_SL]    26       11    750.0MV  7.440UA 
+[Info] [IRD_SL]    26       11    760.0MV  7.924UA 
+[Info] [IRD_SL]    26       11    770.0MV  8.512UA 
+[Info] [IRD_SL]    26       11    780.0MV  10.22UA 
+[Info] [IRD_SL]    26       11    790.0MV  24.00UA 
+[Info] [IRD_SL]    26       11    800.0MV  36.44UA 
+[Info] [IRD_SL]    26       11    810.0MV  41.12UA 
+[Info] [IRD_SL]    26       11    820.0MV  49.40UA 
+[Info] [IRD_SL]    26       11    830.0MV  55.84UA 
+[Info] [IRD_SL]    26       11    840.0MV  60.92UA 
+[Info] [IRD_SL]    26       11    850.0MV  70.92UA 
+[Info] [IRD_SL]    26       11    851.0MV  73.36UA 
+[Info] [IRD_SL]    26       11    852.0MV  76.00UA 
+[Info] [IRD_SL]    26       11    853.0MV  79.88UA 
+[Info] [IRD_SL]    26       11    854.0MV  80.32UA 
+[Info] [IRD_SL]    26       11    855.0MV  81.04UA 
+[Info] [IRD_SL]    26       11    856.0MV  81.28UA 
+[Info] [IRD_SL]    26       11    857.0MV  83.72UA 
+[Info] [IRD_SL]    26       11    858.0MV  83.72UA 
+[Info] [IRD_SL]    26       11    859.0MV  85.52UA 
+[Info] [IRD_SL]    26       11    860.0MV  87.12UA 
+[Info] [IRD_SL]    26       11    861.0MV  85.76UA 
+[Info] [IRD_SL]    26       11    862.0MV  87.68UA 
+[Info] [IRD_SL]    26       11    863.0MV  86.96UA 
+[Info] [IRD_SL]    26       11    864.0MV  90.68UA 
+[Info] [IRD_SL]    26       11    865.0MV  91.24UA 
+[Info] [IRD_SL]    26       11    866.0MV  92.48UA 
+[Info] [IRD_SL]    26       11    867.0MV  93.96UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    26       12    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    26       12    700.0MV  5.744UA 
+[Info] [IRD_SL]    26       12    710.0MV  6.432UA 
+[Info] [IRD_SL]    26       12    720.0MV  6.424UA 
+[Info] [IRD_SL]    26       12    730.0MV  6.272UA 
+[Info] [IRD_SL]    26       12    740.0MV  6.172UA 
+[Info] [IRD_SL]    26       12    750.0MV  6.720UA 
+[Info] [IRD_SL]    26       12    760.0MV  7.304UA 
+[Info] [IRD_SL]    26       12    770.0MV  7.080UA 
+[Info] [IRD_SL]    26       12    780.0MV  7.088UA 
+[Info] [IRD_SL]    26       12    790.0MV  9.648UA 
+[Info] [IRD_SL]    26       12    800.0MV  18.09UA 
+[Info] [IRD_SL]    26       12    810.0MV  34.52UA 
+[Info] [IRD_SL]    26       12    820.0MV  37.52UA 
+[Info] [IRD_SL]    26       12    830.0MV  44.08UA 
+[Info] [IRD_SL]    26       12    840.0MV  49.92UA 
+[Info] [IRD_SL]    26       12    850.0MV  53.40UA 
+[Info] [IRD_SL]    26       12    860.0MV  57.16UA 
+[Info] [IRD_SL]    26       12    870.0MV  67.24UA 
+[Info] [IRD_SL]    26       12    880.0MV  73.92UA 
+[Info] [IRD_SL]    26       12    890.0MV  80.08UA 
+[Info] [IRD_SL]    26       12    900.0MV  90.32UA 
+[Info] [IRD_SL]    26       12    910.0MV  96.52UA 
+[Info] [IRD_SL]    26       12    920.0MV  101.6UA 
+[Info] [IRD_SL]    26       12    930.0MV  107.6UA 
+[Info] [IRD_SL]    26       12    940.0MV  116.6UA 
+[Info] [IRD_SL]    26       12    950.0MV  120.5UA 
+[Info] [IRD_SL]    26       12    960.0MV  127.2UA 
+[Info] [IRD_SL]    26       12    970.0MV  140.8UA 
+[Info] [IRD_SL]    26       12    980.0MV  155.5UA 
+[Info] [IRD_SL]    26       12    990.0MV  161.5UA 
+[Info] [IRD_SL]    26       12    1.000V   166.4UA 
+[Info] [IRD_SL]    26       12    1.010V   177.9UA 
+[Info] [IRD_SL]    26       12    1.020V   185.8UA 
+[Info] [IRD_SL]    26       12    1.030V   195.4UA 
+[Info] [IRD_SL]    26       12    1.040V   202.4UA 
+[Info] [IRD_SL]    26       12    1.050V   208.8UA 
+[Info] [IRD_SL]    26       12    1.060V   218.0UA 
+[Info] [IRD_SL]    26       12    1.070V   227.6UA 
+[Info] [IRD_SL]    26       12    1.080V   230.0UA 
+[Info] [IRD_SL]    26       12    1.090V   235.2UA 
+[Info] [IRD_SL]    26       12    1.100V   246.8UA 
+[Info] [IRD_SL]    26       12    1.101V   248.8UA 
+[Info] [IRD_SL]    26       12    1.102V   250.0UA 
+[Info] [IRD_SL]    26       12    1.103V   253.6UA 
+[Info] [IRD_SL]    26       12    1.104V   256.4UA 
+[Info] [IRD_SL]    26       12    1.105V   258.4UA 
+[Info] [IRD_SL]    26       12    1.106V   260.0UA 
+[Info] [IRD_SL]    26       12    1.107V   261.6UA 
+[Info] [IRD_SL]    26       12    1.108V   267.6UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    26       19    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    26       19    700.0MV  1.592UA 
+[Info] [IRD_SL]    26       19    710.0MV  1.600UA 
+[Info] [IRD_SL]    26       19    720.0MV  1.780UA 
+[Info] [IRD_SL]    26       19    730.0MV  1.724UA 
+[Info] [IRD_SL]    26       19    740.0MV  1.760UA 
+[Info] [IRD_SL]    26       19    750.0MV  1.692UA 
+[Info] [IRD_SL]    26       19    760.0MV  2.124UA 
+[Info] [IRD_SL]    26       19    770.0MV  5.136UA 
+[Info] [IRD_SL]    26       19    780.0MV  29.60UA 
+[Info] [IRD_SL]    26       19    790.0MV  32.32UA 
+[Info] [IRD_SL]    26       19    800.0MV  36.12UA 
+[Info] [IRD_SL]    26       19    810.0MV  40.00UA 
+[Info] [IRD_SL]    26       19    820.0MV  49.16UA 
+[Info] [IRD_SL]    26       19    830.0MV  53.68UA 
+[Info] [IRD_SL]    26       19    840.0MV  59.04UA 
+[Info] [IRD_SL]    26       19    850.0MV  64.12UA 
+[Info] [IRD_SL]    26       19    860.0MV  76.40UA 
+[Info] [IRD_SL]    26       19    861.0MV  76.92UA 
+[Info] [IRD_SL]    26       19    862.0MV  84.24UA 
+[Info] [IRD_SL]    26       19    863.0MV  89.52UA 
+[Info] [IRD_SL]    26       19    864.0MV  91.84UA 
+[Info] [IRD_SL]    26       19    865.0MV  94.52UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    26       20    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    26       20    700.0MV  3.816UA 
+[Info] [IRD_SL]    26       20    710.0MV  3.852UA 
+[Info] [IRD_SL]    26       20    720.0MV  3.884UA 
+[Info] [IRD_SL]    26       20    730.0MV  3.660UA 
+[Info] [IRD_SL]    26       20    740.0MV  4.320UA 
+[Info] [IRD_SL]    26       20    750.0MV  4.728UA 
+[Info] [IRD_SL]    26       20    760.0MV  5.644UA 
+[Info] [IRD_SL]    26       20    770.0MV  5.956UA 
+[Info] [IRD_SL]    26       20    780.0MV  33.76UA 
+[Info] [IRD_SL]    26       20    790.0MV  30.72UA 
+[Info] [IRD_SL]    26       20    800.0MV  44.00UA 
+[Info] [IRD_SL]    26       20    810.0MV  45.92UA 
+[Info] [IRD_SL]    26       20    820.0MV  52.32UA 
+[Info] [IRD_SL]    26       20    830.0MV  62.36UA 
+[Info] [IRD_SL]    26       20    840.0MV  66.80UA 
+[Info] [IRD_SL]    26       20    850.0MV  72.16UA 
+[Info] [IRD_SL]    26       20    860.0MV  80.32UA 
+[Info] [IRD_SL]    26       20    870.0MV  87.76UA 
+[Info] [IRD_SL]    26       20    880.0MV  91.56UA 
+[Info] [IRD_SL]    26       20    890.0MV  104.2UA 
+[Info] [IRD_SL]    26       20    900.0MV  109.6UA 
+[Info] [IRD_SL]    26       20    910.0MV  117.8UA 
+[Info] [IRD_SL]    26       20    920.0MV  125.9UA 
+[Info] [IRD_SL]    26       20    930.0MV  131.5UA 
+[Info] [IRD_SL]    26       20    940.0MV  137.3UA 
+[Info] [IRD_SL]    26       20    950.0MV  144.2UA 
+[Info] [IRD_SL]    26       20    960.0MV  156.3UA 
+[Info] [IRD_SL]    26       20    970.0MV  164.5UA 
+[Info] [IRD_SL]    26       20    980.0MV  164.2UA 
+[Info] [IRD_SL]    26       20    990.0MV  172.5UA 
+[Info] [IRD_SL]    26       20    1.000V   180.0UA 
+[Info] [IRD_SL]    26       20    1.010V   186.0UA 
+[Info] [IRD_SL]    26       20    1.020V   187.6UA 
+[Info] [IRD_SL]    26       20    1.030V   192.3UA 
+[Info] [IRD_SL]    26       20    1.040V   197.6UA 
+[Info] [IRD_SL]    26       20    1.050V   200.8UA 
+[Info] [IRD_SL]    26       20    1.060V   210.8UA 
+[Info] [IRD_SL]    26       20    1.070V   225.6UA 
+[Info] [IRD_SL]    26       20    1.080V   233.6UA 
+[Info] [IRD_SL]    26       20    1.090V   243.6UA 
+[Info] [IRD_SL]    26       20    1.091V   252.0UA 
+[Info] [IRD_SL]    26       20    1.092V   254.8UA 
+[Info] [IRD_SL]    26       20    1.093V   259.2UA 
+[Info] [IRD_SL]    26       20    1.094V   263.6UA 
+[Info] [IRD_SL]    26       20    1.095V   266.0UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    26       27    92.50UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    26       27    700.0MV  4.796UA 
+[Info] [IRD_SL]    26       27    710.0MV  4.948UA 
+[Info] [IRD_SL]    26       27    720.0MV  4.788UA 
+[Info] [IRD_SL]    26       27    730.0MV  4.904UA 
+[Info] [IRD_SL]    26       27    740.0MV  5.064UA 
+[Info] [IRD_SL]    26       27    750.0MV  5.092UA 
+[Info] [IRD_SL]    26       27    760.0MV  8.260UA 
+[Info] [IRD_SL]    26       27    770.0MV  7.944UA 
+[Info] [IRD_SL]    26       27    780.0MV  8.960UA 
+[Info] [IRD_SL]    26       27    790.0MV  16.72UA 
+[Info] [IRD_SL]    26       27    800.0MV  23.80UA 
+[Info] [IRD_SL]    26       27    810.0MV  23.20UA 
+[Info] [IRD_SL]    26       27    820.0MV  36.48UA 
+[Info] [IRD_SL]    26       27    830.0MV  42.68UA 
+[Info] [IRD_SL]    26       27    840.0MV  53.08UA 
+[Info] [IRD_SL]    26       27    850.0MV  59.68UA 
+[Info] [IRD_SL]    26       27    860.0MV  67.32UA 
+[Info] [IRD_SL]    26       27    870.0MV  85.96UA 
+[Info] [IRD_SL]    26       27    871.0MV  94.44UA 
+[Info] [SET_COMPLETED]
+[Info] [WRITE_COUPLE]    26       28    265.0UA 
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [RESET]
+[Info] [SET_START]
+[Info] [IRD_SL]    26       28    700.0MV  680.0NA 
+[Info] [IRD_SL]    26       28    710.0MV  612.0NA 
+[Info] [IRD_SL]    26       28    720.0MV  580.0NA 
+[Info] [IRD_SL]    26       28    730.0MV  1.144UA 
+[Info] [IRD_SL]    26       28    740.0MV  1.248UA 
+[Info] [IRD_SL]    26       28    750.0MV  772.0NA 
+[Info] [IRD_SL]    26       28    760.0MV  2.148UA 
+[Info] [IRD_SL]    26       28    770.0MV  23.92UA 
+[Info] [IRD_SL]    26       28    780.0MV  24.40UA 
+[Info] [IRD_SL]    26       28    790.0MV  26.00UA 
+[Info] [IRD_SL]    26       28    800.0MV  32.52UA 
+[Info] [IRD_SL]    26       28    810.0MV  34.52UA 
+[Info] [IRD_SL]    26       28    820.0MV  37.56UA 
+[Info] [IRD_SL]    26       28    830.0MV  46.80UA 
+[Info] [IRD_SL]    26       28    840.0MV  49.12UA 
+[Info] [IRD_SL]    26       28    850.0MV  52.92UA 
+[Info] [IRD_SL]    26       28    860.0MV  63.44UA 
+[Info] [IRD_SL]    26       28    870.0MV  66.12UA 
+[Info] [IRD_SL]    26       28    880.0MV  72.44UA 
+[Info] [IRD_SL]    26       28    890.0MV  78.68UA 
+[Info] [IRD_SL]    26       28    900.0MV  83.68UA 
+[Info] [IRD_SL]    26       28    910.0MV  89.20UA 
+[Info] [IRD_SL]    26       28    920.0MV  92.72UA 
+[Info] [IRD_SL]    26       28    930.0MV  97.40UA 
+[Info] [IRD_SL]    26       28    940.0MV  102.6UA 
+[Info] [IRD_SL]    26       28    950.0MV  105.6UA 
+[Info] [IRD_SL]    26       28    960.0MV  108.4UA 
+[Info] [IRD_SL]    26       28    970.0MV  115.6UA 
+[Info] [IRD_SL]    26       28    980.0MV  138.8UA 
+[Info] [IRD_SL]    26       28    990.0MV  152.9UA 
+[Info] [IRD_SL]    26       28    1.000V   168.2UA 
+[Info] [IRD_SL]    26       28    1.010V   175.3UA 
+[Info] [IRD_SL]    26       28    1.020V   180.7UA 
+[Info] [IRD_SL]    26       28    1.030V   181.3UA 
+[Info] [IRD_SL]    26       28    1.040V   186.0UA 
+[Info] [IRD_SL]    26       28    1.050V   189.3UA 
+[Info] [IRD_SL]    26       28    1.060V   191.6UA 
+[Info] [IRD_SL]    26       28    1.070V   195.1UA 
+[Info] [IRD_SL]    26       28    1.080V   195.0UA 
+[Info] [IRD_SL]    26       28    1.090V   199.2UA 
+[Info] [IRD_SL]    26       28    1.100V   201.2UA 
+[Info] [IRD_SL]    26       28    1.110V   202.8UA 
+[Info] [IRD_SL]    26       28    1.120V   204.8UA 
+[Info] [IRD_SL]    26       28    1.130V   206.4UA 
+[Info] [IRD_SL]    26       28    1.140V   210.4UA 
+[Info] [IRD_SL]    26       28    1.150V   212.4UA 
+[Info] [IRD_SL]    26       28    1.160V   218.0UA 
+[Info] [IRD_SL]    26       28    1.170V   224.0UA 
+[Info] [IRD_SL]    26       28    1.180V   224.4UA 
+[Info] [IRD_SL]    26       28    1.190V   227.2UA 
+[Info] [IRD_SL]    26       28    1.200V   232.8UA 
+[Info] [IRD_SL]    26       28    1.210V   232.4UA 
+[Info] [IRD_SL]    26       28    1.220V   233.2UA 
+[Info] [IRD_SL]    26       28    1.230V   240.0UA 
+[Info] [IRD_SL]    26       28    1.231V   243.6UA 
+[Info] [IRD_SL]    26       28    1.232V   247.2UA 
+[Info] [IRD_SL]    26       28    1.233V   251.6UA 
+[Info] [IRD_SL]    26       28    1.234V   256.8UA 
+[Info] [IRD_SL]    26       28    1.235V   254.8UA 
+[Info] [IRD_SL]    26       28    1.236V   259.2UA 
+[Info] [IRD_SL]    26       28    1.237V   261.2UA 
+[Info] [IRD_SL]    26       28    1.238V   260.4UA 
+[Info] [IRD_SL]    26       28    1.239V   264.4UA 
+[Info] [IRD_SL]    26       28    1.240V   268.0UA 
+[Info] [SET_COMPLETED]
+[Info] [SCAN_START]
+[Info] [IRD_SL]     0        0    251.6UA 
+[Info] [IRD_SL]     1        0    27.60UA 
+[Info] [IRD_SL]     2        0    21.48UA 
+[Info] [IRD_SL]     3        0    28.76UA 
+[Info] [IRD_SL]     4        0    250.8UA 
+[Info] [IRD_SL]     5        0    25.80UA 
+[Info] [IRD_SL]     6        0    29.32UA 
+[Info] [IRD_SL]     7        0    29.00UA 
+[Info] [IRD_SL]     8        0    251.2UA 
+[Info] [IRD_SL]     9        0    417.2UA 
+[Info] [IRD_SL]    10        0    416.8UA 
+[Info] [IRD_SL]    11        0    412.4UA 
+[Info] [IRD_SL]    12        0    250.0UA 
+[Info] [IRD_SL]    13        0    399.6UA 
+[Info] [IRD_SL]    14        0    430.8UA 
+[Info] [IRD_SL]    15        0    384.8UA 
+[Info] [IRD_SL]    16        0    251.2UA 
+[Info] [IRD_SL]    17        0    398.4UA 
+[Info] [IRD_SL]    18        0    416.0UA 
+[Info] [IRD_SL]    19        0    406.0UA 
+[Info] [IRD_SL]    20        0    252.0UA 
+[Info] [IRD_SL]    21        0    353.2UA 
+[Info] [IRD_SL]    22        0    395.6UA 
+[Info] [IRD_SL]    23        0    368.8UA 
+[Info] [IRD_SL]    24        0    249.6UA 
+[Info] [IRD_SL]    25        0    391.2UA 
+[Info] [IRD_SL]    26        0    384.8UA 
+[Info] [IRD_SL]    27        0    383.2UA 
+[Info] [IRD_SL]    28        0    252.8UA 
+[Info] [IRD_SL]    29        0    380.4UA 
+[Info] [IRD_SL]    30        0    385.2UA 
+[Info] [IRD_SL]    31        0    364.8UA 
+[Info] [IRD_SL]     0        1    351.2UA 
+[Info] [IRD_SL]     1        1    307.6UA 
+[Info] [IRD_SL]     2        1    28.04UA 
+[Info] [IRD_SL]     3        1    230.8UA 
+[Info] [IRD_SL]     4        1    185.2UA 
+[Info] [IRD_SL]     5        1    150.2UA 
+[Info] [IRD_SL]     6        1    109.0UA 
+[Info] [IRD_SL]     7        1    69.52UA 
+[Info] [IRD_SL]     8        1    414.4UA 
+[Info] [IRD_SL]     9        1    388.0UA 
+[Info] [IRD_SL]    10        1    23.80UA 
+[Info] [IRD_SL]    11        1    400.4UA 
+[Info] [IRD_SL]    12        1    378.8UA 
+[Info] [IRD_SL]    13        1    384.4UA 
+[Info] [IRD_SL]    14        1    394.0UA 
+[Info] [IRD_SL]    15        1    418.4UA 
+[Info] [IRD_SL]    16        1    335.2UA 
+[Info] [IRD_SL]    17        1    405.6UA 
+[Info] [IRD_SL]    18        1    21.04UA 
+[Info] [IRD_SL]    19        1    399.2UA 
+[Info] [IRD_SL]    20        1    401.2UA 
+[Info] [IRD_SL]    21        1    401.6UA 
+[Info] [IRD_SL]    22        1    413.2UA 
+[Info] [IRD_SL]    23        1    406.4UA 
+[Info] [IRD_SL]    24        1    414.4UA 
+[Info] [IRD_SL]    25        1    388.4UA 
+[Info] [IRD_SL]    26        1    23.96UA 
+[Info] [IRD_SL]    27        1    426.8UA 
+[Info] [IRD_SL]    28        1    397.2UA 
+[Info] [IRD_SL]    29        1    377.2UA 
+[Info] [IRD_SL]    30        1    407.6UA 
+[Info] [IRD_SL]    31        1    400.4UA 
+[Info] [IRD_SL]     0        2    29.60UA 
+[Info] [IRD_SL]     1        2    27.76UA 
+[Info] [IRD_SL]     2        2    40.28UA 
+[Info] [IRD_SL]     3        2    28.24UA 
+[Info] [IRD_SL]     4        2    23.92UA 
+[Info] [IRD_SL]     5        2    31.12UA 
+[Info] [IRD_SL]     6        2    31.60UA 
+[Info] [IRD_SL]     7        2    27.48UA 
+[Info] [IRD_SL]     8        2    432.4UA 
+[Info] [IRD_SL]     9        2    389.6UA 
+[Info] [IRD_SL]    10        2    38.44UA 
+[Info] [IRD_SL]    11        2    420.4UA 
+[Info] [IRD_SL]    12        2    354.0UA 
+[Info] [IRD_SL]    13        2    420.4UA 
+[Info] [IRD_SL]    14        2    413.2UA 
+[Info] [IRD_SL]    15        2    400.4UA 
+[Info] [IRD_SL]    16        2    433.2UA 
+[Info] [IRD_SL]    17        2    393.6UA 
+[Info] [IRD_SL]    18        2    37.92UA 
+[Info] [IRD_SL]    19        2    384.4UA 
+[Info] [IRD_SL]    20        2    366.8UA 
+[Info] [IRD_SL]    21        2    394.8UA 
+[Info] [IRD_SL]    22        2    399.2UA 
+[Info] [IRD_SL]    23        2    411.6UA 
+[Info] [IRD_SL]    24        2    428.4UA 
+[Info] [IRD_SL]    25        2    414.0UA 
+[Info] [IRD_SL]    26        2    37.08UA 
+[Info] [IRD_SL]    27        2    392.4UA 
+[Info] [IRD_SL]    28        2    384.0UA 
+[Info] [IRD_SL]    29        2    399.6UA 
+[Info] [IRD_SL]    30        2    401.6UA 
+[Info] [IRD_SL]    31        2    380.4UA 
+[Info] [IRD_SL]     0        3    346.0UA 
+[Info] [IRD_SL]     1        3    304.0UA 
+[Info] [IRD_SL]     2        3    92.56UA 
+[Info] [IRD_SL]     3        3    225.2UA 
+[Info] [IRD_SL]     4        3    185.5UA 
+[Info] [IRD_SL]     5        3    141.6UA 
+[Info] [IRD_SL]     6        3    108.4UA 
+[Info] [IRD_SL]     7        3    62.00UA 
+[Info] [IRD_SL]     8        3    357.2UA 
+[Info] [IRD_SL]     9        3    410.0UA 
+[Info] [IRD_SL]    10        3    93.00UA 
+[Info] [IRD_SL]    11        3    397.6UA 
+[Info] [IRD_SL]    12        3    414.0UA 
+[Info] [IRD_SL]    13        3    409.2UA 
+[Info] [IRD_SL]    14        3    412.0UA 
+[Info] [IRD_SL]    15        3    382.8UA 
+[Info] [IRD_SL]    16        3    420.8UA 
+[Info] [IRD_SL]    17        3    380.4UA 
+[Info] [IRD_SL]    18        3    93.24UA 
+[Info] [IRD_SL]    19        3    388.0UA 
+[Info] [IRD_SL]    20        3    405.6UA 
+[Info] [IRD_SL]    21        3    398.4UA 
+[Info] [IRD_SL]    22        3    399.6UA 
+[Info] [IRD_SL]    23        3    409.2UA 
+[Info] [IRD_SL]    24        3    411.2UA 
+[Info] [IRD_SL]    25        3    398.8UA 
+[Info] [IRD_SL]    26        3    89.40UA 
+[Info] [IRD_SL]    27        3    333.2UA 
+[Info] [IRD_SL]    28        3    396.8UA 
+[Info] [IRD_SL]    29        3    403.6UA 
+[Info] [IRD_SL]    30        3    410.4UA 
+[Info] [IRD_SL]    31        3    322.4UA 
+[Info] [IRD_SL]     0        4    250.8UA 
+[Info] [IRD_SL]     1        4    27.28UA 
+[Info] [IRD_SL]     2        4    264.4UA 
+[Info] [IRD_SL]     3        4    29.76UA 
+[Info] [IRD_SL]     4        4    249.6UA 
+[Info] [IRD_SL]     5        4    24.08UA 
+[Info] [IRD_SL]     6        4    24.80UA 
+[Info] [IRD_SL]     7        4    27.92UA 
+[Info] [IRD_SL]     8        4    250.0UA 
+[Info] [IRD_SL]     9        4    418.0UA 
+[Info] [IRD_SL]    10        4    270.4UA 
+[Info] [IRD_SL]    11        4    415.6UA 
+[Info] [IRD_SL]    12        4    249.6UA 
+[Info] [IRD_SL]    13        4    407.6UA 
+[Info] [IRD_SL]    14        4    442.4UA 
+[Info] [IRD_SL]    15        4    404.8UA 
+[Info] [IRD_SL]    16        4    247.6UA 
+[Info] [IRD_SL]    17        4    390.8UA 
+[Info] [IRD_SL]    18        4    264.8UA 
+[Info] [IRD_SL]    19        4    402.4UA 
+[Info] [IRD_SL]    20        4    253.6UA 
+[Info] [IRD_SL]    21        4    389.2UA 
+[Info] [IRD_SL]    22        4    418.4UA 
+[Info] [IRD_SL]    23        4    410.0UA 
+[Info] [IRD_SL]    24        4    250.4UA 
+[Info] [IRD_SL]    25        4    410.8UA 
+[Info] [IRD_SL]    26        4    266.4UA 
+[Info] [IRD_SL]    27        4    390.4UA 
+[Info] [IRD_SL]    28        4    251.2UA 
+[Info] [IRD_SL]    29        4    396.0UA 
+[Info] [IRD_SL]    30        4    404.0UA 
+[Info] [IRD_SL]    31        4    319.6UA 
+[Info] [IRD_SL]     0        5    340.0UA 
+[Info] [IRD_SL]     1        5    298.4UA 
+[Info] [IRD_SL]     2        5    259.2UA 
+[Info] [IRD_SL]     3        5    224.4UA 
+[Info] [IRD_SL]     4        5    181.2UA 
+[Info] [IRD_SL]     5        5    138.6UA 
+[Info] [IRD_SL]     6        5    99.40UA 
+[Info] [IRD_SL]     7        5    62.00UA 
+[Info] [IRD_SL]     8        5    420.0UA 
+[Info] [IRD_SL]     9        5    410.0UA 
+[Info] [IRD_SL]    10        5    432.8UA 
+[Info] [IRD_SL]    11        5    408.4UA 
+[Info] [IRD_SL]    12        5    347.2UA 
+[Info] [IRD_SL]    13        5    403.2UA 
+[Info] [IRD_SL]    14        5    361.6UA 
+[Info] [IRD_SL]    15        5    330.4UA 
+[Info] [IRD_SL]    16        5    430.8UA 
+[Info] [IRD_SL]    17        5    398.4UA 
+[Info] [IRD_SL]    18        5    422.4UA 
+[Info] [IRD_SL]    19        5    412.0UA 
+[Info] [IRD_SL]    20        5    407.2UA 
+[Info] [IRD_SL]    21        5    396.8UA 
+[Info] [IRD_SL]    22        5    427.2UA 
+[Info] [IRD_SL]    23        5    386.8UA 
+[Info] [IRD_SL]    24        5    412.0UA 
+[Info] [IRD_SL]    25        5    397.6UA 
+[Info] [IRD_SL]    26        5    394.0UA 
+[Info] [IRD_SL]    27        5    396.8UA 
+[Info] [IRD_SL]    28        5    390.8UA 
+[Info] [IRD_SL]    29        5    393.6UA 
+[Info] [IRD_SL]    30        5    398.0UA 
+[Info] [IRD_SL]    31        5    372.0UA 
+[Info] [IRD_SL]     0        6    27.88UA 
+[Info] [IRD_SL]     1        6    34.04UA 
+[Info] [IRD_SL]     2        6    30.08UA 
+[Info] [IRD_SL]     3        6    29.96UA 
+[Info] [IRD_SL]     4        6    23.00UA 
+[Info] [IRD_SL]     5        6    28.76UA 
+[Info] [IRD_SL]     6        6    32.44UA 
+[Info] [IRD_SL]     7        6    23.08UA 
+[Info] [IRD_SL]     8        6    427.2UA 
+[Info] [IRD_SL]     9        6    416.8UA 
+[Info] [IRD_SL]    10        6    439.6UA 
+[Info] [IRD_SL]    11        6    380.0UA 
+[Info] [IRD_SL]    12        6    395.2UA 
+[Info] [IRD_SL]    13        6    422.4UA 
+[Info] [IRD_SL]    14        6    390.8UA 
+[Info] [IRD_SL]    15        6    436.0UA 
+[Info] [IRD_SL]    16        6    425.6UA 
+[Info] [IRD_SL]    17        6    395.2UA 
+[Info] [IRD_SL]    18        6    403.2UA 
+[Info] [IRD_SL]    19        6    428.0UA 
+[Info] [IRD_SL]    20        6    410.8UA 
+[Info] [IRD_SL]    21        6    390.0UA 
+[Info] [IRD_SL]    22        6    425.2UA 
+[Info] [IRD_SL]    23        6    369.2UA 
+[Info] [IRD_SL]    24        6    445.6UA 
+[Info] [IRD_SL]    25        6    400.4UA 
+[Info] [IRD_SL]    26        6    419.6UA 
+[Info] [IRD_SL]    27        6    394.8UA 
+[Info] [IRD_SL]    28        6    416.8UA 
+[Info] [IRD_SL]    29        6    384.0UA 
+[Info] [IRD_SL]    30        6    419.6UA 
+[Info] [IRD_SL]    31        6    394.8UA 
+[Info] [IRD_SL]     0        7    336.0UA 
+[Info] [IRD_SL]     1        7    297.2UA 
+[Info] [IRD_SL]     2        7    254.4UA 
+[Info] [IRD_SL]     3        7    215.2UA 
+[Info] [IRD_SL]     4        7    174.7UA 
+[Info] [IRD_SL]     5        7    134.0UA 
+[Info] [IRD_SL]     6        7    98.64UA 
+[Info] [IRD_SL]     7        7    58.84UA 
+[Info] [IRD_SL]     8        7    436.8UA 
+[Info] [IRD_SL]     9        7    399.6UA 
+[Info] [IRD_SL]    10        7    327.6UA 
+[Info] [IRD_SL]    11        7    354.0UA 
+[Info] [IRD_SL]    12        7    412.4UA 
+[Info] [IRD_SL]    13        7    422.0UA 
+[Info] [IRD_SL]    14        7    406.0UA 
+[Info] [IRD_SL]    15        7    418.8UA 
+[Info] [IRD_SL]    16        7    413.6UA 
+[Info] [IRD_SL]    17        7    396.4UA 
+[Info] [IRD_SL]    18        7    406.4UA 
+[Info] [IRD_SL]    19        7    426.4UA 
+[Info] [IRD_SL]    20        7    395.6UA 
+[Info] [IRD_SL]    21        7    415.6UA 
+[Info] [IRD_SL]    22        7    404.0UA 
+[Info] [IRD_SL]    23        7    408.0UA 
+[Info] [IRD_SL]    24        7    436.0UA 
+[Info] [IRD_SL]    25        7    382.8UA 
+[Info] [IRD_SL]    26        7    426.0UA 
+[Info] [IRD_SL]    27        7    369.6UA 
+[Info] [IRD_SL]    28        7    397.2UA 
+[Info] [IRD_SL]    29        7    394.8UA 
+[Info] [IRD_SL]    30        7    392.4UA 
+[Info] [IRD_SL]    31        7    410.0UA 
+[Info] [IRD_SL]     0        8    250.4UA 
+[Info] [IRD_SL]     1        8    30.88UA 
+[Info] [IRD_SL]     2        8    26.76UA 
+[Info] [IRD_SL]     3        8    30.28UA 
+[Info] [IRD_SL]     4        8    248.8UA 
+[Info] [IRD_SL]     5        8    32.44UA 
+[Info] [IRD_SL]     6        8    29.36UA 
+[Info] [IRD_SL]     7        8    7.772UA 
+[Info] [IRD_SL]     8        8    249.6UA 
+[Info] [IRD_SL]     9        8    431.6UA 
+[Info] [IRD_SL]    10        8    434.8UA 
+[Info] [IRD_SL]    11        8    414.0UA 
+[Info] [IRD_SL]    12        8    249.6UA 
+[Info] [IRD_SL]    13        8    416.8UA 
+[Info] [IRD_SL]    14        8    431.2UA 
+[Info] [IRD_SL]    15        8    430.0UA 
+[Info] [IRD_SL]    16        8    248.8UA 
+[Info] [IRD_SL]    17        8    403.6UA 
+[Info] [IRD_SL]    18        8    397.2UA 
+[Info] [IRD_SL]    19        8    402.4UA 
+[Info] [IRD_SL]    20        8    248.8UA 
+[Info] [IRD_SL]    21        8    424.8UA 
+[Info] [IRD_SL]    22        8    442.8UA 
+[Info] [IRD_SL]    23        8    420.4UA 
+[Info] [IRD_SL]    24        8    249.2UA 
+[Info] [IRD_SL]    25        8    397.6UA 
+[Info] [IRD_SL]    26        8    412.8UA 
+[Info] [IRD_SL]    27        8    392.8UA 
+[Info] [IRD_SL]    28        8    252.0UA 
+[Info] [IRD_SL]    29        8    411.2UA 
+[Info] [IRD_SL]    30        8    406.4UA 
+[Info] [IRD_SL]    31        8    399.6UA 
+[Info] [IRD_SL]     0        9    352.4UA 
+[Info] [IRD_SL]     1        9    307.6UA 
+[Info] [IRD_SL]     2        9    21.40UA 
+[Info] [IRD_SL]     3        9    227.2UA 
+[Info] [IRD_SL]     4        9    191.9UA 
+[Info] [IRD_SL]     5        9    152.6UA 
+[Info] [IRD_SL]     6        9    109.8UA 
+[Info] [IRD_SL]     7        9    355.2UA 
+[Info] [IRD_SL]     8        9    435.6UA 
+[Info] [IRD_SL]     9        9    425.6UA 
+[Info] [IRD_SL]    10        9    24.44UA 
+[Info] [IRD_SL]    11        9    415.2UA 
+[Info] [IRD_SL]    12        9    384.0UA 
+[Info] [IRD_SL]    13        9    424.8UA 
+[Info] [IRD_SL]    14        9    404.4UA 
+[Info] [IRD_SL]    15        9    416.8UA 
+[Info] [IRD_SL]    16        9    423.2UA 
+[Info] [IRD_SL]    17        9    385.6UA 
+[Info] [IRD_SL]    18        9    27.24UA 
+[Info] [IRD_SL]    19        9    406.0UA 
+[Info] [IRD_SL]    20        9    381.6UA 
+[Info] [IRD_SL]    21        9    399.2UA 
+[Info] [IRD_SL]    22        9    394.8UA 
+[Info] [IRD_SL]    23        9    372.8UA 
+[Info] [IRD_SL]    24        9    435.2UA 
+[Info] [IRD_SL]    25        9    438.8UA 
+[Info] [IRD_SL]    26        9    24.80UA 
+[Info] [IRD_SL]    27        9    386.4UA 
+[Info] [IRD_SL]    28        9    405.6UA 
+[Info] [IRD_SL]    29        9    377.2UA 
+[Info] [IRD_SL]    30        9    408.4UA 
+[Info] [IRD_SL]    31        9    383.6UA 
+[Info] [IRD_SL]     0       10    27.32UA 
+[Info] [IRD_SL]     1       10    32.36UA 
+[Info] [IRD_SL]     2       10    38.60UA 
+[Info] [IRD_SL]     3       10    21.76UA 
+[Info] [IRD_SL]     4       10    30.20UA 
+[Info] [IRD_SL]     5       10    25.88UA 
+[Info] [IRD_SL]     6       10    32.68UA 
+[Info] [IRD_SL]     7       10    431.2UA 
+[Info] [IRD_SL]     8       10    460.4UA 
+[Info] [IRD_SL]     9       10    438.8UA 
+[Info] [IRD_SL]    10       10    43.12UA 
+[Info] [IRD_SL]    11       10    430.0UA 
+[Info] [IRD_SL]    12       10    443.2UA 
+[Info] [IRD_SL]    13       10    442.4UA 
+[Info] [IRD_SL]    14       10    433.2UA 
+[Info] [IRD_SL]    15       10    418.4UA 
+[Info] [IRD_SL]    16       10    345.2UA 
+[Info] [IRD_SL]    17       10    393.6UA 
+[Info] [IRD_SL]    18       10    37.00UA 
+[Info] [IRD_SL]    19       10    415.2UA 
+[Info] [IRD_SL]    20       10    401.6UA 
+[Info] [IRD_SL]    21       10    407.2UA 
+[Info] [IRD_SL]    22       10    394.4UA 
+[Info] [IRD_SL]    23       10    381.2UA 
+[Info] [IRD_SL]    24       10    414.8UA 
+[Info] [IRD_SL]    25       10    419.2UA 
+[Info] [IRD_SL]    26       10    38.44UA 
+[Info] [IRD_SL]    27       10    407.2UA 
+[Info] [IRD_SL]    28       10    413.2UA 
+[Info] [IRD_SL]    29       10    410.8UA 
+[Info] [IRD_SL]    30       10    407.6UA 
+[Info] [IRD_SL]    31       10    399.6UA 
+[Info] [IRD_SL]     0       11    348.4UA 
+[Info] [IRD_SL]     1       11    306.0UA 
+[Info] [IRD_SL]     2       11    92.16UA 
+[Info] [IRD_SL]     3       11    228.0UA 
+[Info] [IRD_SL]     4       11    187.8UA 
+[Info] [IRD_SL]     5       11    141.2UA 
+[Info] [IRD_SL]     6       11    106.4UA 
+[Info] [IRD_SL]     7       11    448.0UA 
+[Info] [IRD_SL]     8       11    439.2UA 
+[Info] [IRD_SL]     9       11    413.6UA 
+[Info] [IRD_SL]    10       11    92.80UA 
+[Info] [IRD_SL]    11       11    425.6UA 
+[Info] [IRD_SL]    12       11    439.2UA 
+[Info] [IRD_SL]    13       11    422.8UA 
+[Info] [IRD_SL]    14       11    448.4UA 
+[Info] [IRD_SL]    15       11    428.4UA 
+[Info] [IRD_SL]    16       11    419.2UA 
+[Info] [IRD_SL]    17       11    424.4UA 
+[Info] [IRD_SL]    18       11    91.96UA 
+[Info] [IRD_SL]    19       11    417.2UA 
+[Info] [IRD_SL]    20       11    409.2UA 
+[Info] [IRD_SL]    21       11    427.6UA 
+[Info] [IRD_SL]    22       11    407.6UA 
+[Info] [IRD_SL]    23       11    434.0UA 
+[Info] [IRD_SL]    24       11    416.4UA 
+[Info] [IRD_SL]    25       11    435.6UA 
+[Info] [IRD_SL]    26       11    92.40UA 
+[Info] [IRD_SL]    27       11    398.4UA 
+[Info] [IRD_SL]    28       11    414.0UA 
+[Info] [IRD_SL]    29       11    421.2UA 
+[Info] [IRD_SL]    30       11    404.4UA 
+[Info] [IRD_SL]    31       11    410.4UA 
+[Info] [IRD_SL]     0       12    253.6UA 
+[Info] [IRD_SL]     1       12    24.80UA 
+[Info] [IRD_SL]     2       12    265.6UA 
+[Info] [IRD_SL]     3       12    27.08UA 
+[Info] [IRD_SL]     4       12    251.2UA 
+[Info] [IRD_SL]     5       12    23.44UA 
+[Info] [IRD_SL]     6       12    28.80UA 
+[Info] [IRD_SL]     7       12    430.8UA 
+[Info] [IRD_SL]     8       12    248.8UA 
+[Info] [IRD_SL]     9       12    433.2UA 
+[Info] [IRD_SL]    10       12    262.4UA 
+[Info] [IRD_SL]    11       12    419.6UA 
+[Info] [IRD_SL]    12       12    249.6UA 
+[Info] [IRD_SL]    13       12    425.2UA 
+[Info] [IRD_SL]    14       12    439.2UA 
+[Info] [IRD_SL]    15       12    378.8UA 
+[Info] [IRD_SL]    16       12    249.2UA 
+[Info] [IRD_SL]    17       12    383.6UA 
+[Info] [IRD_SL]    18       12    263.2UA 
+[Info] [IRD_SL]    19       12    419.6UA 
+[Info] [IRD_SL]    20       12    251.2UA 
+[Info] [IRD_SL]    21       12    422.4UA 
+[Info] [IRD_SL]    22       12    412.8UA 
+[Info] [IRD_SL]    23       12    398.0UA 
+[Info] [IRD_SL]    24       12    251.2UA 
+[Info] [IRD_SL]    25       12    428.0UA 
+[Info] [IRD_SL]    26       12    267.6UA 
+[Info] [IRD_SL]    27       12    398.0UA 
+[Info] [IRD_SL]    28       12    250.4UA 
+[Info] [IRD_SL]    29       12    420.0UA 
+[Info] [IRD_SL]    30       12    406.0UA 
+[Info] [IRD_SL]    31       12    408.4UA 
+[Info] [IRD_SL]     0       13    342.4UA 
+[Info] [IRD_SL]     1       13    298.8UA 
+[Info] [IRD_SL]     2       13    262.0UA 
+[Info] [IRD_SL]     3       13    219.2UA 
+[Info] [IRD_SL]     4       13    177.6UA 
+[Info] [IRD_SL]     5       13    145.0UA 
+[Info] [IRD_SL]     6       13    99.52UA 
+[Info] [IRD_SL]     7       13    396.0UA 
+[Info] [IRD_SL]     8       13    430.8UA 
+[Info] [IRD_SL]     9       13    386.4UA 
+[Info] [IRD_SL]    10       13    436.0UA 
+[Info] [IRD_SL]    11       13    424.4UA 
+[Info] [IRD_SL]    12       13    436.4UA 
+[Info] [IRD_SL]    13       13    436.0UA 
+[Info] [IRD_SL]    14       13    411.6UA 
+[Info] [IRD_SL]    15       13    434.4UA 
+[Info] [IRD_SL]    16       13    442.0UA 
+[Info] [IRD_SL]    17       13    415.6UA 
+[Info] [IRD_SL]    18       13    361.6UA 
+[Info] [IRD_SL]    19       13    436.4UA 
+[Info] [IRD_SL]    20       13    415.2UA 
+[Info] [IRD_SL]    21       13    406.8UA 
+[Info] [IRD_SL]    22       13    399.6UA 
+[Info] [IRD_SL]    23       13    411.6UA 
+[Info] [IRD_SL]    24       13    418.4UA 
+[Info] [IRD_SL]    25       13    418.4UA 
+[Info] [IRD_SL]    26       13    422.0UA 
+[Info] [IRD_SL]    27       13    392.4UA 
+[Info] [IRD_SL]    28       13    421.2UA 
+[Info] [IRD_SL]    29       13    420.8UA 
+[Info] [IRD_SL]    30       13    413.2UA 
+[Info] [IRD_SL]    31       13    393.2UA 
+[Info] [IRD_SL]     0       14    26.68UA 
+[Info] [IRD_SL]     1       14    21.56UA 
+[Info] [IRD_SL]     2       14    21.04UA 
+[Info] [IRD_SL]     3       14    29.32UA 
+[Info] [IRD_SL]     4       14    28.96UA 
+[Info] [IRD_SL]     5       14    26.00UA 
+[Info] [IRD_SL]     6       14    21.92UA 
+[Info] [IRD_SL]     7       14    427.2UA 
+[Info] [IRD_SL]     8       14    448.4UA 
+[Info] [IRD_SL]     9       14    426.8UA 
+[Info] [IRD_SL]    10       14    462.0UA 
+[Info] [IRD_SL]    11       14    416.8UA 
+[Info] [IRD_SL]    12       14    428.8UA 
+[Info] [IRD_SL]    13       14    431.6UA 
+[Info] [IRD_SL]    14       14    450.4UA 
+[Info] [IRD_SL]    15       14    433.2UA 
+[Info] [IRD_SL]    16       14    444.4UA 
+[Info] [IRD_SL]    17       14    421.2UA 
+[Info] [IRD_SL]    18       14    401.2UA 
+[Info] [IRD_SL]    19       14    444.0UA 
+[Info] [IRD_SL]    20       14    416.8UA 
+[Info] [IRD_SL]    21       14    410.0UA 
+[Info] [IRD_SL]    22       14    390.8UA 
+[Info] [IRD_SL]    23       14    422.8UA 
+[Info] [IRD_SL]    24       14    377.6UA 
+[Info] [IRD_SL]    25       14    428.0UA 
+[Info] [IRD_SL]    26       14    408.0UA 
+[Info] [IRD_SL]    27       14    423.2UA 
+[Info] [IRD_SL]    28       14    345.2UA 
+[Info] [IRD_SL]    29       14    404.4UA 
+[Info] [IRD_SL]    30       14    423.2UA 
+[Info] [IRD_SL]    31       14    402.8UA 
+[Info] [IRD_SL]     0       15    337.6UA 
+[Info] [IRD_SL]     1       15    294.4UA 
+[Info] [IRD_SL]     2       15    255.2UA 
+[Info] [IRD_SL]     3       15    215.2UA 
+[Info] [IRD_SL]     4       15    178.4UA 
+[Info] [IRD_SL]     5       15    139.7UA 
+[Info] [IRD_SL]     6       15    95.08UA 
+[Info] [IRD_SL]     7       15    418.4UA 
+[Info] [IRD_SL]     8       15    450.0UA 
+[Info] [IRD_SL]     9       15    424.8UA 
+[Info] [IRD_SL]    10       15    416.0UA 
+[Info] [IRD_SL]    11       15    406.0UA 
+[Info] [IRD_SL]    12       15    441.2UA 
+[Info] [IRD_SL]    13       15    422.8UA 
+[Info] [IRD_SL]    14       15    436.8UA 
+[Info] [IRD_SL]    15       15    424.8UA 
+[Info] [IRD_SL]    16       15    433.2UA 
+[Info] [IRD_SL]    17       15    433.2UA 
+[Info] [IRD_SL]    18       15    388.8UA 
+[Info] [IRD_SL]    19       15    396.0UA 
+[Info] [IRD_SL]    20       15    421.2UA 
+[Info] [IRD_SL]    21       15    405.2UA 
+[Info] [IRD_SL]    22       15    403.2UA 
+[Info] [IRD_SL]    23       15    404.8UA 
+[Info] [IRD_SL]    24       15    361.2UA 
+[Info] [IRD_SL]    25       15    445.6UA 
+[Info] [IRD_SL]    26       15    429.2UA 
+[Info] [IRD_SL]    27       15    404.8UA 
+[Info] [IRD_SL]    28       15    419.6UA 
+[Info] [IRD_SL]    29       15    398.0UA 
+[Info] [IRD_SL]    30       15    410.0UA 
+[Info] [IRD_SL]    31       15    408.8UA 
+[Info] [IRD_SL]     0       16    251.6UA 
+[Info] [IRD_SL]     1       16    27.96UA 
+[Info] [IRD_SL]     2       16    29.40UA 
+[Info] [IRD_SL]     3       16    16.08UA 
+[Info] [IRD_SL]     4       16    250.4UA 
+[Info] [IRD_SL]     5       16    24.08UA 
+[Info] [IRD_SL]     6       16    20.28UA 
+[Info] [IRD_SL]     7       16    432.0UA 
+[Info] [IRD_SL]     8       16    248.8UA 
+[Info] [IRD_SL]     9       16    418.0UA 
+[Info] [IRD_SL]    10       16    446.4UA 
+[Info] [IRD_SL]    11       16    433.6UA 
+[Info] [IRD_SL]    12       16    248.8UA 
+[Info] [IRD_SL]    13       16    446.0UA 
+[Info] [IRD_SL]    14       16    420.4UA 
+[Info] [IRD_SL]    15       16    424.0UA 
+[Info] [IRD_SL]    16       16    250.8UA 
+[Info] [IRD_SL]    17       16    402.0UA 
+[Info] [IRD_SL]    18       16    368.8UA 
+[Info] [IRD_SL]    19       16    420.0UA 
+[Info] [IRD_SL]    20       16    248.8UA 
+[Info] [IRD_SL]    21       16    432.0UA 
+[Info] [IRD_SL]    22       16    396.8UA 
+[Info] [IRD_SL]    23       16    417.2UA 
+[Info] [IRD_SL]    24       16    246.8UA 
+[Info] [IRD_SL]    25       16    420.4UA 
+[Info] [IRD_SL]    26       16    419.2UA 
+[Info] [IRD_SL]    27       16    394.4UA 
+[Info] [IRD_SL]    28       16    250.4UA 
+[Info] [IRD_SL]    29       16    376.0UA 
+[Info] [IRD_SL]    30       16    410.4UA 
+[Info] [IRD_SL]    31       16    401.6UA 
+[Info] [IRD_SL]     0       17    352.8UA 
+[Info] [IRD_SL]     1       17    310.8UA 
+[Info] [IRD_SL]     2       17    23.44UA 
+[Info] [IRD_SL]     3       17    228.4UA 
+[Info] [IRD_SL]     4       17    188.6UA 
+[Info] [IRD_SL]     5       17    150.8UA 
+[Info] [IRD_SL]     6       17    119.1UA 
+[Info] [IRD_SL]     7       17    414.4UA 
+[Info] [IRD_SL]     8       17    441.2UA 
+[Info] [IRD_SL]     9       17    435.2UA 
+[Info] [IRD_SL]    10       17    19.72UA 
+[Info] [IRD_SL]    11       17    424.8UA 
+[Info] [IRD_SL]    12       17    409.2UA 
+[Info] [IRD_SL]    13       17    428.8UA 
+[Info] [IRD_SL]    14       17    422.0UA 
+[Info] [IRD_SL]    15       17    438.4UA 
+[Info] [IRD_SL]    16       17    416.8UA 
+[Info] [IRD_SL]    17       17    430.4UA 
+[Info] [IRD_SL]    18       17    25.68UA 
+[Info] [IRD_SL]    19       17    407.6UA 
+[Info] [IRD_SL]    20       17    425.2UA 
+[Info] [IRD_SL]    21       17    412.0UA 
+[Info] [IRD_SL]    22       17    432.0UA 
+[Info] [IRD_SL]    23       17    417.6UA 
+[Info] [IRD_SL]    24       17    422.0UA 
+[Info] [IRD_SL]    25       17    394.0UA 
+[Info] [IRD_SL]    26       17    22.52UA 
+[Info] [IRD_SL]    27       17    426.8UA 
+[Info] [IRD_SL]    28       17    403.6UA 
+[Info] [IRD_SL]    29       17    402.8UA 
+[Info] [IRD_SL]    30       17    428.0UA 
+[Info] [IRD_SL]    31       17    391.6UA 
+[Info] [IRD_SL]     0       18    30.24UA 
+[Info] [IRD_SL]     1       18    27.52UA 
+[Info] [IRD_SL]     2       18    40.20UA 
+[Info] [IRD_SL]     3       18    30.28UA 
+[Info] [IRD_SL]     4       18    24.28UA 
+[Info] [IRD_SL]     5       18    25.88UA 
+[Info] [IRD_SL]     6       18    24.84UA 
+[Info] [IRD_SL]     7       18    434.4UA 
+[Info] [IRD_SL]     8       18    401.6UA 
+[Info] [IRD_SL]     9       18    422.8UA 
+[Info] [IRD_SL]    10       18    39.12UA 
+[Info] [IRD_SL]    11       18    409.6UA 
+[Info] [IRD_SL]    12       18    342.4UA 
+[Info] [IRD_SL]    13       18    429.6UA 
+[Info] [IRD_SL]    14       18    431.6UA 
+[Info] [IRD_SL]    15       18    386.0UA 
+[Info] [IRD_SL]    16       18    434.0UA 
+[Info] [IRD_SL]    17       18    428.0UA 
+[Info] [IRD_SL]    18       18    38.80UA 
+[Info] [IRD_SL]    19       18    384.4UA 
+[Info] [IRD_SL]    20       18    392.4UA 
+[Info] [IRD_SL]    21       18    390.4UA 
+[Info] [IRD_SL]    22       18    422.4UA 
+[Info] [IRD_SL]    23       18    387.2UA 
+[Info] [IRD_SL]    24       18    436.8UA 
+[Info] [IRD_SL]    25       18    428.0UA 
+[Info] [IRD_SL]    26       18    45.80UA 
+[Info] [IRD_SL]    27       18    398.8UA 
+[Info] [IRD_SL]    28       18    394.8UA 
+[Info] [IRD_SL]    29       18    343.6UA 
+[Info] [IRD_SL]    30       18    392.8UA 
+[Info] [IRD_SL]    31       18    395.6UA 
+[Info] [IRD_SL]     0       19    345.2UA 
+[Info] [IRD_SL]     1       19    301.6UA 
+[Info] [IRD_SL]     2       19    92.44UA 
+[Info] [IRD_SL]     3       19    224.0UA 
+[Info] [IRD_SL]     4       19    186.6UA 
+[Info] [IRD_SL]     5       19    141.2UA 
+[Info] [IRD_SL]     6       19    107.6UA 
+[Info] [IRD_SL]     7       19    405.2UA 
+[Info] [IRD_SL]     8       19    455.6UA 
+[Info] [IRD_SL]     9       19    443.2UA 
+[Info] [IRD_SL]    10       19    95.56UA 
+[Info] [IRD_SL]    11       19    421.2UA 
+[Info] [IRD_SL]    12       19    438.4UA 
+[Info] [IRD_SL]    13       19    400.0UA 
+[Info] [IRD_SL]    14       19    432.4UA 
+[Info] [IRD_SL]    15       19    444.4UA 
+[Info] [IRD_SL]    16       19    418.4UA 
+[Info] [IRD_SL]    17       19    425.2UA 
+[Info] [IRD_SL]    18       19    92.48UA 
+[Info] [IRD_SL]    19       19    418.8UA 
+[Info] [IRD_SL]    20       19    406.8UA 
+[Info] [IRD_SL]    21       19    434.4UA 
+[Info] [IRD_SL]    22       19    346.8UA 
+[Info] [IRD_SL]    23       19    413.2UA 
+[Info] [IRD_SL]    24       19    431.2UA 
+[Info] [IRD_SL]    25       19    431.2UA 
+[Info] [IRD_SL]    26       19    93.32UA 
+[Info] [IRD_SL]    27       19    355.2UA 
+[Info] [IRD_SL]    28       19    414.8UA 
+[Info] [IRD_SL]    29       19    425.6UA 
+[Info] [IRD_SL]    30       19    391.6UA 
+[Info] [IRD_SL]    31       19    398.8UA 
+[Info] [IRD_SL]     0       20    250.4UA 
+[Info] [IRD_SL]     1       20    25.84UA 
+[Info] [IRD_SL]     2       20    264.4UA 
+[Info] [IRD_SL]     3       20    27.92UA 
+[Info] [IRD_SL]     4       20    254.8UA 
+[Info] [IRD_SL]     5       20    21.68UA 
+[Info] [IRD_SL]     6       20    22.96UA 
+[Info] [IRD_SL]     7       20    437.6UA 
+[Info] [IRD_SL]     8       20    250.8UA 
+[Info] [IRD_SL]     9       20    446.0UA 
+[Info] [IRD_SL]    10       20    267.2UA 
+[Info] [IRD_SL]    11       20    430.0UA 
+[Info] [IRD_SL]    12       20    249.2UA 
+[Info] [IRD_SL]    13       20    402.8UA 
+[Info] [IRD_SL]    14       20    448.0UA 
+[Info] [IRD_SL]    15       20    365.2UA 
+[Info] [IRD_SL]    16       20    249.2UA 
+[Info] [IRD_SL]    17       20    431.2UA 
+[Info] [IRD_SL]    18       20    265.6UA 
+[Info] [IRD_SL]    19       20    420.8UA 
+[Info] [IRD_SL]    20       20    248.4UA 
+[Info] [IRD_SL]    21       20    419.6UA 
+[Info] [IRD_SL]    22       20    434.4UA 
+[Info] [IRD_SL]    23       20    434.4UA 
+[Info] [IRD_SL]    24       20    250.0UA 
+[Info] [IRD_SL]    25       20    364.4UA 
+[Info] [IRD_SL]    26       20    264.8UA 
+[Info] [IRD_SL]    27       20    416.8UA 
+[Info] [IRD_SL]    28       20    249.6UA 
+[Info] [IRD_SL]    29       20    423.6UA 
+[Info] [IRD_SL]    30       20    374.0UA 
+[Info] [IRD_SL]    31       20    408.0UA 
+[Info] [IRD_SL]     0       21    341.6UA 
+[Info] [IRD_SL]     1       21    299.2UA 
+[Info] [IRD_SL]     2       21    260.4UA 
+[Info] [IRD_SL]     3       21    224.0UA 
+[Info] [IRD_SL]     4       21    180.7UA 
+[Info] [IRD_SL]     5       21    137.0UA 
+[Info] [IRD_SL]     6       21    98.92UA 
+[Info] [IRD_SL]     7       21    439.2UA 
+[Info] [IRD_SL]     8       21    434.0UA 
+[Info] [IRD_SL]     9       21    428.8UA 
+[Info] [IRD_SL]    10       21    436.4UA 
+[Info] [IRD_SL]    11       21    418.4UA 
+[Info] [IRD_SL]    12       21    402.8UA 
+[Info] [IRD_SL]    13       21    400.4UA 
+[Info] [IRD_SL]    14       21    414.8UA 
+[Info] [IRD_SL]    15       21    456.0UA 
+[Info] [IRD_SL]    16       21    444.0UA 
+[Info] [IRD_SL]    17       21    426.4UA 
+[Info] [IRD_SL]    18       21    392.8UA 
+[Info] [IRD_SL]    19       21    413.2UA 
+[Info] [IRD_SL]    20       21    402.8UA 
+[Info] [IRD_SL]    21       21    389.6UA 
+[Info] [IRD_SL]    22       21    424.4UA 
+[Info] [IRD_SL]    23       21    394.0UA 
+[Info] [IRD_SL]    24       21    434.8UA 
+[Info] [IRD_SL]    25       21    436.8UA 
+[Info] [IRD_SL]    26       21    406.8UA 
+[Info] [IRD_SL]    27       21    352.0UA 
+[Info] [IRD_SL]    28       21    386.4UA 
+[Info] [IRD_SL]    29       21    370.0UA 
+[Info] [IRD_SL]    30       21    439.2UA 
+[Info] [IRD_SL]    31       21    402.4UA 
+[Info] [IRD_SL]     0       22    32.36UA 
+[Info] [IRD_SL]     1       22    27.28UA 
+[Info] [IRD_SL]     2       22    28.08UA 
+[Info] [IRD_SL]     3       22    21.80UA 
+[Info] [IRD_SL]     4       22    24.60UA 
+[Info] [IRD_SL]     5       22    29.32UA 
+[Info] [IRD_SL]     6       22    29.80UA 
+[Info] [IRD_SL]     7       22    422.4UA 
+[Info] [IRD_SL]     8       22    442.4UA 
+[Info] [IRD_SL]     9       22    402.4UA 
+[Info] [IRD_SL]    10       22    421.2UA 
+[Info] [IRD_SL]    11       22    438.8UA 
+[Info] [IRD_SL]    12       22    400.0UA 
+[Info] [IRD_SL]    13       22    437.2UA 
+[Info] [IRD_SL]    14       22    416.0UA 
+[Info] [IRD_SL]    15       22    407.2UA 
+[Info] [IRD_SL]    16       22    414.4UA 
+[Info] [IRD_SL]    17       22    402.4UA 
+[Info] [IRD_SL]    18       22    396.4UA 
+[Info] [IRD_SL]    19       22    420.0UA 
+[Info] [IRD_SL]    20       22    398.8UA 
+[Info] [IRD_SL]    21       22    430.0UA 
+[Info] [IRD_SL]    22       22    432.8UA 
+[Info] [IRD_SL]    23       22    413.2UA 
+[Info] [IRD_SL]    24       22    423.6UA 
+[Info] [IRD_SL]    25       22    410.0UA 
+[Info] [IRD_SL]    26       22    395.2UA 
+[Info] [IRD_SL]    27       22    403.6UA 
+[Info] [IRD_SL]    28       22    408.0UA 
+[Info] [IRD_SL]    29       22    398.4UA 
+[Info] [IRD_SL]    30       22    398.4UA 
+[Info] [IRD_SL]    31       22    393.6UA 
+[Info] [IRD_SL]     0       23    338.4UA 
+[Info] [IRD_SL]     1       23    294.8UA 
+[Info] [IRD_SL]     2       23    252.8UA 
+[Info] [IRD_SL]     3       23    213.2UA 
+[Info] [IRD_SL]     4       23    176.4UA 
+[Info] [IRD_SL]     5       23    134.8UA 
+[Info] [IRD_SL]     6       23    91.88UA 
+[Info] [IRD_SL]     7       23    437.2UA 
+[Info] [IRD_SL]     8       23    416.0UA 
+[Info] [IRD_SL]     9       23    412.0UA 
+[Info] [IRD_SL]    10       23    440.0UA 
+[Info] [IRD_SL]    11       23    432.4UA 
+[Info] [IRD_SL]    12       23    427.2UA 
+[Info] [IRD_SL]    13       23    430.0UA 
+[Info] [IRD_SL]    14       23    390.8UA 
+[Info] [IRD_SL]    15       23    410.0UA 
+[Info] [IRD_SL]    16       23    414.0UA 
+[Info] [IRD_SL]    17       23    419.6UA 
+[Info] [IRD_SL]    18       23    414.4UA 
+[Info] [IRD_SL]    19       23    429.2UA 
+[Info] [IRD_SL]    20       23    404.0UA 
+[Info] [IRD_SL]    21       23    422.0UA 
+[Info] [IRD_SL]    22       23    415.2UA 
+[Info] [IRD_SL]    23       23    392.8UA 
+[Info] [IRD_SL]    24       23    420.8UA 
+[Info] [IRD_SL]    25       23    390.4UA 
+[Info] [IRD_SL]    26       23    420.4UA 
+[Info] [IRD_SL]    27       23    382.0UA 
+[Info] [IRD_SL]    28       23    414.8UA 
+[Info] [IRD_SL]    29       23    423.6UA 
+[Info] [IRD_SL]    30       23    400.8UA 
+[Info] [IRD_SL]    31       23    390.4UA 
+[Info] [IRD_SL]     0       24    248.0UA 
+[Info] [IRD_SL]     1       24    24.96UA 
+[Info] [IRD_SL]     2       24    31.96UA 
+[Info] [IRD_SL]     3       24    29.68UA 
+[Info] [IRD_SL]     4       24    248.0UA 
+[Info] [IRD_SL]     5       24    31.16UA 
+[Info] [IRD_SL]     6       24    29.60UA 
+[Info] [IRD_SL]     7       24    401.2UA 
+[Info] [IRD_SL]     8       24    258.4UA 
+[Info] [IRD_SL]     9       24    423.2UA 
+[Info] [IRD_SL]    10       24    421.6UA 
+[Info] [IRD_SL]    11       24    413.2UA 
+[Info] [IRD_SL]    12       24    254.4UA 
+[Info] [IRD_SL]    13       24    375.2UA 
+[Info] [IRD_SL]    14       24    425.2UA 
+[Info] [IRD_SL]    15       24    375.2UA 
+[Info] [IRD_SL]    16       24    251.6UA 
+[Info] [IRD_SL]    17       24    418.4UA 
+[Info] [IRD_SL]    18       24    417.2UA 
+[Info] [IRD_SL]    19       24    360.0UA 
+[Info] [IRD_SL]    20       24    250.4UA 
+[Info] [IRD_SL]    21       24    424.0UA 
+[Info] [IRD_SL]    22       24    428.4UA 
+[Info] [IRD_SL]    23       24    402.4UA 
+[Info] [IRD_SL]    24       24    250.8UA 
+[Info] [IRD_SL]    25       24    445.2UA 
+[Info] [IRD_SL]    26       24    397.6UA 
+[Info] [IRD_SL]    27       24    406.4UA 
+[Info] [IRD_SL]    28       24    248.8UA 
+[Info] [IRD_SL]    29       24    423.2UA 
+[Info] [IRD_SL]    30       24    388.8UA 
+[Info] [IRD_SL]    31       24    401.2UA 
+[Info] [IRD_SL]     0       25    352.0UA 
+[Info] [IRD_SL]     1       25    310.0UA 
+[Info] [IRD_SL]     2       25    18.95UA 
+[Info] [IRD_SL]     3       25    232.0UA 
+[Info] [IRD_SL]     4       25    189.8UA 
+[Info] [IRD_SL]     5       25    148.2UA 
+[Info] [IRD_SL]     6       25    111.1UA 
+[Info] [IRD_SL]     7       25    446.0UA 
+[Info] [IRD_SL]     8       25    421.2UA 
+[Info] [IRD_SL]     9       25    424.8UA 
+[Info] [IRD_SL]    10       25    22.84UA 
+[Info] [IRD_SL]    11       25    368.8UA 
+[Info] [IRD_SL]    12       25    429.6UA 
+[Info] [IRD_SL]    13       25    444.0UA 
+[Info] [IRD_SL]    14       25    419.2UA 
+[Info] [IRD_SL]    15       25    417.6UA 
+[Info] [IRD_SL]    16       25    398.0UA 
+[Info] [IRD_SL]    17       25    375.6UA 
+[Info] [IRD_SL]    18       25    22.64UA 
+[Info] [IRD_SL]    19       25    412.0UA 
+[Info] [IRD_SL]    20       25    399.2UA 
+[Info] [IRD_SL]    21       25    338.0UA 
+[Info] [IRD_SL]    22       25    403.6UA 
+[Info] [IRD_SL]    23       25    428.4UA 
+[Info] [IRD_SL]    24       25    409.6UA 
+[Info] [IRD_SL]    25       25    406.4UA 
+[Info] [IRD_SL]    26       25    29.72UA 
+[Info] [IRD_SL]    27       25    403.2UA 
+[Info] [IRD_SL]    28       25    406.8UA 
+[Info] [IRD_SL]    29       25    385.2UA 
+[Info] [IRD_SL]    30       25    382.0UA 
+[Info] [IRD_SL]    31       25    445.2UA 
+[Info] [IRD_SL]     0       26    27.16UA 
+[Info] [IRD_SL]     1       26    27.92UA 
+[Info] [IRD_SL]     2       26    38.52UA 
+[Info] [IRD_SL]     3       26    27.24UA 
+[Info] [IRD_SL]     4       26    30.24UA 
+[Info] [IRD_SL]     5       26    28.64UA 
+[Info] [IRD_SL]     6       26    27.04UA 
+[Info] [IRD_SL]     7       26    424.4UA 
+[Info] [IRD_SL]     8       26    397.6UA 
+[Info] [IRD_SL]     9       26    420.8UA 
+[Info] [IRD_SL]    10       26    35.16UA 
+[Info] [IRD_SL]    11       26    431.6UA 
+[Info] [IRD_SL]    12       26    438.4UA 
+[Info] [IRD_SL]    13       26    415.6UA 
+[Info] [IRD_SL]    14       26    409.2UA 
+[Info] [IRD_SL]    15       26    432.4UA 
+[Info] [IRD_SL]    16       26    432.8UA 
+[Info] [IRD_SL]    17       26    415.2UA 
+[Info] [IRD_SL]    18       26    39.04UA 
+[Info] [IRD_SL]    19       26    368.8UA 
+[Info] [IRD_SL]    20       26    305.2UA 
+[Info] [IRD_SL]    21       26    418.0UA 
+[Info] [IRD_SL]    22       26    383.6UA 
+[Info] [IRD_SL]    23       26    404.4UA 
+[Info] [IRD_SL]    24       26    418.8UA 
+[Info] [IRD_SL]    25       26    390.8UA 
+[Info] [IRD_SL]    26       26    38.04UA 
+[Info] [IRD_SL]    27       26    366.4UA 
+[Info] [IRD_SL]    28       26    405.6UA 
+[Info] [IRD_SL]    29       26    406.8UA 
+[Info] [IRD_SL]    30       26    384.8UA 
+[Info] [IRD_SL]    31       26    410.0UA 
+[Info] [IRD_SL]     0       27    343.6UA 
+[Info] [IRD_SL]     1       27    306.8UA 
+[Info] [IRD_SL]     2       27    92.28UA 
+[Info] [IRD_SL]     3       27    223.2UA 
+[Info] [IRD_SL]     4       27    188.2UA 
+[Info] [IRD_SL]     5       27    143.1UA 
+[Info] [IRD_SL]     6       27    107.3UA 
+[Info] [IRD_SL]     7       27    396.8UA 
+[Info] [IRD_SL]     8       27    428.8UA 
+[Info] [IRD_SL]     9       27    431.2UA 
+[Info] [IRD_SL]    10       27    94.32UA 
+[Info] [IRD_SL]    11       27    399.2UA 
+[Info] [IRD_SL]    12       27    416.8UA 
+[Info] [IRD_SL]    13       27    437.6UA 
+[Info] [IRD_SL]    14       27    441.6UA 
+[Info] [IRD_SL]    15       27    422.0UA 
+[Info] [IRD_SL]    16       27    415.2UA 
+[Info] [IRD_SL]    17       27    416.0UA 
+[Info] [IRD_SL]    18       27    94.96UA 
+[Info] [IRD_SL]    19       27    360.4UA 
+[Info] [IRD_SL]    20       27    380.4UA 
+[Info] [IRD_SL]    21       27    392.4UA 
+[Info] [IRD_SL]    22       27    412.0UA 
+[Info] [IRD_SL]    23       27    396.8UA 
+[Info] [IRD_SL]    24       27    428.4UA 
+[Info] [IRD_SL]    25       27    402.8UA 
+[Info] [IRD_SL]    26       27    90.08UA 
+[Info] [IRD_SL]    27       27    415.6UA 
+[Info] [IRD_SL]    28       27    413.6UA 
+[Info] [IRD_SL]    29       27    401.2UA 
+[Info] [IRD_SL]    30       27    414.0UA 
+[Info] [IRD_SL]    31       27    422.8UA 
+[Info] [IRD_SL]     0       28    248.8UA 
+[Info] [IRD_SL]     1       28    24.56UA 
+[Info] [IRD_SL]     2       28    266.0UA 
+[Info] [IRD_SL]     3       28    27.92UA 
+[Info] [IRD_SL]     4       28    248.0UA 
+[Info] [IRD_SL]     5       28    30.08UA 
+[Info] [IRD_SL]     6       28    17.42UA 
+[Info] [IRD_SL]     7       28    418.0UA 
+[Info] [IRD_SL]     8       28    250.0UA 
+[Info] [IRD_SL]     9       28    424.8UA 
+[Info] [IRD_SL]    10       28    266.8UA 
+[Info] [IRD_SL]    11       28    417.2UA 
+[Info] [IRD_SL]    12       28    250.0UA 
+[Info] [IRD_SL]    13       28    404.8UA 
+[Info] [IRD_SL]    14       28    426.0UA 
+[Info] [IRD_SL]    15       28    395.6UA 
+[Info] [IRD_SL]    16       28    252.8UA 
+[Info] [IRD_SL]    17       28    396.8UA 
+[Info] [IRD_SL]    18       28    265.2UA 
+[Info] [IRD_SL]    19       28    352.0UA 
+[Info] [IRD_SL]    20       28    250.0UA 
+[Info] [IRD_SL]    21       28    414.0UA 
+[Info] [IRD_SL]    22       28    395.6UA 
+[Info] [IRD_SL]    23       28    382.0UA 
+[Info] [IRD_SL]    24       28    252.0UA 
+[Info] [IRD_SL]    25       28    402.4UA 
+[Info] [IRD_SL]    26       28    266.8UA 
+[Info] [IRD_SL]    27       28    399.2UA 
+[Info] [IRD_SL]    28       28    250.0UA 
+[Info] [IRD_SL]    29       28    390.8UA 
+[Info] [IRD_SL]    30       28    393.2UA 
+[Info] [IRD_SL]    31       28    408.4UA 
+[Info] [IRD_SL]     0       29    339.6UA 
+[Info] [IRD_SL]     1       29    298.4UA 
+[Info] [IRD_SL]     2       29    258.0UA 
+[Info] [IRD_SL]     3       29    221.6UA 
+[Info] [IRD_SL]     4       29    180.8UA 
+[Info] [IRD_SL]     5       29    138.7UA 
+[Info] [IRD_SL]     6       29    103.0UA 
+[Info] [IRD_SL]     7       29    410.4UA 
+[Info] [IRD_SL]     8       29    396.4UA 
+[Info] [IRD_SL]     9       29    425.6UA 
+[Info] [IRD_SL]    10       29    378.0UA 
+[Info] [IRD_SL]    11       29    422.4UA 
+[Info] [IRD_SL]    12       29    443.2UA 
+[Info] [IRD_SL]    13       29    427.6UA 
+[Info] [IRD_SL]    14       29    420.0UA 
+[Info] [IRD_SL]    15       29    423.2UA 
+[Info] [IRD_SL]    16       29    382.0UA 
+[Info] [IRD_SL]    17       29    416.8UA 
+[Info] [IRD_SL]    18       29    408.8UA 
+[Info] [IRD_SL]    19       29    363.6UA 
+[Info] [IRD_SL]    20       29    385.2UA 
+[Info] [IRD_SL]    21       29    422.4UA 
+[Info] [IRD_SL]    22       29    391.2UA 
+[Info] [IRD_SL]    23       29    418.8UA 
+[Info] [IRD_SL]    24       29    392.8UA 
+[Info] [IRD_SL]    25       29    420.0UA 
+[Info] [IRD_SL]    26       29    378.4UA 
+[Info] [IRD_SL]    27       29    386.8UA 
+[Info] [IRD_SL]    28       29    381.6UA 
+[Info] [IRD_SL]    29       29    404.4UA 
+[Info] [IRD_SL]    30       29    409.6UA 
+[Info] [IRD_SL]    31       29    392.4UA 
+[Info] [IRD_SL]     0       30    22.76UA 
+[Info] [IRD_SL]     1       30    35.04UA 
+[Info] [IRD_SL]     2       30    29.84UA 
+[Info] [IRD_SL]     3       30    26.68UA 
+[Info] [IRD_SL]     4       30    27.28UA 
+[Info] [IRD_SL]     5       30    30.44UA 
+[Info] [IRD_SL]     6       30    26.36UA 
+[Info] [IRD_SL]     7       30    438.0UA 
+[Info] [IRD_SL]     8       30    342.0UA 
+[Info] [IRD_SL]     9       30    381.6UA 
+[Info] [IRD_SL]    10       30    398.4UA 
+[Info] [IRD_SL]    11       30    380.4UA 
+[Info] [IRD_SL]    12       30    396.4UA 
+[Info] [IRD_SL]    13       30    433.6UA 
+[Info] [IRD_SL]    14       30    406.0UA 
+[Info] [IRD_SL]    15       30    430.4UA 
+[Info] [IRD_SL]    16       30    299.6UA 
+[Info] [IRD_SL]    17       30    390.4UA 
+[Info] [IRD_SL]    18       30    374.4UA 
+[Info] [IRD_SL]    19       30    409.6UA 
+[Info] [IRD_SL]    20       30    426.8UA 
+[Info] [IRD_SL]    21       30    392.0UA 
+[Info] [IRD_SL]    22       30    405.6UA 
+[Info] [IRD_SL]    23       30    408.8UA 
+[Info] [IRD_SL]    24       30    404.8UA 
+[Info] [IRD_SL]    25       30    414.8UA 
+[Info] [IRD_SL]    26       30    406.8UA 
+[Info] [IRD_SL]    27       30    406.0UA 
+[Info] [IRD_SL]    28       30    356.8UA 
+[Info] [IRD_SL]    29       30    399.2UA 
+[Info] [IRD_SL]    30       30    360.0UA 
+[Info] [IRD_SL]    31       30    387.6UA 
+[Info] [IRD_SL]     0       31    334.4UA 
+[Info] [IRD_SL]     1       31    298.8UA 
+[Info] [IRD_SL]     2       31    253.2UA 
+[Info] [IRD_SL]     3       31    216.4UA 
+[Info] [IRD_SL]     4       31    175.5UA 
+[Info] [IRD_SL]     5       31    135.1UA 
+[Info] [IRD_SL]     6       31    88.08UA 
+[Info] [IRD_SL]     7       31    416.4UA 
+[Info] [IRD_SL]     8       31    426.4UA 
+[Info] [IRD_SL]     9       31    421.6UA 
+[Info] [IRD_SL]    10       31    415.6UA 
+[Info] [IRD_SL]    11       31    416.0UA 
+[Info] [IRD_SL]    12       31    406.8UA 
+[Info] [IRD_SL]    13       31    414.8UA 
+[Info] [IRD_SL]    14       31    412.4UA 
+[Info] [IRD_SL]    15       31    445.2UA 
+[Info] [IRD_SL]    16       31    383.6UA 
+[Info] [IRD_SL]    17       31    384.0UA 
+[Info] [IRD_SL]    18       31    410.8UA 
+[Info] [IRD_SL]    19       31    404.4UA 
+[Info] [IRD_SL]    20       31    396.8UA 
+[Info] [IRD_SL]    21       31    396.8UA 
+[Info] [IRD_SL]    22       31    388.4UA 
+[Info] [IRD_SL]    23       31    386.8UA 
+[Info] [IRD_SL]    24       31    415.2UA 
+[Info] [IRD_SL]    25       31    422.8UA 
+[Info] [IRD_SL]    26       31    397.2UA 
+[Info] [IRD_SL]    27       31    396.4UA 
+[Info] [IRD_SL]    28       31    393.2UA 
+[Info] [IRD_SL]    29       31    393.2UA 
+[Info] [IRD_SL]    30       31    391.2UA 
+[Info] [IRD_SL]    31       31    392.0UA 
+[Info] [SCAN_COMPLETED]
+TEST TIME :  0.5137998E+03S  
